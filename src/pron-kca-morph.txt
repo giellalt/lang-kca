@@ -1,0 +1,37 @@
+LEXICON PronRoot
+ма+Pers+Pron+1Sg+Nom:ма K "I / minä" ;
+нӑӊ+Pers+Pron+2Sg+Nom:нӑӊ K "you (sg.) / sinä" ;
+ӆув+Pers+Pron+3Sg+Nom:ӆув K "he, she, it / hän, se" ;
+мыӊ+Pers+Pron+1Pl+Nom:мыӊ K "we / me" ;
+нын+Pers+Pron+2Pl+Nom:нын K "you (pl.) / te" ;
+ӆыв+Pers+Pron+3Pl+Nom:ӆыв K "they / he, ne" ;
+
+ма+Pers+Pron+1Sg+Acc:мӑнєт K ;
+ма+Pers+Pron+1Sg+Dat:мӑнєм K ;
+нӑӊ+Pers+Pron+2Sg+Acc:нӑӊти K ;
+
+!!DEM
+тӑм+Dem+Prox+Adn:тӑм K ;
+тум+Dem+Distl+Pron+Nom:тум K ;
+ҫи+Dem+Anaph+Pron+Nom:ҫи K ;
+тӑм+Dem+Prox+Pron+Nom:тӑми K ;
+тум+Dem+Distl+Pron+Nom:туми K ;
+ҫи+Dem+Anaph+Pron+Nom:ҫит K ;
+
+тӑм+Dem+Prox+Pron+Lat:тив K ;
+тум+Dem+Distl+Pron+Lat:тухи K ;
+ҫи+Dem+Anaph+Pron+Lat:ҫив K ;
+тӑм+Dem+Prox+Pron+Lat:тивӑӆт K ;
+тум+Dem+Distl+Pron+Lat:тухӑӆт K ;
+ҫи+Dem+Anaph+Pron+Lat:ҫивӑӆт K ;
+
+тӑм+Dem+Prox+Pron+Loc:тӑта K ;
+тум+Dem+Distl+Pron+Loc:тута K ;
+ҫи+Dem+Anaph+Pron+Loc:ҫӑта K ;
+
+тӑм+Dem+Prox+Pron+Abl:тӑӆта K ;
+тум+Dem+Distl+Pron+Abl:туӆта K ;
+ҫи+Dem+Anaph+Pron+Abl:ҫӑӆта K ;
+
+!!
+
