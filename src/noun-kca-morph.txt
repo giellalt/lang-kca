@@ -52,6 +52,9 @@ LEXICON N-kosja ! кося-й-
 LEXICON N-ewi ! эви : эве-
  NOUN ;
 
+LEXICON N-kev
+ NOUN ;
+
 LEXICON NounTag 
  NOUN ;
 
@@ -79,11 +82,14 @@ LEXICON NOUN
 +N: SGNOMSUF ;
 +N: SGLATSUF ;
 +N: SGLOCSUF ;
-+N: SGTRASUF ;
 
 +N: PLNOMSUF ;
++N: PLLATSUF ;
++N: PLLOCSUF ;
 
 +N: DUNOMSUF ;
++N: DULATSUF ;
++N: DULOCSUF ;
 
 
 !!!!!!!!!!!!!!!!!!
@@ -96,6 +102,9 @@ LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
 :%- PROP ;
 :%' PROP ;
 
+LEXICON Prop-kev
++Prop: NOUN ;
+
 LEXICON PROP
 +Prop: NOUN ;
 
@@ -107,17 +116,17 @@ LEXICON SGNOMSUF
 +Sg+Nom: K ;
 
 LEXICON SGLATSUF
-+Dial/K+Sg+Lat:%>а K ;
-+Dial/Sh+Sg+Lat:%>а K ;
-+Dial/О+Sg+Lat:%>на K ;
++Sg+Lat:%>а K ;
+!+Dial/K+Sg+Lat:%>а K ;
+!+Dial/О+Sg+Lat:%>на K ;
 
 LEXICON SGLOCSUF
-+Dial/K+Sg+Loc:%>ăн K ;
-+Dial/Sh+Sg+Loc:%>на K ;
-+Dial/О+Sg+Loc:%>на K ;
++Sg+Loc:%>н K ;
+!+Dial/K+Sg+Loc:%>ăн K ;
+!+Dial/О+Sg+Loc:%>на K ;
 
-LEXICON SGTRASUF
-+Dial/О+Sg+Tra:%>J1i K ;
+!LEXICON SGTRASUF
+!+Dial/О+Sg+Tra:%>J1i K ;
 
 !!
 
@@ -127,29 +136,40 @@ LEXICON SGTRASUF
 LEXICON PLNOMSUF
 +Pl+Nom:%>ăт K ;
 
+LEXICON PLLATSUF
++Pl+Nom:%>ăт%>а K ;
+
+LEXICON PLLOCSUF
++Pl+Nom:%>ăт%>ӑн K ;
+
 
 
 !! Start Dual
 LEXICON DUNOMSUF
 +Du+Nom:%>ӈăн K ;
 
+LEXICON DULATSUF
++Du+Nom:%>ӈăн%>а K ;
+
+LEXICON DULOCSUF
++Du+Nom:%>ӈăн%>ӑн K ;
+
 
 
 
 !! Possessor Indices
+!! Single possessum
 
 LEXICON PX1SG
-+Px1Sg:%>V1м PXCases ; ! or is this -V1м
-
++Px1Sg:%>ем PXCases ; ! or is this -V1м
 
 LEXICON PX2SG
-+Px2Sg:%>V1н PXCases ; !
++Px2Sg:%>ен PXCases ; !
 
 LEXICON PX3SG
 +Px3Sg+Nom:%>V1ӆ K ; !
 
 LEXICON PXCases
 +Nom: K ;
-+Gen: K ;
-+Acc: K ;
++Lat:%>а K ;
 +Loc:%>ӑн K ;
