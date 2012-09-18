@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lg>
          <l>и</l>
          <stg>
-            <st kcaContlex="Num1">и</st>
+            <st Contlex="Num1">и</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>кӑт</l>
          <stg>
-            <st kcaContlex="Num1">кӑт</st>
+            <st Contlex="Num1">кӑт</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -50,7 +50,7 @@
       <lg>
          <l>хуӆум</l>
          <stg>
-            <st kcaContlex="Num1">хуӆум</st>
+            <st Contlex="Num1">хуӆум</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -72,7 +72,7 @@
       <lg>
          <l>няӆ</l>
          <stg>
-            <st kcaContlex="Num1">няӆ</st>
+            <st Contlex="Num1">няӆ</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -94,7 +94,7 @@
       <lg>
          <l>вет</l>
          <stg>
-            <st kcaContlex="Num1">вет</st>
+            <st Contlex="Num1">вет</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -116,7 +116,7 @@
       <lg>
          <l>хут</l>
          <stg>
-            <st kcaContlex="Num1">хут</st>
+            <st Contlex="Num1">хут</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -138,7 +138,7 @@
       <lg>
          <l>ӆапӑт</l>
          <stg>
-            <st kcaContlex="Num1">ӆапӑт</st>
+            <st Contlex="Num1">ӆапӑт</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -160,7 +160,7 @@
       <lg>
          <l>нивӑӆ</l>
          <stg>
-            <st kcaContlex="Num1">нивӑӆ</st>
+            <st Contlex="Num1">нивӑӆ</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -182,7 +182,7 @@
       <lg>
          <l>яртъяӊ</l>
          <stg>
-            <st kcaContlex="Num1">яртъяӊ</st>
+            <st Contlex="Num1">яртъяӊ</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -204,7 +204,7 @@
       <lg>
          <l>яӊ</l>
          <stg>
-            <st kcaContlex="Num1">яӊ</st>
+            <st Contlex="Num1">яӊ</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -226,7 +226,7 @@
       <lg>
          <l>сот</l>
          <stg>
-            <st kcaContlex="Num1">сот</st>
+            <st Contlex="Num1">сот</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -248,7 +248,7 @@
       <lg>
          <l>ҫюрӑс</l>
          <stg>
-            <st kcaContlex="Num1">ҫюрӑс</st>
+            <st Contlex="Num1">ҫюрӑс</st>
          </stg>
       </lg>
       <pos>CARD</pos>
