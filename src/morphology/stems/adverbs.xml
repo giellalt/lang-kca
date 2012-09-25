@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <entry>
+      <lg>
+         <l>нух</l>
+         <stg>
+            <st Contlex="SpatLat-0Arg">нух</st>
+            <st Contlex="SpatLat-0Arg">нухӆи</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>up</t>
+            </tg>
+            <tg lang="fin">
+               <t>ylös</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ким</l>
+         <stg>
+            <st Contlex="SpatLat-0Arg">ким</st>
+            <st Contlex="SpatLat-0Arg">кимӆи</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>out</t>
+               <t>outside</t>
+            </tg>
+            <tg lang="fin">
+               <t>ulos</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>юхи</l>
+         <stg>
+            <st Contlex="SpatLat-0Arg">юхи</st>
+            <st Contlex="SpatLat-0Arg">юхӆи</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>home</t>
+            </tg>
+            <tg lang="fin">
+               <t>kotiin</t>
+               <t>kotia</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нух</l>
+         <stg>
+            <st Contlex="SpatLoc-0Arg">нум</st>
+            <st Contlex="SpatLoc-0Arg">нумӑн</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>above</t>
+            </tg>
+            <tg lang="fin">
+               <t>ylhäällä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ким</l>
+         <stg>
+            <st Contlex="SpatLoc-0Arg">камӑн</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>out</t>
+               <t>outside</t>
+            </tg>
+            <tg lang="fin">
+               <t>ulkona</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>юӆӑн</l>
+         <stg>
+            <st Contlex="SpatLoc-0Arg">юӆӑн</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>at home</t>
+            </tg>
+            <tg lang="fin">
+               <t>kotona</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>юӆӑн</l>
+         <stg>
+            <st Contlex="SpatLoc-0Arg">юӆӑн</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>at home</t>
+            </tg>
+            <tg lang="fin">
+               <t>kotona</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нух</l>
+         <stg>
+            <st Contlex="SpatAbl-0Arg">нумӑӆta</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from above</t>
+            </tg>
+            <tg lang="fin">
+               <t>ylhäältä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ким</l>
+         <stg>
+            <st Contlex="SpatAbl-0Arg">камӑӆta</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from outside</t>
+            </tg>
+            <tg lang="fin">
+               <t>ulkoa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>юхи</l>
+         <stg>
+            <st Contlex="SpatAbl-0Arg">юӆta</st>
+         </stg>
+      </lg>
+      <pos>SPAT-0ARG</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>from home</t>
+            </tg>
+            <tg lang="fin">
+               <t>kotoa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+</r>
