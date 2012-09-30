@@ -1,14 +1,25 @@
 !! Pronoun inflection
-!! Khanty
+!! Northern Khanty
+
+LEXICON PersSg1
++Pron+Pers+Sg1+Nom: K ;
+
+LEXICON PersSg2
++Pron+Pers+Sg2+Nom: K ;
+
+LEXICON PersSg3
++Pron+Pers+Sg3+Nom: K ;
+
+LEXICON PersPl1
++Pron+Pers+Pl1+Nom: K ;
+
+LEXICON PersPl2
++Pron+Pers+Pl2+Nom: K ;
+
+LEXICON PersPl3
++Pron+Pers+Pl3+Nom: K ;
 
 LEXICON PronRoot
-ма+Pers+Pron+1Sg+Nom:ма K "I / minä" ;
-нӑӊ+Pers+Pron+2Sg+Nom:нӑӊ K "you (sg.) / sinä" ;
-ӆув+Pers+Pron+3Sg+Nom:ӆув K "he, she, it / hän, se" ;
-мыӊ+Pers+Pron+1Pl+Nom:мыӊ K "we / me" ;
-нын+Pers+Pron+2Pl+Nom:нын K "you (pl.) / te" ;
-ӆыв+Pers+Pron+3Pl+Nom:ӆыв K "they / he, ne" ;
-
 ма+Pers+Pron+1Sg+Acc:мӑнєт K ;
 ма+Pers+Pron+1Sg+Dat:мӑнєм K ;
 нӑӊ+Pers+Pron+2Sg+Acc:нӑӊти K ;

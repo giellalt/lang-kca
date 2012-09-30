@@ -1,21 +1,22 @@
 !! Verb inflection
 !!
 
+
 LEXICON VTag
- V-VowelStem ;
- V-ConsonantStem ;
+ V-tu ;
+ V-pon ;
 
-LEXICON V-VowelStem
- V-VowelStem-Prs ;
+LEXICON V-tu
+ V-tu-Prs ;
 
-LEXICON V-ConsonantStem
- V-ConsonantStem-Prs ;
+LEXICON V-pon
+ V-pon-Prs ;
 
 !!!!!!!!!!!!!
 !! PRESENT !!
 !!!!!!!!!!!!!
 
-LEXICON V-VowelStem-Prs
+LEXICON V-tu-Prs
 !! Subject
 +Pred+Ind+Prs+Sc1Sg:%>ӆ%>ам K ; !
 +Pred+Ind+Prs+Sc2Sg:%>ӆ%>ӑн K ; !
@@ -47,7 +48,7 @@ LEXICON V-VowelStem-Prs
 +Pred+Ind+Prs+Pc2Pl:%>ӆ%>айты K ; !
 +Pred+Ind+Prs+Pc3Pl:%>ӆ%>айт K ; !
 
-LEXICON V-ConsonantStem-Prs
+LEXICON V-pon-Prs
 !! Subject
 +Pred+Ind+Prs+Sc1Sg:%>ӆ%>ам K ; !
 +Pred+Ind+Prs+Sc2Sg:%>ӆ%>ӑн K ; !
@@ -124,7 +125,7 @@ LEXICON V-ConsonantStem-Prs
 
 !!
 
-!LEXICON V-ConsonantStem
+!LEXICON V-pon-Stem
 
 
 
