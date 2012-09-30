@@ -6,7 +6,7 @@
       <lg>
          <l>нӑӊ</l>
          <stg>
-            <st Contlex="PronTag">нӑӊ</st>
+            <st Contlex="PersSg2">нӑӊ</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -31,7 +31,7 @@
       <lg>
          <l>ма</l>
          <stg>
-            <st Contlex="PronTag">ма</st>
+            <st Contlex="PersSg1">ма</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -53,7 +53,7 @@
       <lg>
          <l>ӆув</l>
          <stg>
-            <st Contlex="PronTag">ӆув</st>
+            <st Contlex="PersSg3">ӆув</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -78,7 +78,7 @@
       <lg>
          <l>ӆыв</l>
          <stg>
-            <st Contlex="PronTag">ӆыв</st>
+            <st Contlex="PersPl3">ӆыв</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -101,7 +101,7 @@
       <lg>
          <l>мыӊ</l>
          <stg>
-            <st Contlex="PronTag">мыӊ</st>
+            <st Contlex="PersPl1">мыӊ</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -123,7 +123,7 @@
       <lg>
          <l>нын</l>
          <stg>
-            <st Contlex="PronTag">нын</st>
+            <st Contlex="PersPl2">нын</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>

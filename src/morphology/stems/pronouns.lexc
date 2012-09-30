@@ -1,9 +1,9 @@
 
 LEXICON pronouns
 
-нӑӊ:нӑӊ PronTag  "" ;
-ма:ма PronTag  "I" ;
-ӆув:ӆув PronTag  "he" ;
-ӆыв:ӆыв PronTag  "they" ;
-мыӊ:мыӊ PronTag  "we" ;
-нын:нын PronTag  "" ;
+нӑӊ:нӑӊ PersSg2  "" ;
+ма:ма PersSg1  "I" ;
+ӆув:ӆув PersSg3  "he" ;
+ӆыв:ӆыв PersPl3  "they" ;
+мыӊ:мыӊ PersPl1  "we" ;
+нын:нын PersPl2  "" ;
