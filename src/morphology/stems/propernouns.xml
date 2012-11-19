@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lg>
          <l>Вансявт</l>
@@ -12,22 +10,20 @@
          </stg>
       </lg>
       <pos>PROP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>Vansyavt</t>
-            </tg>
-            <tg lang="fin">
-               <t>Vansjavt</t>
-            </tg>
-            <tg lang="rus">
-               <t>Вансявт</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>Vansyavt</t>
+         </tg>
+         <tg lang="fin">
+            <t>Vansjavt</t>
+         </tg>
+         <tg lang="rus">
+            <t>Вансявт</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -37,22 +33,20 @@
          </stg>
       </lg>
       <pos>PROP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>Gornoknyazevsk</t>
-            </tg>
-            <tg lang="fin">
-               <t>Gornoknjazevsk</t>
-            </tg>
-            <tg lang="rus">
-               <t>Горнокнязевск</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>Gornoknyazevsk</t>
+         </tg>
+         <tg lang="fin">
+            <t>Gornoknjazevsk</t>
+         </tg>
+         <tg lang="rus">
+            <t>Горнокнязевск</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -62,22 +56,20 @@
          </stg>
       </lg>
       <pos>PROP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>The Urals</t>
-            </tg>
-            <tg lang="fin">
-               <t>Uraalit</t>
-            </tg>
-            <tg lang="rus">
-               <t>Урал</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>The Urals</t>
+         </tg>
+         <tg lang="fin">
+            <t>Uraalit</t>
+         </tg>
+         <tg lang="rus">
+            <t>Урал</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -87,22 +79,20 @@
          </stg>
       </lg>
       <pos>PROP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>Salekhard</t>
-            </tg>
-            <tg lang="fin">
-               <t>Salehard</t>
-            </tg>
-            <tg lang="rus">
-               <t>Салехард</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>Salekhard</t>
+         </tg>
+         <tg lang="fin">
+            <t>Salehard</t>
+         </tg>
+         <tg lang="rus">
+            <t>Салехард</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -112,21 +102,19 @@
          </stg>
       </lg>
       <pos>PROP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>Beriozovo</t>
-            </tg>
-            <tg lang="fin">
-               <t>Berjozovo</t>
-            </tg>
-            <tg lang="rus">
-               <t>Берёзово</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>Beriozovo</t>
+         </tg>
+         <tg lang="fin">
+            <t>Berjozovo</t>
+         </tg>
+         <tg lang="rus">
+            <t>Берёзово</t>
+         </tg>
+      </mg>
    </entry>
 </r>
