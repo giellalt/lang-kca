@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lg>
          <l>акӑтты</l>
@@ -10,22 +10,20 @@
          </stg>
       </lg>
       <pos>V</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>to gather</t>
-            </tg>
-            <tg lang="fin">
-               <t>kerätä</t>
-            </tg>
-            <tg lang="rus">
-               <t>собирать</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>to gather</t>
+         </tg>
+         <tg lang="fin">
+            <t>kerätä</t>
+         </tg>
+         <tg lang="rus">
+            <t>собирать</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -35,22 +33,20 @@
          </stg>
       </lg>
       <pos>V</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>??</t>
-            </tg>
-            <tg lang="fin">
-               <t>??</t>
-            </tg>
-            <tg lang="rus">
-               <t>??</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>??</t>
+         </tg>
+         <tg lang="fin">
+            <t>??</t>
+         </tg>
+         <tg lang="rus">
+            <t>??</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -60,21 +56,19 @@
          </stg>
       </lg>
       <pos>V</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>??</t>
-            </tg>
-            <tg lang="fin">
-               <t>??</t>
-            </tg>
-            <tg lang="rus">
-               <t>??</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>??</t>
+         </tg>
+         <tg lang="fin">
+            <t>??</t>
+         </tg>
+         <tg lang="rus">
+            <t>??</t>
+         </tg>
+      </mg>
    </entry>
 </r>

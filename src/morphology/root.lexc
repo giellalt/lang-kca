@@ -137,7 +137,6 @@ LEXICON Root
 Abbreviation	;
 Acronym		;
 Punctuation	;
-wordToNumeral	;
 
 CONJUNCTION ;
 SUBJUNCTION ;
