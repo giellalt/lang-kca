@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lg>
          <l>и</l>
@@ -10,19 +10,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>one</t>
-            </tg>
-            <tg lang="fin">
-               <t>yksi</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>one</t>
+         </tg>
+         <tg lang="fin">
+            <t>yksi</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -32,19 +30,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>two</t>
-            </tg>
-            <tg lang="fin">
-               <t>kaksi</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>two</t>
+         </tg>
+         <tg lang="fin">
+            <t>kaksi</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -54,19 +50,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -76,19 +70,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>four</t>
-            </tg>
-            <tg lang="fin">
-               <t>neljä</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>four</t>
+         </tg>
+         <tg lang="fin">
+            <t>neljä</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -98,19 +90,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>five</t>
-            </tg>
-            <tg lang="fin">
-               <t>viisi</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>five</t>
+         </tg>
+         <tg lang="fin">
+            <t>viisi</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -120,19 +110,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>six</t>
-            </tg>
-            <tg lang="fin">
-               <t>kuusi</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>six</t>
+         </tg>
+         <tg lang="fin">
+            <t>kuusi</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -142,19 +130,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>seven</t>
-            </tg>
-            <tg lang="fin">
-               <t>seitsemän</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>seven</t>
+         </tg>
+         <tg lang="fin">
+            <t>seitsemän</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -164,19 +150,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>eight</t>
-            </tg>
-            <tg lang="fin">
-               <t>kahdeksan</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>eight</t>
+         </tg>
+         <tg lang="fin">
+            <t>kahdeksan</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -186,19 +170,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>nine</t>
-            </tg>
-            <tg lang="fin">
-               <t>yhdeksän</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>nine</t>
+         </tg>
+         <tg lang="fin">
+            <t>yhdeksän</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -208,19 +190,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>ten</t>
-            </tg>
-            <tg lang="fin">
-               <t>kymmenen</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>ten</t>
+         </tg>
+         <tg lang="fin">
+            <t>kymmenen</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -230,19 +210,17 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>sata</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>sata</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -252,18 +230,16 @@
          </stg>
       </lg>
       <pos>CARD</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>thousand</t>
-            </tg>
-            <tg lang="fin">
-               <t>tuhat</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>thousand</t>
+         </tg>
+         <tg lang="fin">
+            <t>tuhat</t>
+         </tg>
+      </mg>
    </entry>
 </r>

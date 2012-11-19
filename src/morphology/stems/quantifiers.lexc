@@ -2,15 +2,15 @@
 
 LEXICON quantifiers
 
-и:и Num1  "one" ;
-кӑт:кӑт Num1  "two" ;
-хуӆум:хуӆум Num1  "three" ;
-няӆ:няӆ Num1  "four" ;
-вет:вет Num1  "five" ;
-хут:хут Num1  "six" ;
-ӆапӑт:ӆапӑт Num1  "seven" ;
-нивӑӆ:нивӑӆ Num1  "eight" ;
-яртъяӊ:яртъяӊ Num1  "nine" ;
-яӊ:яӊ Num1  "ten" ;
-сот:сот Num1  "hundred" ;
-ҫюрӑс:ҫюрӑс Num1  "thousand" ;
+и:и Num1  "" ;
+кӑт:кӑт Num1  "" ;
+хуӆум:хуӆум Num1  "" ;
+няӆ:няӆ Num1  "" ;
+вет:вет Num1  "" ;
+хут:хут Num1  "" ;
+ӆапӑт:ӆапӑт Num1  "" ;
+нивӑӆ:нивӑӆ Num1  "" ;
+яртъяӊ:яртъяӊ Num1  "" ;
+яӊ:яӊ Num1  "" ;
+сот:сот Num1  "" ;
+ҫюрӑс:ҫюрӑс Num1  "" ;
