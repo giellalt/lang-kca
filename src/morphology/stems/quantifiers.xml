@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>и</l>
          <stg>
@@ -21,8 +21,8 @@
             <t>yksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кӑт</l>
          <stg>
@@ -41,8 +41,8 @@
             <t>kaksi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>хуӆум</l>
          <stg>
@@ -61,8 +61,8 @@
             <t>kolme</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>няӆ</l>
          <stg>
@@ -81,8 +81,8 @@
             <t>neljä</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вет</l>
          <stg>
@@ -101,8 +101,8 @@
             <t>viisi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>хут</l>
          <stg>
@@ -121,8 +121,8 @@
             <t>kuusi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ӆапӑт</l>
          <stg>
@@ -141,8 +141,8 @@
             <t>seitsemän</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нивӑӆ</l>
          <stg>
@@ -161,8 +161,8 @@
             <t>kahdeksan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>яртъяӊ</l>
          <stg>
@@ -181,8 +181,8 @@
             <t>yhdeksän</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>яӊ</l>
          <stg>
@@ -201,8 +201,8 @@
             <t>kymmenen</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сот</l>
          <stg>
@@ -221,8 +221,8 @@
             <t>sata</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ҫюрӑс</l>
          <stg>
@@ -241,5 +241,5 @@
             <t>tuhat</t>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>

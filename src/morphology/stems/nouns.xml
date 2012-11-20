@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>эви</l>
          <stg>
@@ -21,8 +21,8 @@
             <t>tyttö</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кев</l>
          <stg>
@@ -41,8 +41,8 @@
             <t>kivi</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кося</l>
          <stg>
@@ -61,8 +61,8 @@
             <t>herra</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>нюхәс</l>
          <stg>
@@ -81,8 +81,8 @@
             <t>sable</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>хоп</l>
          <stg>
@@ -101,8 +101,8 @@
             <t>vene</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>хот</l>
          <stg>
@@ -121,5 +121,5 @@
             <t>talo</t>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>
