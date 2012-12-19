@@ -1,17 +1,17 @@
 
 LEXICON adverbs
 
-нух:нух SpatLat-0Arg  "up" ;
-нух:нухӆи SpatLat-0Arg  "up" ;
-ким:ким SpatLat-0Arg  "out" ;
-ким:кимӆи SpatLat-0Arg  "out" ;
-юхи:юхи SpatLat-0Arg  "home" ;
-юхи:юхӆи SpatLat-0Arg  "home" ;
-нух:нум SpatLoc-0Arg  "above" ;
-нух:нумӑн SpatLoc-0Arg  "above" ;
-ким:камӑн SpatLoc-0Arg  "out" ;
-юӆӑн:юӆӑн SpatLoc-0Arg  "at home" ;
-юӆӑн:юӆӑн SpatLoc-0Arg  "at home" ;
-нух:нумӑӆta SpatAbl-0Arg  "from above" ;
-ким:камӑӆta SpatAbl-0Arg  "from outside" ;
-юхи:юӆta SpatAbl-0Arg  "from home" ;
+нух:нух AdvSpatLat  "up" ;
+нух:нухӆи AdvSpatLat  "up" ;
+ким:ким AdvSpatLat  "out" ;
+ким:кимӆи AdvSpatLat  "out" ;
+юхи:юхи AdvSpatLat  "home" ;
+юхи:юхӆи AdvSpatLat  "home" ;
+нух:нум AdvSpatLoc  "above" ;
+нух:нумӑн AdvSpatLoc  "above" ;
+ким:камӑн AdvSpatLoc  "out" ;
+юӆӑн:юӆӑн AdvSpatLoc  "at home" ;
+юӆӑн:юӆӑн AdvSpatLoc  "at home" ;
+нух:нумӑӆta AdvSpatAbl  "from above" ;
+ким:камӑӆta AdvSpatAbl  "from outside" ;
+юхи:юӆta AdvSpatAbl  "from home" ;
