@@ -6,7 +6,7 @@
       <lg>
          <l>и</l>
          <stg>
-            <st Contlex="Num1">и</st>
+            <st Contlex="NumTag">и</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -26,7 +26,7 @@
       <lg>
          <l>кӑт</l>
          <stg>
-            <st Contlex="Num1">кӑт</st>
+            <st Contlex="NumTag">кӑт</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -46,7 +46,7 @@
       <lg>
          <l>хуӆум</l>
          <stg>
-            <st Contlex="Num1">хуӆум</st>
+            <st Contlex="NumTag">хуӆум</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -66,7 +66,7 @@
       <lg>
          <l>няӆ</l>
          <stg>
-            <st Contlex="Num1">няӆ</st>
+            <st Contlex="NumTag">няӆ</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -86,7 +86,7 @@
       <lg>
          <l>вет</l>
          <stg>
-            <st Contlex="Num1">вет</st>
+            <st Contlex="NumTag">вет</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -106,7 +106,7 @@
       <lg>
          <l>хут</l>
          <stg>
-            <st Contlex="Num1">хут</st>
+            <st Contlex="NumTag">хут</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -126,7 +126,7 @@
       <lg>
          <l>ӆапӑт</l>
          <stg>
-            <st Contlex="Num1">ӆапӑт</st>
+            <st Contlex="NumTag">ӆапӑт</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -146,7 +146,7 @@
       <lg>
          <l>нивӑӆ</l>
          <stg>
-            <st Contlex="Num1">нивӑӆ</st>
+            <st Contlex="NumTag">нивӑӆ</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -166,7 +166,7 @@
       <lg>
          <l>яртъяӊ</l>
          <stg>
-            <st Contlex="Num1">яртъяӊ</st>
+            <st Contlex="NumTag">яртъяӊ</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -186,7 +186,7 @@
       <lg>
          <l>яӊ</l>
          <stg>
-            <st Contlex="Num1">яӊ</st>
+            <st Contlex="NumTag">яӊ</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -206,7 +206,7 @@
       <lg>
          <l>сот</l>
          <stg>
-            <st Contlex="Num1">сот</st>
+            <st Contlex="NumTag">сот</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -226,7 +226,7 @@
       <lg>
          <l>ҫюрӑс</l>
          <stg>
-            <st Contlex="Num1">ҫюрӑс</st>
+            <st Contlex="NumTag">ҫюрӑс</st>
          </stg>
       </lg>
       <pos>CARD</pos>
