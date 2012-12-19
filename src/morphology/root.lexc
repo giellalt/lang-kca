@@ -205,13 +205,13 @@ LEXICON MannerTag
 LEXICON SpatTag
 +Spat: K ;
 
-LEXICON SpatLat-0Arg
+LEXICON AdvSpatLat
 +Spat+Lat+Adv: K ; 
 
-LEXICON SpatLoc-0Arg
+LEXICON AdvSpatLoc
 +Spat+Loc+Adv: K ;
 
-LEXICON SpatAbl-0Arg
+LEXICON AdvSpatAbl
 +Spat+Abl+Adv: K ;
 
 LEXICON CASESUF

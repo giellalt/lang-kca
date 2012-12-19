@@ -9,12 +9,5 @@ LEXICON NumTag
 +Qnt+Adn: K ;
 +Qnt+Der/MWN: # ;
 
-LEXICON DNUM
-+Qnt+Adn: K ;
-+Qnt+Der/MWN: # ;
-
-LEXICON NNUM
-+Qnt+Adn: K ;
-+Qnt+Der/MWN: # ;
 
 ! vim: set ft=xfst-lexc:
