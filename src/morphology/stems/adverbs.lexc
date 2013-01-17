@@ -1,17 +1,17 @@
 
 LEXICON adverbs
 
-нух:нух AdvSpatLat  "up" ;
-нух:нухӆи AdvSpatLat  "up" ;
-ким:ким AdvSpatLat  "out" ;
-ким:кимӆи AdvSpatLat  "out" ;
-юхи:юхи AdvSpatLat  "home" ;
-юхи:юхӆи AdvSpatLat  "home" ;
-нух:нум AdvSpatLoc  "above" ;
-нух:нумӑн AdvSpatLoc  "above" ;
-ким:камӑн AdvSpatLoc  "out" ;
-юӆӑн:юӆӑн AdvSpatLoc  "at home" ;
-юӆӑн:юӆӑн AdvSpatLoc  "at home" ;
-нух:нумӑӆta AdvSpatAbl  "from above" ;
-ким:камӑӆta AdvSpatAbl  "from outside" ;
-юхи:юӆta AdvSpatAbl  "from home" ;
+нух:нух AdvSpatLat  "ylös" ;
+нух:нухӆи AdvSpatLat  "ylös" ;
+ким:ким AdvSpatLat  "ulos" ;
+ким:кимӆи AdvSpatLat  "ulos" ;
+юхи:юхи AdvSpatLat  "kotiin" ;
+юхи:юхӆи AdvSpatLat  "kotiin" ;
+нух:нум AdvSpatLoc  "ylhäällä" ;
+нух:нумӑн AdvSpatLoc  "ylhäällä" ;
+ким:камӑн AdvSpatLoc  "ulkona" ;
+юӆӑн:юӆӑн AdvSpatLoc  "kotona" ;
+юӆӑн:юӆӑн AdvSpatLoc  "kotona" ;
+нух:нумӑӆta AdvSpatAbl  "ylhäältä" ;
+ким:камӑӆta AdvSpatAbl  "ulkoa" ;
+юхи:юӆta AdvSpatAbl  "kotoa" ;
