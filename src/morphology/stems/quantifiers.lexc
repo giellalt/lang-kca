@@ -1,15 +1,15 @@
 
 LEXICON quantifiers
 
-и:и NumTag  "one" ;
-кӑт:кӑт NumTag  "two" ;
-хуӆум:хуӆум NumTag  "three" ;
-няӆ:няӆ NumTag  "four" ;
-вет:вет NumTag  "five" ;
-хут:хут NumTag  "six" ;
-ӆапӑт:ӆапӑт NumTag  "seven" ;
-нивӑӆ:нивӑӆ NumTag  "eight" ;
-яртъяӊ:яртъяӊ NumTag  "nine" ;
-яӊ:яӊ NumTag  "ten" ;
-сот:сот NumTag  "hundred" ;
-ҫюрӑс:ҫюрӑс NumTag  "thousand" ;
+и:и NumTag  "yksi" ;
+кӑт:кӑт NumTag  "kaksi" ;
+хуӆум:хуӆум NumTag  "kolme" ;
+няӆ:няӆ NumTag  "neljä" ;
+вет:вет NumTag  "viisi" ;
+хут:хут NumTag  "kuusi" ;
+ӆапӑт:ӆапӑт NumTag  "seitsemän" ;
+нивӑӆ:нивӑӆ NumTag  "kahdeksan" ;
+яртъяӊ:яртъяӊ NumTag  "yhdeksän" ;
+яӊ:яӊ NumTag  "kymmenen" ;
+сот:сот NumTag  "sata" ;
+ҫюрӑс:ҫюрӑс NumTag  "tuhat" ;
