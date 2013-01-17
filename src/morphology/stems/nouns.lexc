@@ -1,9 +1,9 @@
 
 LEXICON nouns
 
-эви:эви N-ewi  "girl" ;
-кев:кев N-kev  "rock" ;
-кося:кося N-kosja  "master" ;
+эви:эви N-ewi  "tyttö" ;
+кев:кев N-kev  "kivi" ;
+кося:кося N-kosja  "herra" ;
 нюхәс:нюхәс NounTag  "sable" ;
-хоп:хоп N-kev  "boat" ;
-хот:хот NounTag  "house" ;
+хоп:хоп N-kev  "vene" ;
+хот:хот NounTag  "talo" ;
