@@ -1,17 +1,13 @@
 
 
-These pages document our Khanty parser.
+!!! Dynamic documentation
 
 * [Links to generated source file documentation|Links.html]
-
-
-!!! Source files
-
-* [stems|https://victorio.uit.no/langtech/trunk/langs/kca/src/morphology/stems/]   
+* Source files: [stems|https://victorio.uit.no/langtech/trunk/langs/kca/src/morphology/stems/]   
   / [affixes|https://victorio.uit.no/langtech/trunk/langs/kca/src/morphology/affixes/] 
   / [twolc|https://victorio.uit.no/langtech/trunk/langs/kca/src/phonology/kca-phon.twolc]   
   / [yaml|https://victorio.uit.no/langtech/trunk/langs/kca/test/src/morphology/]
-  / [paradigm|http://giellatekno.uit.no/cgi/p-kca.fin.html]
+* Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-kca.fin.html]
   / [text|http://giellatekno.uit.no/cgi/d-kca.fin.html]
 
 !!! Grammatical issues
