@@ -1,5 +1,5 @@
-!! Verb inflection
-!!
+!! !!!Verb inflection
+
 
 
 LEXICON VTag
@@ -12,9 +12,9 @@ LEXICON V-tu
 LEXICON V-pon
  V-pon-Prs ;
 
-!!!!!!!!!!!!!
-!! PRESENT !!
-!!!!!!!!!!!!!
+! ===========
+!! !!PRESENT 
+! ===========
 
 LEXICON V-tu-Prs
 !! Subject
@@ -84,73 +84,75 @@ LEXICON V-pon-Prs
 !! -ӆ-эм Ӆӆ
 
 
-!!!!!!!!!!!!!!!
-!! PRETERITE !!
-!!!!!!!!!!!!!!!
+!
+!! PRETERITE 
+!
 
 
 
 
-!!!!!!!!!!!!!!!!
-!! IMPERATIVE !!
-!!!!!!!!!!!!!!!!
+!
+!! IMPERATIVE 
+!
 
 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!
-!! CONDITIONAL PRESENT !!
-!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
-
-!!!!!!!!!!!!!!!
-!! REFLEXIVE !!
-!!!!!!!!!!!!!!!
-
-!! PRESENT !!
-
-
-
-!! IMPERFECT !!
-
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!
-!! CONDITIONAL PRESENT !!
-!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!! CONDITIONAL PRESENT
+!
 
 
 
 
-!!
+!
+!! REFLEXIVE 
+!
+
+!! PRESENT 
+
+
+
+!! IMPERFECT 
+
+
+
+!
+!! CONDITIONAL PRESENT 
+!
+
+
+
+
+!
 
 !LEXICON V-pon-Stem
 
 
 
-!!!!!!!!!!!!!!!!
-!! IMPERATIVE !!
-!!!!!!!!!!!!!!!!
+!
+!! IMPERATIVE 
+!
 
 
 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!! CONDITIONAL !!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!! CONDITIONAL 
+!
 
 
 
-!!!!!!!!!!!!!!!
-!! REFLEXIVE !!
-!!!!!!!!!!!!!!!
+!
+!! REFLEXIVE 
+!
 
 
 
 
 
-!! INFINITIVE !!
+!! INFINITIVE 
+
+!! -ty -infinitive added
 
 +Der/ты+Inf:ты K ;
 +Der/ты+Inf+Lat:тыя K ;

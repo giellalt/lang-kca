@@ -1,5 +1,4 @@
-!! Noun inflection
-!! Khanty
+!! !!!Noun inflection in Khanty
 
 
 LEXICON N-kosja ! кося-й-
@@ -15,7 +14,7 @@ LEXICON NounTag
  NOUN ;
 
 
-!! 
+
 
 LEXICON NOUN
 +N: SGNOMSUF ;
@@ -30,9 +29,9 @@ LEXICON NOUN
 +N: DULATSUF ;
 +N: DULOCSUF ;
 
-!!!!!!!!!!!!!!!!!!
-!! ACTUAL CASES !!
-!!!!!!!!!!!!!!!!!!
+! ================
+!! !!ACTUAL CASES 
+! ================
 
 LEXICON SGNOMSUF
 +Sg+Nom: K ;
@@ -50,7 +49,7 @@ LEXICON SGLOCSUF
 !LEXICON SGTRASUF
 !+Dial/О+Sg+Tra:%>J1i K ;
 
-!!
+
 
 
 
@@ -80,6 +79,7 @@ LEXICON DULOCSUF
 
 
 !! Possessor Indices
+
 !! Single possessum
 
 LEXICON PX1SG
