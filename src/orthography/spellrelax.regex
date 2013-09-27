@@ -51,7 +51,8 @@ Ö (->) Ø,
 я́ (->) я, # Russian long vowel, accept short
 ё (->) е, # Russian long vowel, accept je pro jo
 ы́ (->) ы, # Russian long vowel, accept short
-ю́ (->) ю # Russian long vowel, accept short
+ю́ (->) ю, # Russian long vowel, accept short
+̆о (->) о # Russian combining breve  vowel, accept vowel
 ;
 
 # Explanation:

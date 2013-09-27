@@ -14,13 +14,13 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>Vansyavt</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>Vansjavt</t>
          </tg>
-         <tg lang="rus">
+         <tg xml:lang="rus">
             <t>Вансявт</t>
          </tg>
       </mg>
@@ -37,13 +37,13 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>Gornoknyazevsk</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>Gornoknjazevsk</t>
          </tg>
-         <tg lang="rus">
+         <tg xml:lang="rus">
             <t>Горнокнязевск</t>
          </tg>
       </mg>
@@ -60,13 +60,13 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>The Urals</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>Uraalit</t>
          </tg>
-         <tg lang="rus">
+         <tg xml:lang="rus">
             <t>Урал</t>
          </tg>
       </mg>
@@ -83,13 +83,13 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>Salekhard</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>Salehard</t>
          </tg>
-         <tg lang="rus">
+         <tg xml:lang="rus">
             <t>Салехард</t>
          </tg>
       </mg>
@@ -106,13 +106,13 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>Beriozovo</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>Berjozovo</t>
          </tg>
-         <tg lang="rus">
+         <tg xml:lang="rus">
             <t>Берёзово</t>
          </tg>
       </mg>
