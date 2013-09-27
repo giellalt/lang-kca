@@ -14,10 +14,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>one</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>yksi</t>
          </tg>
       </mg>
@@ -34,10 +34,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>two</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kaksi</t>
          </tg>
       </mg>
@@ -54,10 +54,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>three</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kolme</t>
          </tg>
       </mg>
@@ -74,10 +74,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>four</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>neljä</t>
          </tg>
       </mg>
@@ -94,10 +94,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>five</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>viisi</t>
          </tg>
       </mg>
@@ -114,10 +114,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>six</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kuusi</t>
          </tg>
       </mg>
@@ -134,10 +134,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>seven</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>seitsemän</t>
          </tg>
       </mg>
@@ -154,10 +154,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>eight</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kahdeksan</t>
          </tg>
       </mg>
@@ -174,10 +174,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>nine</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>yhdeksän</t>
          </tg>
       </mg>
@@ -194,10 +194,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>ten</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kymmenen</t>
          </tg>
       </mg>
@@ -214,10 +214,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>hundred</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>sata</t>
          </tg>
       </mg>
@@ -234,10 +234,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>thousand</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>tuhat</t>
          </tg>
       </mg>

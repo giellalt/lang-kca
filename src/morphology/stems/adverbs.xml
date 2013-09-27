@@ -15,10 +15,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>up</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>ylös</t>
          </tg>
       </mg>
@@ -36,11 +36,11 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>out</t>
             <t>outside</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>ulos</t>
          </tg>
       </mg>
@@ -58,10 +58,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>home</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kotiin</t>
             <t>kotia</t>
          </tg>
@@ -80,10 +80,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>above</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>ylhäällä</t>
          </tg>
       </mg>
@@ -100,11 +100,11 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>out</t>
             <t>outside</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>ulkona</t>
          </tg>
       </mg>
@@ -121,10 +121,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>at home</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kotona</t>
          </tg>
       </mg>
@@ -141,10 +141,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>at home</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kotona</t>
          </tg>
       </mg>
@@ -161,10 +161,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>from above</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>ylhäältä</t>
          </tg>
       </mg>
@@ -181,10 +181,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>from outside</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>ulkoa</t>
          </tg>
       </mg>
@@ -201,10 +201,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>from home</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kotoa</t>
          </tg>
       </mg>
