@@ -20,9 +20,13 @@
 Multichar_Symbols
 !! Analysis symbols
 !! ----------------
-!! The morphological analyses of wordforms of UNDEFINED language are presented
+!! The morphological analyses of wordforms of NORTHERN KHANTY language are presented
 !! in this system in terms of following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
+
+!! These letters are hopefully are not a problem
+Ԯ ! u+052E CYRILLIC CAPITAL LETTER EL WITH DESENDER
+ԯ ! u+052F CYRILLIC SMALL LETTER EL WITH DESENDER
 
 !! The parts-of-speech are:
  +N +A +Adv +V
