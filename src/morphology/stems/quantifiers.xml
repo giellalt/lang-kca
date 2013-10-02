@@ -44,9 +44,9 @@
    </e>
    <e>
       <lg>
-         <l>хуӆум</l>
+         <l>хуԯум</l>
          <stg>
-            <st Contlex="NumTag">хуӆум</st>
+            <st Contlex="NumTag">хуԯум</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -64,9 +64,9 @@
    </e>
    <e>
       <lg>
-         <l>няӆ</l>
+         <l>няԯ</l>
          <stg>
-            <st Contlex="NumTag">няӆ</st>
+            <st Contlex="NumTag">няԯ</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -124,9 +124,9 @@
    </e>
    <e>
       <lg>
-         <l>ӆапӑт</l>
+         <l>ԯапӑт</l>
          <stg>
-            <st Contlex="NumTag">ӆапӑт</st>
+            <st Contlex="NumTag">ԯапӑт</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -144,9 +144,9 @@
    </e>
    <e>
       <lg>
-         <l>нивӑӆ</l>
+         <l>нивӑԯ</l>
          <stg>
-            <st Contlex="NumTag">нивӑӆ</st>
+            <st Contlex="NumTag">нивӑԯ</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -164,9 +164,9 @@
    </e>
    <e>
       <lg>
-         <l>яртъяӊ</l>
+         <l>яртъяң</l>
          <stg>
-            <st Contlex="NumTag">яртъяӊ</st>
+            <st Contlex="NumTag">яртъяң</st>
          </stg>
       </lg>
       <pos>CARD</pos>
@@ -184,9 +184,9 @@
    </e>
    <e>
       <lg>
-         <l>яӊ</l>
+         <l>яң</l>
          <stg>
-            <st Contlex="NumTag">яӊ</st>
+            <st Contlex="NumTag">яң</st>
          </stg>
       </lg>
       <pos>CARD</pos>

@@ -35,17 +35,17 @@ LEXICON PronRoot
 тӑм+Dem+Prox+Pron+Lat:тив K ;
 тум+Dem+Distl+Pron+Lat:тухи K ;
 ҫи+Dem+Anaph+Pron+Lat:ҫив K ;
-тӑм+Dem+Prox+Pron+Lat:тивӑӆт K ;
-тум+Dem+Distl+Pron+Lat:тухӑӆт K ;
-ҫи+Dem+Anaph+Pron+Lat:ҫивӑӆт K ;
+тӑм+Dem+Prox+Pron+Lat:тивӑԯт K ;
+тум+Dem+Distl+Pron+Lat:тухӑԯт K ;
+ҫи+Dem+Anaph+Pron+Lat:ҫивӑԯт K ;
 
 тӑм+Dem+Prox+Pron+Loc:тӑта K ;
 тум+Dem+Distl+Pron+Loc:тута K ;
 ҫи+Dem+Anaph+Pron+Loc:ҫӑта K ;
 
-тӑм+Dem+Prox+Pron+Abl:тӑӆта K ;
-тум+Dem+Distl+Pron+Abl:туӆта K ;
-ҫи+Dem+Anaph+Pron+Abl:ҫӑӆта K ;
+тӑм+Dem+Prox+Pron+Abl:тӑԯта K ;
+тум+Dem+Distl+Pron+Abl:туԯта K ;
+ҫи+Dem+Anaph+Pron+Abl:ҫӑԯта K ;
 
 !!
 

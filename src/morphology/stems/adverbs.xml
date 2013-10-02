@@ -7,7 +7,7 @@
          <l>нух</l>
          <stg>
             <st Contlex="AdvSpatLat">нух</st>
-            <st Contlex="AdvSpatLat">нухӆи</st>
+            <st Contlex="AdvSpatLat">нухԯи</st>
          </stg>
       </lg>
       <pos>ADV-SPAT</pos>
@@ -28,7 +28,7 @@
          <l>ким</l>
          <stg>
             <st Contlex="AdvSpatLat">ким</st>
-            <st Contlex="AdvSpatLat">кимӆи</st>
+            <st Contlex="AdvSpatLat">кимԯи</st>
          </stg>
       </lg>
       <pos>ADV-SPAT</pos>
@@ -50,7 +50,7 @@
          <l>юхи</l>
          <stg>
             <st Contlex="AdvSpatLat">юхи</st>
-            <st Contlex="AdvSpatLat">юхӆи</st>
+            <st Contlex="AdvSpatLat">юхԯи</st>
          </stg>
       </lg>
       <pos>ADV-SPAT</pos>
@@ -111,9 +111,9 @@
    </e>
    <e>
       <lg>
-         <l>юӆӑн</l>
+         <l>юԯӑн</l>
          <stg>
-            <st Contlex="AdvSpatLoc">юӆӑн</st>
+            <st Contlex="AdvSpatLoc">юԯӑн</st>
          </stg>
       </lg>
       <pos>ADV-SPAT</pos>
@@ -131,9 +131,9 @@
    </e>
    <e>
       <lg>
-         <l>юӆӑн</l>
+         <l>юԯӑн</l>
          <stg>
-            <st Contlex="AdvSpatLoc">юӆӑн</st>
+            <st Contlex="AdvSpatLoc">юԯӑн</st>
          </stg>
       </lg>
       <pos>ADV-SPAT</pos>
@@ -153,7 +153,7 @@
       <lg>
          <l>нух</l>
          <stg>
-            <st Contlex="AdvSpatAbl">нумӑӆta</st>
+            <st Contlex="AdvSpatAbl">нумӑԯta</st>
          </stg>
       </lg>
       <pos>ADV-SPAT</pos>
@@ -173,7 +173,7 @@
       <lg>
          <l>ким</l>
          <stg>
-            <st Contlex="AdvSpatAbl">камӑӆta</st>
+            <st Contlex="AdvSpatAbl">камӑԯta</st>
          </stg>
       </lg>
       <pos>ADV-SPAT</pos>
@@ -193,7 +193,7 @@
       <lg>
          <l>юхи</l>
          <stg>
-            <st Contlex="AdvSpatAbl">юӆta</st>
+            <st Contlex="AdvSpatAbl">юԯta</st>
          </stg>
       </lg>
       <pos>ADV-SPAT</pos>

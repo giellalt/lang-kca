@@ -4,9 +4,9 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>нӑӊ</l>
+         <l>нӑң</l>
          <stg>
-            <st Contlex="PersSg2">нӑӊ</st>
+            <st Contlex="PersSg2">нӑң</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -47,9 +47,9 @@
    </e>
    <e>
       <lg>
-         <l>ӆув</l>
+         <l>ԯув</l>
          <stg>
-            <st Contlex="PersSg3">ӆув</st>
+            <st Contlex="PersSg3">ԯув</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -70,9 +70,9 @@
    </e>
    <e>
       <lg>
-         <l>ӆыв</l>
+         <l>ԯыв</l>
          <stg>
-            <st Contlex="PersPl3">ӆыв</st>
+            <st Contlex="PersPl3">ԯыв</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>
@@ -91,9 +91,9 @@
    </e>
    <e>
       <lg>
-         <l>мыӊ</l>
+         <l>мың</l>
          <stg>
-            <st Contlex="PersPl1">мыӊ</st>
+            <st Contlex="PersPl1">мың</st>
          </stg>
       </lg>
       <pos>PRON-PERS</pos>

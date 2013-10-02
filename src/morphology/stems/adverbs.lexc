@@ -2,16 +2,16 @@
 LEXICON adverbs
 
 нух:нух AdvSpatLat  "ylös" ;
-нух:нухӆи AdvSpatLat  "ylös" ;
+нух:нухԯи AdvSpatLat  "ylös" ;
 ким:ким AdvSpatLat  "ulos" ;
-ким:кимӆи AdvSpatLat  "ulos" ;
+ким:кимԯи AdvSpatLat  "ulos" ;
 юхи:юхи AdvSpatLat  "kotiin" ;
-юхи:юхӆи AdvSpatLat  "kotiin" ;
+юхи:юхԯи AdvSpatLat  "kotiin" ;
 нух:нум AdvSpatLoc  "ylhäällä" ;
 нух:нумӑн AdvSpatLoc  "ylhäällä" ;
 ким:камӑн AdvSpatLoc  "ulkona" ;
-юӆӑн:юӆӑн AdvSpatLoc  "kotona" ;
-юӆӑн:юӆӑн AdvSpatLoc  "kotona" ;
-нух:нумӑӆta AdvSpatAbl  "ylhäältä" ;
-ким:камӑӆta AdvSpatAbl  "ulkoa" ;
-юхи:юӆta AdvSpatAbl  "kotoa" ;
+юԯӑн:юԯӑн AdvSpatLoc  "kotona" ;
+юԯӑн:юԯӑн AdvSpatLoc  "kotona" ;
+нух:нумӑԯta AdvSpatAbl  "ylhäältä" ;
+ким:камӑԯta AdvSpatAbl  "ulkoa" ;
+юхи:юԯta AdvSpatAbl  "kotoa" ;
