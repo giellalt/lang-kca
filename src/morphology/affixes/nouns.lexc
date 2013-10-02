@@ -53,7 +53,7 @@ LEXICON SGLOCSUF
 
 
 
-!! Start Plural
+!! !Start Plural
 LEXICON PLNOMSUF
 +Pl+Nom:%>ăт K ;
 
@@ -65,15 +65,15 @@ LEXICON PLLOCSUF
 
 
 
-!! Start Dual
+!! !Start Dual
 LEXICON DUNOMSUF
-+Du+Nom:%>ӈăн K ;
++Du+Nom:%>ңăн K ;
 
 LEXICON DULATSUF
-+Du+Nom:%>ӈăн%>а K ;
++Du+Nom:%>ңăн%>а K ;
 
 LEXICON DULOCSUF
-+Du+Nom:%>ӈăн%>ӑн K ;
++Du+Nom:%>ңăн%>ӑн K ;
 
 
 
@@ -89,7 +89,7 @@ LEXICON PX2SG
 +Px2Sg:%>ен PXCases ; !
 
 LEXICON PX3SG
-+Px3Sg+Nom:%>V1ӆ K ; !
++Px3Sg+Nom:%>V1ԯ K ; !
 
 LEXICON PXCases
 +Nom: K ;

@@ -3,13 +3,13 @@ LEXICON quantifiers
 
 и:и NumTag  "yksi" ;
 кӑт:кӑт NumTag  "kaksi" ;
-хуӆум:хуӆум NumTag  "kolme" ;
-няӆ:няӆ NumTag  "neljä" ;
+хуԯум:хуԯум NumTag  "kolme" ;
+няԯ:няԯ NumTag  "neljä" ;
 вет:вет NumTag  "viisi" ;
 хут:хут NumTag  "kuusi" ;
-ӆапӑт:ӆапӑт NumTag  "seitsemän" ;
-нивӑӆ:нивӑӆ NumTag  "kahdeksan" ;
-яртъяӊ:яртъяӊ NumTag  "yhdeksän" ;
-яӊ:яӊ NumTag  "kymmenen" ;
+ԯапӑт:ԯапӑт NumTag  "seitsemän" ;
+нивӑԯ:нивӑԯ NumTag  "kahdeksan" ;
+яртъяң:яртъяң NumTag  "yhdeksän" ;
+яң:яң NumTag  "kymmenen" ;
 сот:сот NumTag  "sata" ;
 ҫюрӑс:ҫюрӑс NumTag  "tuhat" ;
