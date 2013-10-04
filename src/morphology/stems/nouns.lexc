@@ -1,9 +1,22 @@
 
 LEXICON nouns
 
-эви:эви N-ewi  "tyttö" ;
-кев:кев N-kev  "kivi" ;
-кося:кося N-kosja  "herra" ;
-нюхәс:нюхәс NounTag  "sable" ;
-хоп:хоп N-kev  "vene" ;
-хот:хот NounTag  "talo" ;
+эви:эви N_ЭВИ  "tyttö" ;
+кев:кев N_КЕВ  "kivi" ;
+кося:кося N_КОСЯ  "herra" ;
+нюхәс:нюхәс N_  "sable" ;
+тохԯаңхоп:тохԯаң#хоп N_КЕВ  "lentokone" ;
+хоп:хоп N_КЕВ  "vene" ;
+хот:хот N_  "talo" ;
+нэпек:нэпек N_  "paperi" ;
+вер:вер N_  "asia; työ" ;
+пуш:пуш N_  "kerta" ;
+мув:мув N_  "maa" ;
+ԯапат:ԯапат N_  "viikko" ;
+ԯапат% хутмет:ԯапат% хутмет N_  "lauantai" ;
+унтԯор% тыԯащ:унтԯор% тыԯащ N_  "elokuu" ;
+щёхар% тыԯащ:щёхар% тыԯащ N_  "syyskuu" ;
+няврэм:няврэм N_  "lapsi" ;
+яԯаптаԯ% тыԯащ:яԯаптаԯ% тыԯащ N_  "tammikuu" ;
+хатԯ:хатԯ N_  "päivä" ;
+таԯ:таԯ N_  "vuosi" ;

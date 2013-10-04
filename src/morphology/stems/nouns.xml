@@ -6,7 +6,7 @@
       <lg>
          <l>эви</l>
          <stg>
-            <st Contlex="N-ewi">эви</st>
+            <st Contlex="N_ЭВИ">эви</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -26,7 +26,7 @@
       <lg>
          <l>кев</l>
          <stg>
-            <st Contlex="N-kev">кев</st>
+            <st Contlex="N_КЕВ">кев</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -46,7 +46,7 @@
       <lg>
          <l>кося</l>
          <stg>
-            <st Contlex="N-kosja">кося</st>
+            <st Contlex="N_КОСЯ">кося</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -66,7 +66,7 @@
       <lg>
          <l>нюхәс</l>
          <stg>
-            <st Contlex="NounTag">нюхәс</st>
+            <st Contlex="N_">нюхәс</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -84,9 +84,29 @@
    </e>
    <e>
       <lg>
+         <l>тохԯаңхоп</l>
+         <stg>
+            <st Contlex="N_КЕВ">тохԯаң#хоп</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>airplane</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>lentokone</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l>хоп</l>
          <stg>
-            <st Contlex="N-kev">хоп</st>
+            <st Contlex="N_КЕВ">хоп</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -106,7 +126,7 @@
       <lg>
          <l>хот</l>
          <stg>
-            <st Contlex="NounTag">хот</st>
+            <st Contlex="N_">хот</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -122,4 +142,245 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l>нэпек</l>
+         <stg>
+            <st Contlex="N_">нэпек</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>paper; book</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>paperi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>вер</l>
+         <stg>
+            <st Contlex="N_">вер</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>work</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>asia; työ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>пуш</l>
+         <stg>
+            <st Contlex="N_">пуш</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>time</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kerta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>мув</l>
+         <stg>
+            <st Contlex="N_">мув</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>land</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>maa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>ԯапат</l>
+         <stg>
+            <st Contlex="N_">ԯапат</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>week</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>viikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>ԯапат хутмет</l>
+         <stg>
+            <st Contlex="N_">ԯапат хутмет</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>Saturday</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>lauantai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>унтԯор тыԯащ</l>
+         <stg>
+            <st Contlex="N_">унтԯор тыԯащ</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>August</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>elokuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>щёхар тыԯащ</l>
+         <stg>
+            <st Contlex="N_">щёхар тыԯащ</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>September</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>syyskuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>няврэм</l>
+         <stg>
+            <st Contlex="N_">няврэм</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>child</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>lapsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>яԯаптаԯ тыԯащ</l>
+         <stg>
+            <st Contlex="N_">яԯаптаԯ тыԯащ</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>January</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>tammikuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>хатԯ</l>
+         <stg>
+            <st Contlex="N_">хатԯ</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>day</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>päivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>таԯ</l>
+         <stg>
+            <st Contlex="N_">таԯ</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>year</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>vuosi</t>
+         </tg>
+      </mg>
+   </e>
+
 </r>

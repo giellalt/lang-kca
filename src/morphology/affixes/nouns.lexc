@@ -1,16 +1,16 @@
 !! !!!Noun inflection in Khanty
 
 
-LEXICON N-kosja ! кося-й-
+LEXICON N_КОСЯ ! кося-й-
 :й NOUN ;
 
-LEXICON N-ewi ! эви : эве-
+LEXICON N_ЭВИ ! эви : эве-
  NOUN ;
 
-LEXICON N-kev
+LEXICON N_КЕВ
  NOUN ;
 
-LEXICON NounTag 
+LEXICON N_ 
  NOUN ;
 
 
@@ -42,7 +42,7 @@ LEXICON SGLATSUF
 !+Dial/О+Sg+Lat:%>на K ;
 
 LEXICON SGLOCSUF
-+Sg+Loc:%>н K ;
++Sg+Loc:%>ан K ;
 !+Dial/K+Sg+Loc:%>ăн K ;
 !+Dial/О+Sg+Loc:%>на K ;
 
@@ -55,7 +55,7 @@ LEXICON SGLOCSUF
 
 !! !Start Plural
 LEXICON PLNOMSUF
-+Pl+Nom:%>ăт K ;
++Pl+Nom:%>ат K ;
 
 LEXICON PLLATSUF
 +Pl+Nom:%>ăт%>а K ;
@@ -89,7 +89,7 @@ LEXICON PX2SG
 +Px2Sg:%>ен PXCases ; !
 
 LEXICON PX3SG
-+Px3Sg+Nom:%>V1ԯ K ; !
++Px3Sg+Nom:%>%{Е%}ԯ K ; !
 
 LEXICON PXCases
 +Nom: K ;

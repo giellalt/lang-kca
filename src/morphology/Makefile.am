@@ -23,6 +23,7 @@ GT_LEXC_SRCS=\
 			 stems/abbr.lexc \
 			 stems/acro.lexc \
 			 stems/punct.lexc \
+			 affixes/conjunctions.lexc \
 			 affixes/nouns.lexc \
 			 affixes/pronouns.lexc \
 			 affixes/propernouns.lexc \
@@ -32,7 +33,9 @@ GT_LEXC_SRCS=\
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
 			 stems/adverbs.lexc \
+			 stems/conjunctions.lexc \
 			 stems/nouns.lexc \
+			 stems/particles.lexc \
 			 stems/pronouns.lexc \
 			 stems/propernouns.lexc \
 			 stems/quantifiers.lexc \
@@ -42,7 +45,9 @@ GENERATED_LEXC_SRCS=\
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
 			 stems/adverbs.xml \
+			 stems/conjunctions.xml \
 			 stems/nouns.xml \
+			 stems/particles.xml \
 			 stems/pronouns.xml \
 			 stems/propernouns.xml \
 			 stems/quantifiers.xml \

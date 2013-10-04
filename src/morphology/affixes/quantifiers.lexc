@@ -3,10 +3,11 @@
 
 LEXICON Num1
 +Qnt+Adn: #;
-+Qnt+Der/MWN: N-kev ;
++Qnt+Der/MWN: N_КЕВ ;
 
-LEXICON NumTag
+LEXICON NUM_
 +Qnt+Adn: K ;
++Qnt+Ord:%>мет K ;
 +Qnt+Der/MWN: # ;
 
 
