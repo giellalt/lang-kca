@@ -119,6 +119,7 @@ Multichar_Symbols
 %>
 ! Protoletters for xfst
 V1 ! 0 ӑ
+%{Е%} ! 0 е
 
 !! And following triggers to control variation
  {front} {back}
@@ -132,7 +133,9 @@ LEXICON Root
 !! word classes, or optionally from prefixes:
 !0   Adjectives  ;
    adverbs   ;
+   conjunctions   ;
    nouns   ;
+   particles   ;
    pronouns    ;
    propernouns    ;
    quantifiers    ;

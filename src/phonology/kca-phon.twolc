@@ -21,6 +21,9 @@ Alphabet
    %- !0
 
 ! Archiphonemes for vowels
+ %{Е%}:0 ! linking vowel эвиеԯ 
+
+
 А1:а
 А1:у
 А1:о
@@ -91,10 +94,11 @@ LBV = [ а | я | [ #:  ] [ у | о | э | ы ] ] ;
 
 Rules
 
-"0:а between Д1: %> and  мна"
-!! __@RULENAME@__
-0:а <=> Д1: %> _ м н а ;
+!! !Surface value of linking vowel before +PxSg3
 
+"%{Е%}:е"
+!! __@RULENAME@__
+%{Е%}:е <=> и %> _ [ ԯ ] ;
 
 
 
