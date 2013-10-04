@@ -50,6 +50,29 @@
    </e>
    <e>
       <lg>
+         <l>инщасты</l>
+         <stg>
+            <st Contlex="V-pon">анщас</st>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>ask</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kysyä</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t>??</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l>туты</l>
          <stg>
             <st Contlex="V-tu">ту</st>
@@ -61,10 +84,10 @@
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>??</t>
+            <t>take</t>
          </tg>
          <tg xml:lang="fin">
-            <t>??</t>
+            <t>viedä</t>
          </tg>
          <tg xml:lang="rus">
             <t>??</t>
