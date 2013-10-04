@@ -1,0 +1,15 @@
+!! Conjunctions
+!! Khanty
+
+LEXICON CC_
++Cc: K ;
+
+LEXICON CS_
++Cs: K ;
+
+LEXICON PCLE_
++Pcle: K ;
+
+
+
+! vim: set ft=xfst-lexc:
