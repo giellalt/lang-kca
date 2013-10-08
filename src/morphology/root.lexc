@@ -141,6 +141,7 @@ LEXICON Root
    quantifiers    ;
    verbs   ;
 
+Exceptions ;
 Abbreviation	;
 Acronym		;
 Punctuation	;

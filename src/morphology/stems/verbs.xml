@@ -6,7 +6,7 @@
       <lg>
          <l>акӑтты</l>
          <stg>
-            <st Contlex="V-pon">акӑт</st>
+            <st Contlex="V_ПОН">акӑт</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -29,7 +29,7 @@
       <lg>
          <l>понты</l>
          <stg>
-            <st Contlex="V-pon">пон</st>
+            <st Contlex="V_ПОН">пон</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -52,7 +52,7 @@
       <lg>
          <l>инщасты</l>
          <stg>
-            <st Contlex="V-pon">анщас</st>
+            <st Contlex="V_ПОН">анщас</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -75,7 +75,7 @@
       <lg>
          <l>туты</l>
          <stg>
-            <st Contlex="V-tu">ту</st>
+            <st Contlex="V_ТУ">ту</st>
          </stg>
       </lg>
       <pos>V</pos>
