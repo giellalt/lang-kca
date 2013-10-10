@@ -63,6 +63,9 @@ Morphophonology
 ---------------
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
+* @NO CODE@ ! used in possessor indices
+* @NO CODE@ ! used in possessor indices
+
 
 And following triggers to control variation
 

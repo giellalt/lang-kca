@@ -80,16 +80,93 @@ LEXICON DULOCSUF
 
 !! Possessor Indices
 
-!! Single possessum
+!! !Single possessum
 
-LEXICON PX1SG
-+Px1Sg:%>ем PXCases ; ! or is this -V1м
+LEXICON SG-PXSG1
++Sg+PxSg1:%>%{ЕЭ%}м PXCases ; ! or is this -V1м
 
-LEXICON PX2SG
-+Px2Sg:%>ен PXCases ; !
+LEXICON SG-PXSG2
++Sg+PxSg2:%>%{ЕЭ%}н PXCases ; !
 
-LEXICON PX3SG
-+Px3Sg+Nom:%>%{Е%}ԯ K ; !
+LEXICON SG-PXSG3
++Sg+PxSg3+Nom:%>%{ЕЭ%}ԯ K ; !
+
+LEXICON SG-PXDU1
++Sg+PxDu1:%>%{ЕЭ%}мн PXCases ; ! or is this -V1м
+
+LEXICON SG-PXDU2
++Sg+PxDu2:%>%{АЯИ%}н PXCases ; !
+
+LEXICON SG-PXDU3
++Sg+PxDu3:%>%{АЯИ%}н K ; !
+
+LEXICON SG-PXPL1
++Sg+PxPl1:%>%{ЕЭ%}в PXCases ; ! or is this -V1м
+
+LEXICON SG-PXPL2
++Sg+PxPl2:%>%{АЯИ%}н PXCases ; !
+
+LEXICON SG-PXPL3
++Sg+PxPl3:%>%{ЕЭ%}ԯ K ; !
+
+!! !Dual possessa
+LEXICON DU-PXSG1
++Du+PxSg1:%>ңаԯам PXCases ; ! or is this -V1м
+
+LEXICON DU-PXSG2
++Du+PxSg2:%>ңаԯан PXCases ; !
+
+LEXICON DU-PXSG3
++Du+PxSg3+Nom:%>ңаԯ K ; !
+
+LEXICON DU-PXDU1
++Du+PxDu1:%>ңаԯамн PXCases ; ! or is this -V1м
+
+LEXICON DU-PXDU2
++Du+PxDu2:%>ңаԯан PXCases ; !
+
+LEXICON DU-PXDU3
++Du+PxDu3+Nom:%>ңаԯон K ; !
+
+LEXICON DU-PXPL1
++Du+PxPl1:%>ңаԯув PXCases ; ! or is this -V1м
+
+LEXICON DU-PXPL2
++Du+PxPl2:%>ңаԯан PXCases ; !
+
+LEXICON DU-PXPL3
++Du+PxPl3+Nom:%>ңаԯаԯ K ; !
+
+!! !Plural possessa
+LEXICON PL-PXSG1
++Pl+PxSg1:%>ԯам PXCases ; ! or is this -V1м
+
+LEXICON PL-PXSG2
++Pl+PxSg2:%>ԯан PXCases ; !
+
+LEXICON PL-PXSG3
++Pl+PxSg3+Nom:%>ԯаԯ K ; !
+
+LEXICON PL-PXDU1
++Pl+PxDu1:%>ԯамн PXCases ; ! or is this -V1м
+
+LEXICON PL-PXDU2
++Pl+PxDu2:%>ԯан PXCases ; !
+
+LEXICON PL-PXDU3
++Pl+PxDu3+Nom:%>ԯан K ; !
+
+LEXICON PL-PXPL1
++Pl+PxPl1:%>ԯув PXCases ; ! or is this -V1м
+
+LEXICON PL-PXPL2
++Pl+PxPl2:%>ԯан PXCases ; !
+
+LEXICON PL-PXPL3
++Pl+PxPl3+Nom:%>ԯаԯ K ; !
+
+
+
 
 LEXICON PXCases
 +Nom: K ;
