@@ -8,9 +8,11 @@ LEXICON VTag
 
 LEXICON V_ТУ
 +V: V_ТУ-Prs ;
++V+Inf:%>ты K ;
 
 LEXICON V_ПОН
 +V: V_ПОН-Prs ;
++V+Inf:%>ты K ;
 
 ! ===========
 !! !!PRESENT 
