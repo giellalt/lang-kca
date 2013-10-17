@@ -1,6 +1,9 @@
 !! Pronoun inflection
 !! Northern Khanty
 
+LEXICON PRON_
++Pron: K ;
+
 LEXICON PersSg1
 +Pron+Pers+Sg1+Nom: K ;
 

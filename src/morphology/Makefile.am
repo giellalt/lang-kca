@@ -24,8 +24,11 @@ GT_LEXC_SRCS=\
 			 stems/acro.lexc \
 			 stems/exceptions.lexc \
 			 stems/punct.lexc \
+			 affixes/adjectives.lexc \
+			 affixes/adverbs.lexc \
 			 affixes/conjunctions.lexc \
 			 affixes/nouns.lexc \
+			 affixes/postpositions.lexc \
 			 affixes/pronouns.lexc \
 			 affixes/propernouns.lexc \
 			 affixes/quantifiers.lexc \
