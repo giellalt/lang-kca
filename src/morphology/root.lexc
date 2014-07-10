@@ -30,14 +30,14 @@ Multichar_Symbols
 
 !! The parts-of-speech are:
  +N +A +Adv +V
- +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num 
+ +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num
 
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
 
 !! The Usage extents are marked using following tags:
- +Err/Sub   
- +Use/-Spell 
+ +Err/Sub
+ +Use/-Spell
 
 !! The dialect variants are expressed using the following tags:
  +Dial/Kaz ! Kazym
@@ -53,14 +53,14 @@ Multichar_Symbols
 +Pos +Comp +Superl
 !! Numerals are classified under:
  +Attr +Card
- +Ord 
+ +Ord
 !! Verb moods are:
  +Ind +Prs +Prt +Pot +Cond +Imprt
 !! Verb personal forms are:
 !!! Subject conjugation
-+Sc1Sg +Sc2Sg +Sc3Sg 
-+Sc1Du +Sc2Du +Sc3Du 
-+Sc1Pl +Sc2Pl +Sc3Pl 
++Sc1Sg +Sc2Sg +Sc3Sg
++Sc1Du +Sc2Du +Sc3Du
++Sc1Pl +Sc2Pl +Sc3Pl
 !!! Object conjugation
 +Oc1Sg +Oc2Sg +Oc3Sg
 +Oc1Du +Oc2Du +Oc3Du
@@ -71,7 +71,7 @@ Multichar_Symbols
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
 ! Abbreviated words are classified with:
- +ABBR +ACR 
+ +ABBR +ACR
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
 !! The verbs are syntactically split according to transitivity:
@@ -86,20 +86,20 @@ Multichar_Symbols
 
 
 !! Semantics are classified with
- +Mal +Fem +Sur 
- +Plc 
+ +Mal +Fem +Sur
+ +Plc
  +Org
  +Obj
  +Ani
  +Hum
  +Plant
  +Group
- +Time 
+ +Time
  +Txt
  +Route
- +Measr 
+ +Measr
  +Wthr
- +Build 
+ +Build
  +Edu
  +Veh
  +Clth
@@ -160,17 +160,17 @@ POSTPOSITION ;
 ! I INCLUDE SOME SMALL LEXICA HERE
 ! WAITING FOR OWN FILES, OR PERHAPS THEY COULD STAY HERE
 
-LEXICON CONJUNCTION 
+LEXICON CONJUNCTION
 но CT ;
 нош CT ;
 
 LEXICON CT
 +CS: # ;
- 
-LEXICON SUBJUNCTION  
+
+LEXICON SUBJUNCTION
 # ;
 
-LEXICON INTERJECTION 
+LEXICON INTERJECTION
 # ;
 
 LEXICON NUMERAL
@@ -189,23 +189,23 @@ LEXICON ORDINAL
 LEXICON K
 +Clt:%>ki # "also" ;
 +Qst:а # ;
-# ; 
+# ;
 
 
 LEXICON PUNCTUATION
-#; 
+#;
 LEXICON POSTPOSITION
-#; 
+#;
 
 LEXICON CADJ
-+A: #; 
++A: #;
 LEXICON DADJ
-+A: #; 
++A: #;
 LEXICON VADJ
 +A: #;
- 
+
 LEXICON AdvTag
-+Adv: # ; 
++Adv: # ;
 
 LEXICON MannerTag
 +Adv+Manner: K ;
@@ -216,7 +216,7 @@ LEXICON SpatTag
 +Spat: K ;
 
 LEXICON AdvSpatLat
-+Spat+Lat+Adv: K ; 
++Spat+Lat+Adv: K ;
 
 LEXICON AdvSpatLoc
 +Spat+Loc+Adv: K ;
@@ -225,12 +225,12 @@ LEXICON AdvSpatAbl
 +Spat+Abl+Adv: K ;
 
 LEXICON CASESUF
-#; 
+#;
 LEXICON PRON
-#; 
+#;
 LEXICON DEM
-#; 
+#;
 LEXICON PERS
-#; 
+#;
 
 ! vim: set ft=xfst-lexc:
