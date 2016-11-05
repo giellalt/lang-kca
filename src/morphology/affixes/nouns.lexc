@@ -2,52 +2,52 @@
 
 
 LEXICON N_КОСЯ ! кося-й-
-:й NOUN ;
+ :й NOUN ;
 
 LEXICON N_ЭВИ ! эви : эве-
- NOUN ;
+  NOUN ;
 
 LEXICON N_КЕВ
- NOUN ;
+  NOUN ;
 
-LEXICON N_ 
- NOUN ;
+LEXICON N_
+  NOUN ;
 
 
 
 
 LEXICON NOUN
-+N: SGNOMSUF ;
-+N: SGLATSUF ;
-+N: SGLOCSUF ;
+ +N: SGNOMSUF ;
+ +N: SGLATSUF ;
+ +N: SGLOCSUF ;
 
-+N: PLNOMSUF ;
-+N: PLLATSUF ;
-+N: PLLOCSUF ;
+ +N: PLNOMSUF ;
+ +N: PLLATSUF ;
+ +N: PLLOCSUF ;
 
-+N: DUNOMSUF ;
-+N: DULATSUF ;
-+N: DULOCSUF ;
+ +N: DUNOMSUF ;
+ +N: DULATSUF ;
+ +N: DULOCSUF ;
 
 ! ================
-!! !!ACTUAL CASES 
+!! !!ACTUAL CASES
 ! ================
 
 LEXICON SGNOMSUF
-+Sg+Nom: K ;
+ +Sg+Nom: K ;
 
 LEXICON SGLATSUF
-+Sg+Lat:%>а K ;
-!+Dial/K+Sg+Lat:%>а K ;
-!+Dial/О+Sg+Lat:%>на K ;
+         +Sg+Lat:%>а  K ;
+! +Dial/K+Sg+Lat:%>а  K ;
+! +Dial/О+Sg+Lat:%>на K ;
 
 LEXICON SGLOCSUF
-+Sg+Loc:%>ан K ;
-!+Dial/K+Sg+Loc:%>ăн K ;
-!+Dial/О+Sg+Loc:%>на K ;
+         +Sg+Loc:%>ан  K ;
+! +Dial/K+Sg+Loc:%>ăн  K ;
+! +Dial/О+Sg+Loc:%>на  K ;
 
 !LEXICON SGTRASUF
-!+Dial/О+Sg+Tra:%>J1i K ;
+! +Dial/О+Sg+Tra:%>J1i K ;
 
 
 
@@ -55,124 +55,124 @@ LEXICON SGLOCSUF
 
 !! !Start Plural
 LEXICON PLNOMSUF
-+Pl+Nom:%>ат K ;
+ +Pl+Nom:%>ат K ;
 
 LEXICON PLLATSUF
-+Pl+Nom:%>ăт%>а K ;
+ +Pl+Nom:%>ăт%>а K ;
 
 LEXICON PLLOCSUF
-+Pl+Nom:%>ăт%>ӑн K ;
+ +Pl+Nom:%>ăт%>ӑн K ;
 
 
 
 !! !Start Dual
 LEXICON DUNOMSUF
-+Du+Nom:%>ңăн K ;
+ +Du+Nom:%>ңăн K ;
 
 LEXICON DULATSUF
-+Du+Nom:%>ңăн%>а K ;
+ +Du+Nom:%>ңăн%>а K ;
 
 LEXICON DULOCSUF
-+Du+Nom:%>ңăн%>ӑн K ;
+ +Du+Nom:%>ңăн%>ӑн K ;
 
 
 
 
 !! Possessor Indices
 LEXICON POSS-INDICES-ALL
- PL-PXSG3 ;
+  PL-PXSG3 ;
 
 !! !Single possessum
 
 LEXICON SG-PXSG1
-+Sg+PxSg1:%>%{ЕЭ%}м PXCases ; ! or is this -V1м
+ +Sg+PxSg1:%>%{ЕЭ%}м PXCases ; ! or is this -V1м
 
 LEXICON SG-PXSG2
-+Sg+PxSg2:%>%{ЕЭ%}н PXCases ; !
+ +Sg+PxSg2:%>%{ЕЭ%}н PXCases ; !
 
 LEXICON SG-PXSG3
-+Sg+PxSg3+Nom:%>%{ЕЭ%}ԯ K ; !
+ +Sg+PxSg3+Nom:%>%{ЕЭ%}ԯ K ; !
 
 LEXICON SG-PXDU1
-+Sg+PxDu1:%>%{ЕЭ%}мн PXCases ; ! or is this -V1м
+ +Sg+PxDu1:%>%{ЕЭ%}мн PXCases ; ! or is this -V1м
 
 LEXICON SG-PXDU2
-+Sg+PxDu2:%>%{АЯИ%}н PXCases ; !
+ +Sg+PxDu2:%>%{АЯИ%}н PXCases ; !
 
 LEXICON SG-PXDU3
-+Sg+PxDu3:%>%{АЯИ%}н K ; !
+ +Sg+PxDu3:%>%{АЯИ%}н K ; !
 
 LEXICON SG-PXPL1
-+Sg+PxPl1:%>%{ЕЭ%}в PXCases ; ! or is this -V1м
+ +Sg+PxPl1:%>%{ЕЭ%}в PXCases ; ! or is this -V1м
 
 LEXICON SG-PXPL2
-+Sg+PxPl2:%>%{АЯИ%}н PXCases ; !
+ +Sg+PxPl2:%>%{АЯИ%}н PXCases ; !
 
 LEXICON SG-PXPL3
-+Sg+PxPl3:%>%{ЕЭ%}ԯ K ; !
+ +Sg+PxPl3:%>%{ЕЭ%}ԯ K ; !
 
 !! !Dual possessa
 LEXICON DU-PXSG1
-+Du+PxSg1:%>ңаԯам PXCases ; ! or is this -V1м
+ +Du+PxSg1:%>ңаԯам PXCases ; ! or is this -V1м
 
 LEXICON DU-PXSG2
-+Du+PxSg2:%>ңаԯан PXCases ; !
+ +Du+PxSg2:%>ңаԯан PXCases ; !
 
 LEXICON DU-PXSG3
-+Du+PxSg3+Nom:%>ңаԯ K ; !
+ +Du+PxSg3+Nom:%>ңаԯ K ; !
 
 LEXICON DU-PXDU1
-+Du+PxDu1:%>ңаԯамн PXCases ; ! or is this -V1м
+ +Du+PxDu1:%>ңаԯамн PXCases ; ! or is this -V1м
 
 LEXICON DU-PXDU2
-+Du+PxDu2:%>ңаԯан PXCases ; !
+ +Du+PxDu2:%>ңаԯан PXCases ; !
 
 LEXICON DU-PXDU3
-+Du+PxDu3+Nom:%>ңаԯон K ; !
+ +Du+PxDu3+Nom:%>ңаԯон K ; !
 
 LEXICON DU-PXPL1
-+Du+PxPl1:%>ңаԯув PXCases ; ! or is this -V1м
+ +Du+PxPl1:%>ңаԯув PXCases ; ! or is this -V1м
 
 LEXICON DU-PXPL2
-+Du+PxPl2:%>ңаԯан PXCases ; !
+ +Du+PxPl2:%>ңаԯан PXCases ; !
 
 LEXICON DU-PXPL3
-+Du+PxPl3+Nom:%>ңаԯаԯ K ; !
+ +Du+PxPl3+Nom:%>ңаԯаԯ K ; !
 
 !! !Plural possessa
 LEXICON PL-PXSG1
-+Pl+PxSg1:%>ԯам PXCases ; ! or is this -V1м
+ +Pl+PxSg1:%>ԯам PXCases ; ! or is this -V1м
 
 LEXICON PL-PXSG2
-+Pl+PxSg2:%>ԯан PXCases ; !
+ +Pl+PxSg2:%>ԯан PXCases ; !
 
 LEXICON PL-PXSG3
-+Pl+PxSg3+Nom:%>ԯаԯ K ; !
+ +Pl+PxSg3+Nom:%>ԯаԯ K ; !
 
 LEXICON PL-PXDU1
-+Pl+PxDu1:%>ԯамн PXCases ; ! or is this -V1м
+ +Pl+PxDu1:%>ԯамн PXCases ; ! or is this -V1м
 
 LEXICON PL-PXDU2
-+Pl+PxDu2:%>ԯан PXCases ; !
+ +Pl+PxDu2:%>ԯан PXCases ; !
 
 LEXICON PL-PXDU3
-+Pl+PxDu3+Nom:%>ԯан K ; !
+ +Pl+PxDu3+Nom:%>ԯан K ; !
 
 LEXICON PL-PXPL1
-+Pl+PxPl1:%>ԯув PXCases ; ! or is this -V1м
+ +Pl+PxPl1:%>ԯув PXCases ; ! or is this -V1м
 
 LEXICON PL-PXPL2
-+Pl+PxPl2:%>ԯан PXCases ; !
+ +Pl+PxPl2:%>ԯан PXCases ; !
 
 LEXICON PL-PXPL3
-+Pl+PxPl3+Nom:%>ԯаԯ K ; !
+ +Pl+PxPl3+Nom:%>ԯаԯ K ; !
 
 
 
 
 LEXICON PXCases
-+Nom: K ;
-+Lat:%>а K ;
-+Loc:%>ӑн K ;
+ +Nom:     K ;
+ +Lat:%>а  K ;
+ +Loc:%>ӑн K ;
 
 ! vim: set ft=xfst-lexc:
