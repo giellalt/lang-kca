@@ -4,16 +4,12 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>эви</l>
+         <l pos="N">эви</l>
          <stg>
             <st Contlex="N_ЭВИ">эви</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>girl</t>
          </tg>
@@ -24,16 +20,12 @@
    </e>
    <e>
       <lg>
-         <l>кев</l>
+         <l pos="N">кев</l>
          <stg>
             <st Contlex="N_КЕВ">кев</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>rock</t>
          </tg>
@@ -44,16 +36,12 @@
    </e>
    <e>
       <lg>
-         <l>кося</l>
+         <l pos="N">кося</l>
          <stg>
             <st Contlex="N_КОСЯ">кося</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>master</t>
          </tg>
@@ -64,16 +52,12 @@
    </e>
    <e>
       <lg>
-         <l>нюхәс</l>
+         <l pos="N">нюхәс</l>
          <stg>
             <st Contlex="N_">нюхәс</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>sable</t>
          </tg>
@@ -84,16 +68,12 @@
    </e>
    <e>
       <lg>
-         <l>тохԯаңхоп</l>
+         <l pos="N">тохлдаңхоп</l>
          <stg>
-            <st Contlex="N_КЕВ">тохԯаң#хоп</st>
+            <st Contlex="N_КЕВ">тохлдаң#хоп</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>airplane</t>
          </tg>
@@ -104,16 +84,12 @@
    </e>
    <e>
       <lg>
-         <l>хоп</l>
+         <l pos="N">хоп</l>
          <stg>
             <st Contlex="N_КЕВ">хоп</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>boat</t>
          </tg>
@@ -124,16 +100,12 @@
    </e>
    <e>
       <lg>
-         <l>хот</l>
+         <l pos="N">хот</l>
          <stg>
             <st Contlex="N_">хот</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>house</t>
          </tg>
@@ -144,16 +116,12 @@
    </e>
    <e>
       <lg>
-         <l>нэпек</l>
+         <l pos="N">нэпек</l>
          <stg>
             <st Contlex="N_">нэпек</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>paper; book</t>
          </tg>
@@ -164,16 +132,12 @@
    </e>
    <e>
       <lg>
-         <l>вер</l>
+         <l pos="N">вер</l>
          <stg>
             <st Contlex="N_">вер</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>work</t>
          </tg>
@@ -184,16 +148,12 @@
    </e>
    <e>
       <lg>
-         <l>пуш</l>
+         <l pos="N">пуш</l>
          <stg>
             <st Contlex="N_">пуш</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>time</t>
          </tg>
@@ -204,16 +164,12 @@
    </e>
    <e>
       <lg>
-         <l>мув</l>
+         <l pos="N">мув</l>
          <stg>
             <st Contlex="N_">мув</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>land</t>
          </tg>
@@ -224,16 +180,12 @@
    </e>
    <e>
       <lg>
-         <l>ԯапат</l>
+         <l pos="N">лдапат</l>
          <stg>
-            <st Contlex="N_">ԯапат</st>
+            <st Contlex="N_">лдапат</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>week</t>
          </tg>
@@ -244,16 +196,12 @@
    </e>
    <e>
       <lg>
-         <l>ԯапат хутмет</l>
+         <l pos="N">лдапат хутмет</l>
          <stg>
-            <st Contlex="N_">ԯапат хутмет</st>
+            <st Contlex="N_">лдапат хутмет</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>Saturday</t>
          </tg>
@@ -264,16 +212,12 @@
    </e>
    <e>
       <lg>
-         <l>унтԯор тыԯащ</l>
+         <l pos="N">унтлдор тылдащ</l>
          <stg>
-            <st Contlex="N_">унтԯор тыԯащ</st>
+            <st Contlex="N_">унтлдор тылдащ</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>August</t>
          </tg>
@@ -284,16 +228,12 @@
    </e>
    <e>
       <lg>
-         <l>щёхар тыԯащ</l>
+         <l pos="N">щёхар тылдащ</l>
          <stg>
-            <st Contlex="N_">щёхар тыԯащ</st>
+            <st Contlex="N_">щёхар тылдащ</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>September</t>
          </tg>
@@ -304,16 +244,12 @@
    </e>
    <e>
       <lg>
-         <l>няврэм</l>
+         <l pos="N">няврэм</l>
          <stg>
             <st Contlex="N_">няврэм</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>child</t>
          </tg>
@@ -324,16 +260,12 @@
    </e>
    <e>
       <lg>
-         <l>яԯаптаԯ тыԯащ</l>
+         <l pos="N">ялдапталд тылдащ</l>
          <stg>
-            <st Contlex="N_">яԯаптаԯ тыԯащ</st>
+            <st Contlex="N_">ялдапталд тылдащ</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>January</t>
          </tg>
@@ -344,16 +276,12 @@
    </e>
    <e>
       <lg>
-         <l>хатԯ</l>
+         <l pos="N">хатлд</l>
          <stg>
-            <st Contlex="N_">хатԯ</st>
+            <st Contlex="N_">хатлд</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>day</t>
          </tg>
@@ -364,16 +292,12 @@
    </e>
    <e>
       <lg>
-         <l>таԯ</l>
+         <l pos="N">талд</l>
          <stg>
-            <st Contlex="N_">таԯ</st>
+            <st Contlex="N_">талд</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>year</t>
          </tg>

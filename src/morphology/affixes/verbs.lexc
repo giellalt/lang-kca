@@ -20,106 +20,106 @@ LEXICON V_ПОН
 
 LEXICON V_ТУ-Prs
 !! Subject
-+Ind+Prs+Sc1Sg:%>ԯ%>ам K ; !
-+Ind+Prs+Sc2Sg:%>ԯ%>ан K ; !
-+Ind+Prs+Sc3Sg:%>аԯ K ; !
-+Ind+Prs+Sc1Du:%>ԯ%>ман K ; !
-+Ind+Prs+Sc1Du:%>ԯ%>амн K ; !
-+Ind+Prs+Sc2Du:%>ԯ%>тан K ; !
-+Ind+Prs+Sc2Du:%>ԯ%>атн K ; !
-+Ind+Prs+Sc3Du:%>ԯ%>ңан K ; !
-+Ind+Prs+Sc3Du:%>ԯ%>аңан K ; !
-+Ind+Prs+Sc1Pl:%>ԯ%>ув K ; !
-+Ind+Prs+Sc2Pl:%>ԯ%>ты K ; !
-+Ind+Prs+Sc2Pl:%>ԯ%>аты K ; !
-+Ind+Prs+Sc3Pl:%>ԯ%>ат K ; !
++Act+Ind+Prs+Sc1Sg:%>лд%>ам K ; !
++Act+Ind+Prs+Sc2Sg:%>лд%>ан K ; !
++Act+Ind+Prs+Sc3Sg:%>алд K ; !
++Act+Ind+Prs+Sc1Du:%>лд%>ман K ; !
++Act+Ind+Prs+Sc1Du:%>лд%>амн K ; !
++Act+Ind+Prs+Sc2Du:%>лд%>тан K ; !
++Act+Ind+Prs+Sc2Du:%>лд%>атн K ; !
++Act+Ind+Prs+Sc3Du:%>лд%>нган K ; !
++Act+Ind+Prs+Sc3Du:%>лд%>анган K ; !
++Act+Ind+Prs+Sc1Pl:%>лд%>ув K ; !
++Act+Ind+Prs+Sc2Pl:%>лд%>ты K ; !
++Act+Ind+Prs+Sc2Pl:%>лд%>аты K ; !
++Act+Ind+Prs+Sc3Pl:%>лд%>ат K ; !
 !! Object Singular
-+Ind+Prs+Sc1Sg+OcSg3:%>эм K ; !
-+Ind+Prs+Sc2Sg+OcSg3:%>эн K ; !
-+Ind+Prs+Sc3Sg+OcSg3:%>эԯ K ; !
-+Ind+Prs+Sc1Du+OcSg3:%>эмн K ; !
-+Ind+Prs+Sc2Du+OcSg3:%>аԯн K ; !
-+Ind+Prs+Sc2Du+OcSg3:%>ԯан K ; !
-+Ind+Prs+Sc3Du+OcSg3:%>ԯан K ; !
-+Ind+Prs+Sc3Du+OcSg3:%>аԯн K ; !
-+Ind+Prs+Sc1Pl+OcSg3:%>ԯув K ; !
-+Ind+Prs+Sc2Pl+OcSg3:%>ԯан K ; !
-+Ind+Prs+Sc2Pl+OcSg3:%>аԯн K ; !
-+Ind+Prs+Sc3Pl+OcSg3:%>эԯ K ; !
-+Ind+Prs+Sc3Pl+OcSg3:%>ԯаԯ K ; !
++Act+Ind+Prs+Sc1Sg+OcSg3:%>эм K ; !
++Act+Ind+Prs+Sc2Sg+OcSg3:%>эн K ; !
++Act+Ind+Prs+Sc3Sg+OcSg3:%>элд K ; !
++Act+Ind+Prs+Sc1Du+OcSg3:%>эмн K ; !
++Act+Ind+Prs+Sc2Du+OcSg3:%>алдн K ; !
++Act+Ind+Prs+Sc2Du+OcSg3:%>лдан K ; !
++Act+Ind+Prs+Sc3Du+OcSg3:%>лдан K ; !
++Act+Ind+Prs+Sc3Du+OcSg3:%>алдн K ; !
++Act+Ind+Prs+Sc1Pl+OcSg3:%>лдув K ; !
++Act+Ind+Prs+Sc2Pl+OcSg3:%>лдан K ; !
++Act+Ind+Prs+Sc2Pl+OcSg3:%>алдн K ; !
++Act+Ind+Prs+Sc3Pl+OcSg3:%>элд K ; !
++Act+Ind+Prs+Sc3Pl+OcSg3:%>лдалд K ; !
 !! Object Plural
-+Ind+Prs+Sc1Sg+OcPl3:%>аԯам K ; !
-+Ind+Prs+Sc1Sg+OcPl3:%>ԯам K ; !
-+Ind+Prs+Sc2Sg+OcPl3:%>аԯан K ; !
-+Ind+Prs+Sc2Sg+OcPl3:%>ԯан K ; !
-+Ind+Prs+Sc3Sg+OcPl3:%>аԯ K ; !
-+Ind+Prs+Sc1Du+OcPl3:%>аԯамн K ; !
-+Ind+Prs+Sc1Du+OcPl3:%>ԯамн K ; !
-+Ind+Prs+Sc2Du+OcPl3:%>аԯн K ; !
-+Ind+Prs+Sc2Du+OcPl3:%>ԯан K ; !
-+Ind+Prs+Sc3Du+OcPl3:%>аԯн K ; !
-+Ind+Prs+Sc3Du+OcPl3:%>ԯан K ; !
-+Ind+Prs+Sc1Pl+OcPl3:%>аԯув K ; !
-+Ind+Prs+Sc1Pl+OcPl3:%>ԯув K ; !
-+Ind+Prs+Sc2Pl+OcPl3:%>аԯн K ; !
-+Ind+Prs+Sc2Pl+OcPl3:%>ԯан K ; !
-+Ind+Prs+Sc3Pl+OcPl3:%>аԯаԯ K ; !
-+Ind+Prs+Sc3Pl+OcPl3:%>ԯаԯ K ; !
++Act+Ind+Prs+Sc1Sg+OcPl3:%>алдам K ; !
++Act+Ind+Prs+Sc1Sg+OcPl3:%>лдам K ; !
++Act+Ind+Prs+Sc2Sg+OcPl3:%>алдан K ; !
++Act+Ind+Prs+Sc2Sg+OcPl3:%>лдан K ; !
++Act+Ind+Prs+Sc3Sg+OcPl3:%>алд K ; !
++Act+Ind+Prs+Sc1Du+OcPl3:%>алдамн K ; !
++Act+Ind+Prs+Sc1Du+OcPl3:%>лдамн K ; !
++Act+Ind+Prs+Sc2Du+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc2Du+OcPl3:%>лдан K ; !
++Act+Ind+Prs+Sc3Du+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc3Du+OcPl3:%>лдан K ; !
++Act+Ind+Prs+Sc1Pl+OcPl3:%>алдув K ; !
++Act+Ind+Prs+Sc1Pl+OcPl3:%>лдув K ; !
++Act+Ind+Prs+Sc2Pl+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc2Pl+OcPl3:%>лдан K ; !
++Act+Ind+Prs+Sc3Pl+OcPl3:%>алдалд K ; !
++Act+Ind+Prs+Sc3Pl+OcPl3:%>лдалд K ; !
 !!Passive
-+Ind+Prs+Pc1Sg:%>ыюм K ; !
-+Ind+Prs+Pc2Sg:%>ыйн K ; !
-+Ind+Prs+Pc3Sg:%>ы K ; !
-+Ind+Prs+Pc1Du:%>ыйман K ; !
-+Ind+Prs+Pc2Du:%>ыйтан K ; !
-+Ind+Prs+Pc3Du:%>ыйңан K ; !
-+Ind+Prs+Pc1Pl:%>ыюв K ; 
-+Ind+Prs+Pc2Pl:%>ыйты K ; !
-+Ind+Prs+Pc3Pl:%>ыят K ; !
++Pss+Ind+Prs+Sc1Sg:%>ыюм K ; !
++Pss+Ind+Prs+Sc2Sg:%>ыйн K ; !
++Pss+Ind+Prs+Sc3Sg:%>ы K ; !
++Pss+Ind+Prs+Sc1Du:%>ыйман K ; !
++Pss+Ind+Prs+Sc2Du:%>ыйтан K ; !
++Pss+Ind+Prs+Sc3Du:%>ыйнган K ; !
++Pss+Ind+Prs+Sc1Pl:%>ыюв K ; 
++Pss+Ind+Prs+Sc2Pl:%>ыйты K ; !
++Pss+Ind+Prs+Sc3Pl:%>ыят K ; !
 
 LEXICON V_ПОН-Prs
 !! Subject
-+Ind+Prs+Sc1Sg:%>ԯ%>ум K ; !
-+Ind+Prs+Sc2Sg:%>ԯ%>ан K ; !
-+Ind+Prs+Sc3Sg:%>аԯ K ; !
-+Ind+Prs+Sc1Du:%>ԯ%>амн K ; !
-+Ind+Prs+Sc2Du:%>ԯ%>атн K ; !
-+Ind+Prs+Sc3Du:%>ԯ%>аңан K ; !
-+Ind+Prs+Sc1Pl:%>ԯ%>ув K ; !
-+Ind+Prs+Sc2Pl:%>ԯ%>аты K ; !
-+Ind+Prs+Sc3Pl:%>ԯ%>ат K ; !
++Act+Ind+Prs+Sc1Sg:%>лд%>ум K ; !
++Act+Ind+Prs+Sc2Sg:%>лд%>ан K ; !
++Act+Ind+Prs+Sc3Sg:%>алд K ; !
++Act+Ind+Prs+Sc1Du:%>лд%>амн K ; !
++Act+Ind+Prs+Sc2Du:%>лд%>атн K ; !
++Act+Ind+Prs+Sc3Du:%>лд%>анган K ; !
++Act+Ind+Prs+Sc1Pl:%>лд%>ув K ; !
++Act+Ind+Prs+Sc2Pl:%>лд%>аты K ; !
++Act+Ind+Prs+Sc3Pl:%>лд%>ат K ; !
 !! !Singular Object
-+Ind+Prs+Sc1Sg+OcSg3:%>эм K ; !
-+Ind+Prs+Sc2Sg+OcSg3:%>эн K ; !
-+Ind+Prs+Sc3Sg+OcSg3:%>эԯ K ; !
-+Ind+Prs+Sc1Du+OcSg3:%>эмн K ; !
-+Ind+Prs+Sc2Du+OcSg3:%>аԯн K ; !
-+Ind+Prs+Sc3Du+Oc3:%>аԯн K ; !
-+Ind+Prs+Sc1Pl+Oc3:%>ԯув K ; !
-+Ind+Prs+Sc2Pl+Oc3:%>аԯн K ; !
-+Ind+Prs+Sc3Pl+Oc3:%>эԯ K ; !
++Act+Ind+Prs+Sc1Sg+OcSg3:%>эм K ; !
++Act+Ind+Prs+Sc2Sg+OcSg3:%>эн K ; !
++Act+Ind+Prs+Sc3Sg+OcSg3:%>элд K ; !
++Act+Ind+Prs+Sc1Du+OcSg3:%>эмн K ; !
++Act+Ind+Prs+Sc2Du+OcSg3:%>алдн K ; !
++Act+Ind+Prs+Sc3Du+Oc3:%>алдн K ; !
++Act+Ind+Prs+Sc1Pl+Oc3:%>лдув K ; !
++Act+Ind+Prs+Sc2Pl+Oc3:%>алдн K ; !
++Act+Ind+Prs+Sc3Pl+Oc3:%>элд K ; !
 !! !Dual and Plural Object
-+Ind+Prs+Sc1Sg+OcPl3:%>аԯам K ; !
-+Ind+Prs+Sc2Sg+OcPl3:%>аԯан K ; !
-+Ind+Prs+Sc3Sg+OcPl3:%>аԯ K ; !
-+Ind+Prs+Sc1Du+OcPl3:%>аԯамн K ; !
-+Ind+Prs+Sc2Du+OcPl3:%>аԯн K ; !
-+Ind+Prs+Sc3Du+OcPl3:%>аԯн K ; !
-+Ind+Prs+Sc1Pl+OcPl3:%>аԯув K ; !
-+Ind+Prs+Sc2Pl+OcPl3:%>аԯн K ; !
-+Ind+Prs+Sc3Pl+OcPl3:%>аԯаԯ K ; !
++Act+Ind+Prs+Sc1Sg+OcPl3:%>алдам K ; !
++Act+Ind+Prs+Sc2Sg+OcPl3:%>алдан K ; !
++Act+Ind+Prs+Sc3Sg+OcPl3:%>алд K ; !
++Act+Ind+Prs+Sc1Du+OcPl3:%>алдамн K ; !
++Act+Ind+Prs+Sc2Du+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc3Du+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc1Pl+OcPl3:%>алдув K ; !
++Act+Ind+Prs+Sc2Pl+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc3Pl+OcPl3:%>алдалд K ; !
 !! Passive
-+Ind+Prs+Pc1Sg:%>аюм K ; !
-+Ind+Prs+Pc2Sg:%>айн K ; !
-+Ind+Prs+Pc3Sg:%>а K ; !
-+Ind+Prs+Pc1Du:%>айман K ; !
-+Ind+Prs+Pc2Du:%>айтан K ; !
-+Ind+Prs+Pc3Du:%>айңан K ; !
-+Ind+Prs+Pc1Pl:%>аюв K ; 
-+Ind+Prs+Pc2Pl:%>айты K ; !
-+Ind+Prs+Pc3Pl:%>аят K ; !
++Pss+Ind+Prs+Sc1Sg:%>аюм K ; !
++Pss+Ind+Prs+Sc2Sg:%>айн K ; !
++Pss+Ind+Prs+Sc3Sg:%>а K ; !
++Pss+Ind+Prs+Sc1Du:%>айман K ; !
++Pss+Ind+Prs+Sc2Du:%>айтан K ; !
++Pss+Ind+Prs+Sc3Du:%>айнган K ; !
++Pss+Ind+Prs+Sc1Pl:%>аюв K ; 
++Pss+Ind+Prs+Sc2Pl:%>айты K ; !
++Pss+Ind+Prs+Sc3Pl:%>аят K ; !
 
 
-!! -ԯ-эм Ӆԯ
+!! -лд-эм Ӆлд
 
 
 !

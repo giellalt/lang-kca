@@ -1,0 +1,139 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - кося: # Noun 'boat'
+     кося+N+Sg+Nom: кося
+     кося+N+Sg+Lat: косяа
+     кося+N+Sg+Loc: косяӑн
+#
+     кося+N+Sg+PxSg1+Nom: косяем
+     кося+N+Sg+PxSg1+Lat: косяема
+     кося+N+Sg+PxSg1+Loc: косяемӑн
+#
+     кося+N+Sg+PxSg2+Nom: косяен
+     кося+N+Sg+PxSg2+Lat: косяена
+     кося+N+Sg+PxSg2+Loc: косяенӑн
+#
+     кося+N+Sg+PxSg3+Nom: косялд
+     кося+N+Sg+PxSg3+Lat: косялда
+     кося+N+Sg+PxSg3+Loc: косялдӑн
+#
+     кося+N+Sg+PxDu1+Nom: косяемӑн
+     кося+N+Sg+PxDu1+Lat: косяемӑна
+     кося+N+Sg+PxDu1+Loc: косяемӑнӑн
+#
+     кося+N+Sg+PxDu2+Nom: косяӑн
+     кося+N+Sg+PxDu2+Lat: косяӑна
+     кося+N+Sg+PxDu2+Loc: косяӑнӑн
+#
+     кося+N+Sg+PxDu3+Nom: косяӑн
+     кося+N+Sg+PxDu3+Lat: косяӑна
+     кося+N+Sg+PxDu3+Loc: косяӑнӑн
+#
+     кося+N+Sg+PxPl1+Nom: косяев
+     кося+N+Sg+PxPl1+Lat: косяева
+     кося+N+Sg+PxPl1+Loc: косяевӑн
+#
+     кося+N+Sg+PxPl2+Nom: косяӑн
+     кося+N+Sg+PxPl2+Lat: косяӑна
+     кося+N+Sg+PxPl2+Loc: косяӑнӑн
+#
+     кося+N+Sg+PxPl3+Nom: косяӑлд
+     кося+N+Sg+PxPl3+Lat: косяӑлда
+     кося+N+Sg+PxPl3+Loc: косяӑлдӑн
+#
+     кося+N+Du+Nom: косяңӑн
+     кося+N+Du+Lat: косяңӑна
+     кося+N+Du+Loc: косяңӑнӑн
+#
+     кося+N+Du+PxSg1+Nom: косяңӑлдам
+     кося+N+Du+PxSg1+Lat: косяңӑлдама
+     кося+N+Du+PxSg1+Loc: косяңӑлдамӑн
+#
+     кося+N+Du+PxSg2+Nom: косяңӑлдан
+     кося+N+Du+PxSg2+Lat: косяңӑлдана
+     кося+N+Du+PxSg2+Loc: косяңӑлданӑн
+#
+     кося+N+Du+PxSg3+Nom: косяңӑлдалд
+     кося+N+Du+PxSg3+Lat: косяңӑлдалда
+     кося+N+Du+PxSg3+Loc: косяңӑлдалдӑн
+
+#
+     кося+N+Du+PxDu1+Nom: косяңӑлдӑмӑн
+     кося+N+Du+PxDu1+Lat: косяңӑлдӑмӑна
+     кося+N+Du+PxDu1+Loc: косяңӑлдӑмӑнӑн
+#
+     кося+N+Du+PxDu2+Nom: косяңӑлдӑн
+     кося+N+Du+PxDu2+Lat: косяңӑлдӑна
+     кося+N+Du+PxDu2+Loc: косяңӑлдӑнӑн
+#
+     кося+N+Du+PxDu3+Nom: косяңӑлдалд
+     кося+N+Du+PxDu3+Lat: косяңӑлдалда
+     кося+N+Du+PxDu3+Loc: косяңӑлдалдӑн
+#
+     кося+N+Du+PxPl1+Nom: косяңӑлдув
+     кося+N+Du+PxPl1+Lat: косяңӑлдува
+     кося+N+Du+PxPl1+Loc: косяңӑлдувӑн
+#
+     кося+N+Du+PxPl2+Nom: косяңӑлдӑн
+     кося+N+Du+PxPl2+Lat: косяңӑлдӑна
+     кося+N+Du+PxPl2+Loc: косяңӑлдӑнӑн
+#
+     кося+N+Du+PxPl3+Nom: косяңӑлдалд
+     кося+N+Du+PxPl3+Lat: косяңӑлдалда
+     кося+N+Du+PxPl3+Loc: косяңӑлдалдӑн
+#
+     кося+N+Pl+Nom: косяӑт
+     кося+N+Pl+Lat: косяӑта
+     кося+N+Pl+Loc: косяӑтӑн
+
+     кося+N+Pl+PxSg1+Nom: косялдам
+     кося+N+Pl+PxSg1+Lat: косялдама
+     кося+N+Pl+PxSg1+Loc: косялдамӑн
+
+     кося+N+Pl+PxSg2+Nom: косялдан
+     кося+N+Pl+PxSg2+Lat: косялдана
+     кося+N+Pl+PxSg2+Loc: косялданӑн
+
+     кося+N+Pl+PxSg3+Nom: косялдалд
+     кося+N+Pl+PxSg3+Lat: косялдалда
+     кося+N+Pl+PxSg3+Loc: косялдалдӑн
+
+
+     кося+N+Pl+PxDu1+Nom: косялдӑмӑн
+     кося+N+Pl+PxDu1+Lat: косялдӑмӑна
+     кося+N+Pl+PxDu1+Loc: косялдӑмӑнӑн
+
+     кося+N+Pl+PxDu2+Nom: косялдӑн
+     кося+N+Pl+PxDu2+Lat: косялдӑна
+     кося+N+Pl+PxDu2+Loc: косялдӑнӑн
+
+     кося+N+Pl+PxDu3+Nom: косялдалд
+     кося+N+Pl+PxDu3+Lat: косялдалда
+     кося+N+Pl+PxDu3+Loc: косялдалдӑн
+
+     кося+N+Pl+PxPl1+Nom: косялдув
+     кося+N+Pl+PxPl1+Lat: косялдува
+     кося+N+Pl+PxPl1+Loc: косялдувӑн
+
+     кося+N+Pl+PxPl2+Nom: косялдӑн
+     кося+N+Pl+PxPl2+Lat: косялдӑна
+     кося+N+Pl+PxPl2+Loc: косялдӑнӑн
+
+     кося+N+Pl+PxPl3+Nom: косялдалд
+     кося+N+Pl+PxPl3+Lat: косялдалда
+     кося+N+Pl+PxPl3+Loc: косялдалдӑн
+
