@@ -4,16 +4,12 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>акӑтты</l>
+         <l pos="V">акӑтты</l>
          <stg>
             <st Contlex="V_ПОН">акӑт</st>
          </stg>
       </lg>
-      <pos>V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>to gather</t>
          </tg>
@@ -27,16 +23,12 @@
    </e>
    <e>
       <lg>
-         <l>понты</l>
+         <l pos="V">понты</l>
          <stg>
             <st Contlex="V_ПОН">пон</st>
          </stg>
       </lg>
-      <pos>V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>??</t>
          </tg>
@@ -50,16 +42,12 @@
    </e>
    <e>
       <lg>
-         <l>инщасты</l>
+         <l pos="V">инщасты</l>
          <stg>
             <st Contlex="V_ПОН">анщас</st>
          </stg>
       </lg>
-      <pos>V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>ask</t>
          </tg>
@@ -73,16 +61,12 @@
    </e>
    <e>
       <lg>
-         <l>туты</l>
+         <l pos="V">туты</l>
          <stg>
             <st Contlex="V_ТУ">ту</st>
          </stg>
       </lg>
-      <pos>V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>take</t>
          </tg>

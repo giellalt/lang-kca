@@ -27,9 +27,9 @@ Tests:
      хоп+N+Sg+PxSg2+Lat: хопена
      хоп+N+Sg+PxSg2+Loc: хопенӑн
 #
-     хоп+N+Sg+PxSg3+Nom: хопԯ
-     хоп+N+Sg+PxSg3+Lat: хопԯа
-     хоп+N+Sg+PxSg3+Loc: хопԯӑн
+     хоп+N+Sg+PxSg3+Nom: хоплд
+     хоп+N+Sg+PxSg3+Lat: хоплда
+     хоп+N+Sg+PxSg3+Loc: хоплдӑн
 #
      хоп+N+Sg+PxDu1+Nom: хопемӑн
      хоп+N+Sg+PxDu1+Lat: хопемӑна
@@ -51,89 +51,89 @@ Tests:
      хоп+N+Sg+PxPl2+Lat: хопӑна
      хоп+N+Sg+PxPl2+Loc: хопӑнӑн
 #
-     хоп+N+Sg+PxPl3+Nom: хопӑԯ
-     хоп+N+Sg+PxPl3+Lat: хопӑԯа
-     хоп+N+Sg+PxPl3+Loc: хопӑԯӑн
+     хоп+N+Sg+PxPl3+Nom: хопӑлд
+     хоп+N+Sg+PxPl3+Lat: хопӑлда
+     хоп+N+Sg+PxPl3+Loc: хопӑлдӑн
 #
-     хоп+N+Du+Nom: хопңӑн
-     хоп+N+Du+Lat: хопңӑна
-     хоп+N+Du+Loc: хопңӑнӑн
+     хоп+N+Du+Nom: хопнгӑн
+     хоп+N+Du+Lat: хопнгӑна
+     хоп+N+Du+Loc: хопнгӑнӑн
 #
-     хоп+N+Du+PxSg1+Nom: хопңӑԯам
-     хоп+N+Du+PxSg1+Lat: хопңӑԯама
-     хоп+N+Du+PxSg1+Loc: хопңӑԯамӑн
+     хоп+N+Du+PxSg1+Nom: хопнгӑлдам
+     хоп+N+Du+PxSg1+Lat: хопнгӑлдама
+     хоп+N+Du+PxSg1+Loc: хопнгӑлдамӑн
 #
-     хоп+N+Du+PxSg2+Nom: хопңӑԯан
-     хоп+N+Du+PxSg2+Lat: хопңӑԯана
-     хоп+N+Du+PxSg2+Loc: хопңӑԯанӑн
+     хоп+N+Du+PxSg2+Nom: хопнгӑлдан
+     хоп+N+Du+PxSg2+Lat: хопнгӑлдана
+     хоп+N+Du+PxSg2+Loc: хопнгӑлданӑн
 #
-     хоп+N+Du+PxSg3+Nom: хопңӑԯаԯ
-     хоп+N+Du+PxSg3+Lat: хопңӑԯаԯа
-     хоп+N+Du+PxSg3+Loc: хопңӑԯаԯӑн
+     хоп+N+Du+PxSg3+Nom: хопнгӑлдалд
+     хоп+N+Du+PxSg3+Lat: хопнгӑлдалда
+     хоп+N+Du+PxSg3+Loc: хопнгӑлдалдӑн
 
 #
-     хоп+N+Du+PxDu1+Nom: хопңӑԯӑмӑн
-     хоп+N+Du+PxDu1+Lat: хопңӑԯӑмӑна
-     хоп+N+Du+PxDu1+Loc: хопңӑԯӑмӑнӑн
+     хоп+N+Du+PxDu1+Nom: хопнгӑлдӑмӑн
+     хоп+N+Du+PxDu1+Lat: хопнгӑлдӑмӑна
+     хоп+N+Du+PxDu1+Loc: хопнгӑлдӑмӑнӑн
 #
-     хоп+N+Du+PxDu2+Nom: хопңӑԯӑн
-     хоп+N+Du+PxDu2+Lat: хопңӑԯӑна
-     хоп+N+Du+PxDu2+Loc: хопңӑԯӑнӑн
+     хоп+N+Du+PxDu2+Nom: хопнгӑлдӑн
+     хоп+N+Du+PxDu2+Lat: хопнгӑлдӑна
+     хоп+N+Du+PxDu2+Loc: хопнгӑлдӑнӑн
 #
-     хоп+N+Du+PxDu3+Nom: хопңӑԯаԯ
-     хоп+N+Du+PxDu3+Lat: хопңӑԯаԯа
-     хоп+N+Du+PxDu3+Loc: хопңӑԯаԯӑн
+     хоп+N+Du+PxDu3+Nom: хопнгӑлдалд
+     хоп+N+Du+PxDu3+Lat: хопнгӑлдалда
+     хоп+N+Du+PxDu3+Loc: хопнгӑлдалдӑн
 #
-     хоп+N+Du+PxPl1+Nom: хопңӑԯув
-     хоп+N+Du+PxPl1+Lat: хопңӑԯува
-     хоп+N+Du+PxPl1+Loc: хопңӑԯувӑн
+     хоп+N+Du+PxPl1+Nom: хопнгӑлдув
+     хоп+N+Du+PxPl1+Lat: хопнгӑлдува
+     хоп+N+Du+PxPl1+Loc: хопнгӑлдувӑн
 #
-     хоп+N+Du+PxPl2+Nom: хопңӑԯӑн
-     хоп+N+Du+PxPl2+Lat: хопңӑԯӑна
-     хоп+N+Du+PxPl2+Loc: хопңӑԯӑнӑн
+     хоп+N+Du+PxPl2+Nom: хопнгӑлдӑн
+     хоп+N+Du+PxPl2+Lat: хопнгӑлдӑна
+     хоп+N+Du+PxPl2+Loc: хопнгӑлдӑнӑн
 #
-     хоп+N+Du+PxPl3+Nom: хопңӑԯаԯ
-     хоп+N+Du+PxPl3+Lat: хопңӑԯаԯа
-     хоп+N+Du+PxPl3+Loc: хопңӑԯаԯӑн
+     хоп+N+Du+PxPl3+Nom: хопнгӑлдалд
+     хоп+N+Du+PxPl3+Lat: хопнгӑлдалда
+     хоп+N+Du+PxPl3+Loc: хопнгӑлдалдӑн
 #
      хоп+N+Pl+Nom: хопӑт
      хоп+N+Pl+Lat: хопӑта
      хоп+N+Pl+Loc: хопӑтӑн
 
-     хоп+N+Pl+PxSg1+Nom: хопԯам
-     хоп+N+Pl+PxSg1+Lat: хопԯама
-     хоп+N+Pl+PxSg1+Loc: хопԯамӑн
+     хоп+N+Pl+PxSg1+Nom: хоплдам
+     хоп+N+Pl+PxSg1+Lat: хоплдама
+     хоп+N+Pl+PxSg1+Loc: хоплдамӑн
 
-     хоп+N+Pl+PxSg2+Nom: хопԯан
-     хоп+N+Pl+PxSg2+Lat: хопԯана
-     хоп+N+Pl+PxSg2+Loc: хопԯанӑн
+     хоп+N+Pl+PxSg2+Nom: хоплдан
+     хоп+N+Pl+PxSg2+Lat: хоплдана
+     хоп+N+Pl+PxSg2+Loc: хоплданӑн
 
-     хоп+N+Pl+PxSg3+Nom: хопԯаԯ
-     хоп+N+Pl+PxSg3+Lat: хопԯаԯа
-     хоп+N+Pl+PxSg3+Loc: хопԯаԯӑн
+     хоп+N+Pl+PxSg3+Nom: хоплдалд
+     хоп+N+Pl+PxSg3+Lat: хоплдалда
+     хоп+N+Pl+PxSg3+Loc: хоплдалдӑн
 
 
-     хоп+N+Pl+PxDu1+Nom: хопԯӑмӑн
-     хоп+N+Pl+PxDu1+Lat: хопԯӑмӑна
-     хоп+N+Pl+PxDu1+Loc: хопԯӑмӑнӑн
+     хоп+N+Pl+PxDu1+Nom: хоплдӑмӑн
+     хоп+N+Pl+PxDu1+Lat: хоплдӑмӑна
+     хоп+N+Pl+PxDu1+Loc: хоплдӑмӑнӑн
 
-     хоп+N+Pl+PxDu2+Nom: хопԯӑн
-     хоп+N+Pl+PxDu2+Lat: хопԯӑна
-     хоп+N+Pl+PxDu2+Loc: хопԯӑнӑн
+     хоп+N+Pl+PxDu2+Nom: хоплдӑн
+     хоп+N+Pl+PxDu2+Lat: хоплдӑна
+     хоп+N+Pl+PxDu2+Loc: хоплдӑнӑн
 
-     хоп+N+Pl+PxDu3+Nom: хопԯаԯ
-     хоп+N+Pl+PxDu3+Lat: хопԯаԯа
-     хоп+N+Pl+PxDu3+Loc: хопԯаԯӑн
+     хоп+N+Pl+PxDu3+Nom: хоплдалд
+     хоп+N+Pl+PxDu3+Lat: хоплдалда
+     хоп+N+Pl+PxDu3+Loc: хоплдалдӑн
 
-     хоп+N+Pl+PxPl1+Nom: хопԯув
-     хоп+N+Pl+PxPl1+Lat: хопԯува
-     хоп+N+Pl+PxPl1+Loc: хопԯувӑн
+     хоп+N+Pl+PxPl1+Nom: хоплдув
+     хоп+N+Pl+PxPl1+Lat: хоплдува
+     хоп+N+Pl+PxPl1+Loc: хоплдувӑн
 
-     хоп+N+Pl+PxPl2+Nom: хопԯӑн
-     хоп+N+Pl+PxPl2+Lat: хопԯӑна
-     хоп+N+Pl+PxPl2+Loc: хопԯӑнӑн
+     хоп+N+Pl+PxPl2+Nom: хоплдӑн
+     хоп+N+Pl+PxPl2+Lat: хоплдӑна
+     хоп+N+Pl+PxPl2+Loc: хоплдӑнӑн
 
-     хоп+N+Pl+PxPl3+Nom: хопԯаԯ
-     хоп+N+Pl+PxPl3+Lat: хопԯаԯа
-     хоп+N+Pl+PxPl3+Loc: хопԯаԯӑн
+     хоп+N+Pl+PxPl3+Nom: хоплдалд
+     хоп+N+Pl+PxPl3+Lat: хоплдалда
+     хоп+N+Pl+PxPl3+Loc: хоплдалдӑн
 

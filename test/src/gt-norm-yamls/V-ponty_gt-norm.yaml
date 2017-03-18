@@ -1,0 +1,58 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - понты: # Verb ''
+# Subject
+     понты+V+Ind+Prs+Sc1Sg: понлдум
+     понты+V+Ind+Prs+Sc2Sg: понлдан
+     понты+V+Ind+Prs+Sc3Sg: поналд
+     понты+V+Ind+Prs+Sc1Du: понлдамн
+     понты+V+Ind+Prs+Sc2Du: понлдатн
+     понты+V+Ind+Prs+Sc3Du: понлданган
+     понты+V+Ind+Prs+Sc1Pl: понлдув
+     понты+V+Ind+Prs+Sc2Pl: понлдаты
+     понты+V+Ind+Prs+Sc3Pl: понлдат
+# !Singular Object
+     понты+V+Ind+Prs+Sc1Sg+OcSg3: понэм
+     понты+V+Ind+Prs+Sc2Sg+OcSg3: понэн
+     понты+V+Ind+Prs+Sc3Sg+OcSg3: понэлд
+     понты+V+Ind+Prs+Sc1Du+OcSg3: понэмн
+     понты+V+Ind+Prs+Sc2Du+OcSg3: поналдн
+     понты+V+Ind+Prs+Sc3Du+Oc3: поналдн
+     понты+V+Ind+Prs+Sc1Pl+Oc3: понлдув
+     понты+V+Ind+Prs+Sc2Pl+Oc3: поналдн
+     понты+V+Ind+Prs+Sc3Pl+Oc3: понэлд
+# !Dual and Plural Object
+     понты+V+Ind+Prs+Sc1Sg+OcPl3: поналдам
+     понты+V+Ind+Prs+Sc2Sg+OcPl3: поналдан
+     понты+V+Ind+Prs+Sc3Sg+OcPl3: поналд
+     понты+V+Ind+Prs+Sc1Du+OcPl3: поналдамн
+     понты+V+Ind+Prs+Sc2Du+OcPl3: поналдн
+     понты+V+Ind+Prs+Sc3Du+OcPl3: поналдн
+     понты+V+Ind+Prs+Sc1Pl+OcPl3: поналдув
+     понты+V+Ind+Prs+Sc2Pl+OcPl3: поналдн
+     понты+V+Ind+Prs+Sc3Pl+OcPl3: поналдалд
+# Passive
+     понты+V+Ind+Prs+Pc1Sg: понаюм
+     понты+V+Ind+Prs+Pc2Sg: понайн
+     понты+V+Ind+Prs+Pc3Sg: пона
+     понты+V+Ind+Prs+Pc1Du: понайман
+     понты+V+Ind+Prs+Pc2Du: понайтан
+     понты+V+Ind+Prs+Pc3Du: понайнган
+     понты+V+Ind+Prs+Pc1Pl: понаюв
+     понты+V+Ind+Prs+Pc2Pl: понайты
+     понты+V+Ind+Prs+Pc3Pl: понаят
+

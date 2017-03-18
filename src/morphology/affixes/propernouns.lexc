@@ -8,10 +8,10 @@ LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
 :%' PROP ;
 
 LEXICON Prop-kev
-+Prop: NOUN ;
++N+Prop: NOUN ;
 
 LEXICON PROP
-+Prop: NOUN ;
++N+Prop: NOUN ;
 
 
 ! vim: set ft=xfst-lexc:

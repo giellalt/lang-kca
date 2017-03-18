@@ -6,14 +6,20 @@ Alphabet
 а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я
 А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
 
-ӑ о̆ ў ӗ ё̆ э̆ ю̆ я̆ ы̆  ! Probably only the first three
-Ӑ О̆ Ў Ӗ Ё̆ Э̆ Ю̆ Я̆ Ы̆  ! Probably only the first three
+ӯ
+Ӯ
 
-ң
-Ң
+а̄ о̄ е̄ ё̄ э̄ я̄ ы̄
+А̄ О̄ Е̄ Ё̄ Э̄ Я̄ Ы̄
 
-ԯ ! &#x052F; CYRILLIC SMALL EL WITH DESENDER
-Ԯ ! &#x052E; CYRILLIC CAPITAL EL WITH DESENDER
+ӑ о̆ ў ӗ ё̆ э̆ ю̆ я̆ ы̆  ! Probably only the first three OLD
+Ӑ О̆ Ў Ӗ Ё̆ Э̆ Ю̆ Я̆ Ы̆  ! Probably only the first three OLD
+
+ң ! нг
+Ң ! Нг
+
+ԯ ! &#x052F; CYRILLIC SMALL EL WITH DESENDER лд
+Ԯ ! &#x052E; CYRILLIC CAPITAL EL WITH DESENDER Лд
 
 
 
@@ -21,7 +27,8 @@ Alphabet
    %- !0
 
 ! Archiphonemes for vowels
- %{Е%}:0 ! linking vowel эвиеԯ 
+ %{ЕЭ%}:0 ! linking vowel эвиеԯ 
+ %{АЯИ%}:0 !! * @CODE@ ! used in possessor indices
 
 
 А1:а
@@ -96,9 +103,9 @@ Rules
 
 !! !Surface value of linking vowel before +PxSg3
 
-"%{Е%}:е"
+"%{ЕЭ%}:е"
 !! __@RULENAME@__
-%{Е%}:е <=> и %> _ [ ԯ ] ;
+%{ЕЭ%}:е <=> и %> _ [ ԯ ] ;
 
 
 

@@ -1,0 +1,74 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - туты: # Verb 'take'
+     туты+V+Act+Ind+Prs+Sc1Sg: тулдам
+     туты+V+Act+Ind+Prs+Sc2Sg: тулдан
+     туты+V+Act+Ind+Prs+Sc3Sg: туалд
+     туты+V+Act+Ind+Prs+Sc1Du: тулдман
+     туты+V+Act+Ind+Prs+Sc1Du: тулдамн
+     туты+V+Act+Ind+Prs+Sc2Du: тулдтан
+     туты+V+Act+Ind+Prs+Sc2Du: тулдатн
+     туты+V+Act+Ind+Prs+Sc3Du: тулднган
+     туты+V+Act+Ind+Prs+Sc3Du: тулданган
+     туты+V+Act+Ind+Prs+Sc1Pl: тулдув
+     туты+V+Act+Ind+Prs+Sc2Pl: тулдты
+     туты+V+Act+Ind+Prs+Sc2Pl: тулдаты
+     туты+V+Act+Ind+Prs+Sc3Pl: тулдат
+# Object Singular
+     туты+V+Act+Ind+Prs+Sc1Sg+OcSg3: туэм
+     туты+V+Act+Ind+Prs+Sc2Sg+OcSg3: туэн
+     туты+V+Act+Ind+Prs+Sc3Sg+OcSg3: туэлд
+     туты+V+Act+Ind+Prs+Sc1Du+OcSg3: туэмн
+     туты+V+Act+Ind+Prs+Sc2Du+OcSg3: туалдн
+     туты+V+Act+Ind+Prs+Sc2Du+OcSg3: тулдан
+     туты+V+Act+Ind+Prs+Sc3Du+OcSg3: тулдан
+     туты+V+Act+Ind+Prs+Sc3Du+OcSg3: туалдн
+     туты+V+Act+Ind+Prs+Sc1Pl+OcSg3: тулдув
+     туты+V+Act+Ind+Prs+Sc2Pl+OcSg3: тулдан
+     туты+V+Act+Ind+Prs+Sc2Pl+OcSg3: туалдн
+     туты+V+Act+Ind+Prs+Sc3Pl+OcSg3: туэлд
+     туты+V+Act+Ind+Prs+Sc3Pl+OcSg3: тулдалд
+# Object Plural
+     туты+V+Act+Ind+Prs+Sc1Sg+OcPl3: туалдам
+     туты+V+Act+Ind+Prs+Sc1Sg+OcPl3: тулдам
+     туты+V+Act+Ind+Prs+Sc2Sg+OcPl3: туалдан
+     туты+V+Act+Ind+Prs+Sc2Sg+OcPl3: тулдан
+     туты+V+Act+Ind+Prs+Sc3Sg+OcPl3: туалд
+     туты+V+Act+Ind+Prs+Sc1Du+OcPl3: туалдамн
+     туты+V+Act+Ind+Prs+Sc1Du+OcPl3: тулдамн
+     туты+V+Act+Ind+Prs+Sc2Du+OcPl3: туалдн
+     туты+V+Act+Ind+Prs+Sc2Du+OcPl3: тулдан
+     туты+V+Act+Ind+Prs+Sc3Du+OcPl3: туалдн
+     туты+V+Act+Ind+Prs+Sc3Du+OcPl3: тулдан
+     туты+V+Act+Ind+Prs+Sc1Pl+OcPl3: туалдув
+     туты+V+Act+Ind+Prs+Sc1Pl+OcPl3: тулдув
+     туты+V+Act+Ind+Prs+Sc2Pl+OcPl3: туалдн
+     туты+V+Act+Ind+Prs+Sc2Pl+OcPl3: тулдан
+     туты+V+Act+Ind+Prs+Sc3Pl+OcPl3: туалдалд
+     туты+V+Act+Ind+Prs+Sc3Pl+OcPl3: тулдалд
+#Passive
+#Passive
+     туты+V+Pss+Ind+Prs+Sc1Sg: туыюм
+     туты+V+Pss+Ind+Prs+Sc2Sg: туыйн
+     туты+V+Pss+Ind+Prs+Sc3Sg: туы
+     туты+V+Pss+Ind+Prs+Sc1Du: туыйман
+     туты+V+Pss+Ind+Prs+Sc2Du: туыйтан
+     туты+V+Pss+Ind+Prs+Sc3Du: туыйнган
+     туты+V+Pss+Ind+Prs+Sc1Pl: туыюв
+     туты+V+Pss+Ind+Prs+Sc2Pl: туыйты
+     туты+V+Pss+Ind+Prs+Sc3Pl: туыят
+
