@@ -67,13 +67,13 @@ LEXICON PLLOCSUF
 
 !! !Start Dual
 LEXICON DUNOMSUF
- +Du+Nom:%>ңăн K ;
+ +Du+Nom:%>нгăн K ;
 
 LEXICON DULATSUF
- +Du+Nom:%>ңăн%>а K ;
+ +Du+Nom:%>нгăн%>а K ;
 
 LEXICON DULOCSUF
- +Du+Nom:%>ңăн%>ӑн K ;
+ +Du+Nom:%>нгăн%>ӑн K ;
 
 
 
@@ -91,7 +91,7 @@ LEXICON SG-PXSG2
  +Sg+PxSg2:%>%{ЕЭ%}н PXCases ; !
 
 LEXICON SG-PXSG3
- +Sg+PxSg3+Nom:%>%{ЕЭ%}ԯ K ; !
+ +Sg+PxSg3+Nom:%>%{ЕЭ%}лд K ; !
 
 LEXICON SG-PXDU1
  +Sg+PxDu1:%>%{ЕЭ%}мн PXCases ; ! or is this -V1м
@@ -109,63 +109,63 @@ LEXICON SG-PXPL2
  +Sg+PxPl2:%>%{АЯИ%}н PXCases ; !
 
 LEXICON SG-PXPL3
- +Sg+PxPl3:%>%{ЕЭ%}ԯ K ; !
+ +Sg+PxPl3:%>%{ЕЭ%}лд K ; !
 
 !! !Dual possessa
 LEXICON DU-PXSG1
- +Du+PxSg1:%>ңаԯам PXCases ; ! or is this -V1м
+ +Du+PxSg1:%>нгалдам PXCases ; ! or is this -V1м
 
 LEXICON DU-PXSG2
- +Du+PxSg2:%>ңаԯан PXCases ; !
+ +Du+PxSg2:%>нгалдан PXCases ; !
 
 LEXICON DU-PXSG3
- +Du+PxSg3+Nom:%>ңаԯ K ; !
+ +Du+PxSg3+Nom:%>нгалд K ; !
 
 LEXICON DU-PXDU1
- +Du+PxDu1:%>ңаԯамн PXCases ; ! or is this -V1м
+ +Du+PxDu1:%>нгалдамн PXCases ; ! or is this -V1м
 
 LEXICON DU-PXDU2
- +Du+PxDu2:%>ңаԯан PXCases ; !
+ +Du+PxDu2:%>нгалдан PXCases ; !
 
 LEXICON DU-PXDU3
- +Du+PxDu3+Nom:%>ңаԯон K ; !
+ +Du+PxDu3+Nom:%>нгалдон K ; !
 
 LEXICON DU-PXPL1
- +Du+PxPl1:%>ңаԯув PXCases ; ! or is this -V1м
+ +Du+PxPl1:%>нгалдув PXCases ; ! or is this -V1м
 
 LEXICON DU-PXPL2
- +Du+PxPl2:%>ңаԯан PXCases ; !
+ +Du+PxPl2:%>нгалдан PXCases ; !
 
 LEXICON DU-PXPL3
- +Du+PxPl3+Nom:%>ңаԯаԯ K ; !
+ +Du+PxPl3+Nom:%>нгалдалд K ; !
 
 !! !Plural possessa
 LEXICON PL-PXSG1
- +Pl+PxSg1:%>ԯам PXCases ; ! or is this -V1м
+ +Pl+PxSg1:%>лдам PXCases ; ! or is this -V1м
 
 LEXICON PL-PXSG2
- +Pl+PxSg2:%>ԯан PXCases ; !
+ +Pl+PxSg2:%>лдан PXCases ; !
 
 LEXICON PL-PXSG3
- +Pl+PxSg3+Nom:%>ԯаԯ K ; !
+ +Pl+PxSg3+Nom:%>лдалд K ; !
 
 LEXICON PL-PXDU1
- +Pl+PxDu1:%>ԯамн PXCases ; ! or is this -V1м
+ +Pl+PxDu1:%>лдамн PXCases ; ! or is this -V1м
 
 LEXICON PL-PXDU2
- +Pl+PxDu2:%>ԯан PXCases ; !
+ +Pl+PxDu2:%>лдан PXCases ; !
 
 LEXICON PL-PXDU3
- +Pl+PxDu3+Nom:%>ԯан K ; !
+ +Pl+PxDu3+Nom:%>лдан K ; !
 
 LEXICON PL-PXPL1
- +Pl+PxPl1:%>ԯув PXCases ; ! or is this -V1м
+ +Pl+PxPl1:%>лдув PXCases ; ! or is this -V1м
 
 LEXICON PL-PXPL2
- +Pl+PxPl2:%>ԯан PXCases ; !
+ +Pl+PxPl2:%>лдан PXCases ; !
 
 LEXICON PL-PXPL3
- +Pl+PxPl3+Nom:%>ԯаԯ K ; !
+ +Pl+PxPl3+Nom:%>лдалд K ; !
 
 
 
