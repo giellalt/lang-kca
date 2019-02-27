@@ -155,7 +155,7 @@ V1 ! 0 ӑ
  @U.Cap.Opt@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
 LEXICON Root
-!! The word forms in UNDEFINED language start from the lexeme roots of basic
+!! The word forms in Khanty language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
 !0   Adjectives  ;
    adverbs   ;
@@ -166,6 +166,8 @@ LEXICON Root
    propernouns    ;
    quantifiers    ;
    verbs   ;
+    Punctuation ;
+    Symbols     ;
 
 Exceptions ;
 Abbreviation	;
