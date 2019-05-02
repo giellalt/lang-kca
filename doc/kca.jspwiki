@@ -40,6 +40,7 @@ Verb personal forms are:
 
 Other verb forms are
 
+ * +Symbol = independent symbols in the text stream, like £, €, ©
 Special symbols are classified with:
 The verbs are syntactically split according to transitivity:
 Special multiword units are analysed with:
@@ -58,8 +59,8 @@ source and target part-of-speech.
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
-* @NO CODE@ ! used in possessor indices
-* @NO CODE@ ! used in possessor indices
+* +Symbol ! used in possessor indices
+* +Symbol ! used in possessor indices
 
 
 And following triggers to control variation
@@ -92,7 +93,7 @@ given the proper use of these flags.
  | @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
  | @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
-The word forms in UNDEFINED language start from the lexeme roots of basic
+The word forms in Khanty language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
 
