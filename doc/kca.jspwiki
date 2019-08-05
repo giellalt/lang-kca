@@ -63,6 +63,16 @@ symbols in the lexicon files:
 * +Symbol ! used in possessor indices
 
 
+
+!!Symbols that need to be escaped on the lower side (towards twolc):
+ ; »7 : Literal »
+ ; «7 : Literal «
+{{{
+  %[%>%]  - Literal >
+  %[%<%]  - Literal <
+}}}
+
+
 And following triggers to control variation
 
 !!Flag diacritics
