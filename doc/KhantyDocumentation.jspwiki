@@ -5,8 +5,8 @@
 !!! Dynamic documentation
 
 * [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/morphology/stems/]   
-  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/morphology/affixes/] 
+* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/fst/stems/]   
+  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/fst/affixes/] 
   / [syntax|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/syntax] 
   / [twolc|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/phonology/kca-phon.twolc]   
   / [yaml|https://gtsvn.uit.no/langtech/trunk/langs/kca/test/src/gt-norm-yamls/]
@@ -15,7 +15,7 @@
 
 !!! Grammatical issues
 
-* [The tags that are in use|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/morphology/root.lexc]   
+* [The tags that are in use|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/fst/root.lexc]   
 * [A list of morphological tags|/lang/common/MorphologicalTags.html]
 
 
