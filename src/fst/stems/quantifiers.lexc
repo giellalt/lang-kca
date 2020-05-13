@@ -1,0 +1,15 @@
+
+LEXICON quantifiers
+
+и:и NUM_  "yksi" ;
+кӑт:кӑт NUM_  "kaksi" ;
+хуԯум:хуԯум NUM_  "kolme" ;
+няԯ:няԯ NUM_  "neljä" ;
+вет:вет NUM_  "viisi" ;
+хут:хут NUM_  "kuusi" ;
+ԯапӑт:ԯапӑт NUM_  "seitsemän" ;
+нивӑԯ:нивӑԯ NUM_  "kahdeksan" ;
+яртъяң:яртъяң NUM_  "yhdeksän" ;
+яң:яң NUM_  "kymmenen" ;
+сот:сот NUM_  "sata" ;
+ҫюрӑс:ҫюрӑс NUM_  "tuhat" ;

@@ -1,0 +1,139 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - эви: # Noun 'girl'
+     эви+N+Sg+Nom: эви
+     эви+N+Sg+Lat: эвиа
+     эви+N+Sg+Loc: эвиӑн
+#
+     эви+N+Sg+PxSg1+Nom: эвием
+     эви+N+Sg+PxSg1+Lat: эвиема
+     эви+N+Sg+PxSg1+Loc: эвиемӑн
+#
+     эви+N+Sg+PxSg2+Nom: эвиен
+     эви+N+Sg+PxSg2+Lat: эвиена
+     эви+N+Sg+PxSg2+Loc: эвиенӑн
+#
+     эви+N+Sg+PxSg3+Nom: эвилд
+     эви+N+Sg+PxSg3+Lat: эвилда
+     эви+N+Sg+PxSg3+Loc: эвилдӑн
+#
+     эви+N+Sg+PxDu1+Nom: эвиемӑн
+     эви+N+Sg+PxDu1+Lat: эвиемӑна
+     эви+N+Sg+PxDu1+Loc: эвиемӑнӑн
+#
+     эви+N+Sg+PxDu2+Nom: эвиӑн
+     эви+N+Sg+PxDu2+Lat: эвиӑна
+     эви+N+Sg+PxDu2+Loc: эвиӑнӑн
+#
+     эви+N+Sg+PxDu3+Nom: эвиӑн
+     эви+N+Sg+PxDu3+Lat: эвиӑна
+     эви+N+Sg+PxDu3+Loc: эвиӑнӑн
+#
+     эви+N+Sg+PxPl1+Nom: эвиев
+     эви+N+Sg+PxPl1+Lat: эвиева
+     эви+N+Sg+PxPl1+Loc: эвиевӑн
+#
+     эви+N+Sg+PxPl2+Nom: эвиӑн
+     эви+N+Sg+PxPl2+Lat: эвиӑна
+     эви+N+Sg+PxPl2+Loc: эвиӑнӑн
+#
+     эви+N+Sg+PxPl3+Nom: эвиӑлд
+     эви+N+Sg+PxPl3+Lat: эвиӑлда
+     эви+N+Sg+PxPl3+Loc: эвиӑлдӑн
+#
+     эви+N+Du+Nom: эвингӑн
+     эви+N+Du+Lat: эвингӑна
+     эви+N+Du+Loc: эвингӑнӑн
+#
+     эви+N+Du+PxSg1+Nom: эвингӑлдам
+     эви+N+Du+PxSg1+Lat: эвингӑлдама
+     эви+N+Du+PxSg1+Loc: эвингӑлдамӑн
+#
+     эви+N+Du+PxSg2+Nom: эвингӑлдан
+     эви+N+Du+PxSg2+Lat: эвингӑлдана
+     эви+N+Du+PxSg2+Loc: эвингӑлданӑн
+#
+     эви+N+Du+PxSg3+Nom: эвингӑлдалд
+     эви+N+Du+PxSg3+Lat: эвингӑлдалда
+     эви+N+Du+PxSg3+Loc: эвингӑлдалдӑн
+
+#
+     эви+N+Du+PxDu1+Nom: эвингӑлдӑмӑн
+     эви+N+Du+PxDu1+Lat: эвингӑлдӑмӑна
+     эви+N+Du+PxDu1+Loc: эвингӑлдӑмӑнӑн
+#
+     эви+N+Du+PxDu2+Nom: эвингӑлдӑн
+     эви+N+Du+PxDu2+Lat: эвингӑлдӑна
+     эви+N+Du+PxDu2+Loc: эвингӑлдӑнӑн
+#
+     эви+N+Du+PxDu3+Nom: эвингӑлдалд
+     эви+N+Du+PxDu3+Lat: эвингӑлдалда
+     эви+N+Du+PxDu3+Loc: эвингӑлдалдӑн
+#
+     эви+N+Du+PxPl1+Nom: эвингӑлдув
+     эви+N+Du+PxPl1+Lat: эвингӑлдува
+     эви+N+Du+PxPl1+Loc: эвингӑлдувӑн
+#
+     эви+N+Du+PxPl2+Nom: эвингӑлдӑн
+     эви+N+Du+PxPl2+Lat: эвингӑлдӑна
+     эви+N+Du+PxPl2+Loc: эвингӑлдӑнӑн
+#
+     эви+N+Du+PxPl3+Nom: эвингӑлдалд
+     эви+N+Du+PxPl3+Lat: эвингӑлдалда
+     эви+N+Du+PxPl3+Loc: эвингӑлдалдӑн
+#
+     эви+N+Pl+Nom: эвиӑт
+     эви+N+Pl+Lat: эвиӑта
+     эви+N+Pl+Loc: эвиӑтӑн
+
+     эви+N+Pl+PxSg1+Nom: эвилдам
+     эви+N+Pl+PxSg1+Lat: эвилдама
+     эви+N+Pl+PxSg1+Loc: эвилдамӑн
+
+     эви+N+Pl+PxSg2+Nom: эвилдан
+     эви+N+Pl+PxSg2+Lat: эвилдана
+     эви+N+Pl+PxSg2+Loc: эвилданӑн
+
+     эви+N+Pl+PxSg3+Nom: эвилдалд
+     эви+N+Pl+PxSg3+Lat: эвилдалда
+     эви+N+Pl+PxSg3+Loc: эвилдалдӑн
+
+
+     эви+N+Pl+PxDu1+Nom: эвилдӑмӑн
+     эви+N+Pl+PxDu1+Lat: эвилдӑмӑна
+     эви+N+Pl+PxDu1+Loc: эвилдӑмӑнӑн
+
+     эви+N+Pl+PxDu2+Nom: эвилдӑн
+     эви+N+Pl+PxDu2+Lat: эвилдӑна
+     эви+N+Pl+PxDu2+Loc: эвилдӑнӑн
+
+     эви+N+Pl+PxDu3+Nom: эвилдалд
+     эви+N+Pl+PxDu3+Lat: эвилдалда
+     эви+N+Pl+PxDu3+Loc: эвилдалдӑн
+
+     эви+N+Pl+PxPl1+Nom: эвилдув
+     эви+N+Pl+PxPl1+Lat: эвилдува
+     эви+N+Pl+PxPl1+Loc: эвилдувӑн
+
+     эви+N+Pl+PxPl2+Nom: эвилдӑн
+     эви+N+Pl+PxPl2+Lat: эвилдӑна
+     эви+N+Pl+PxPl2+Loc: эвилдӑнӑн
+
+     эви+N+Pl+PxPl3+Nom: эвилдалд
+     эви+N+Pl+PxPl3+Lat: эвилдалда
+     эви+N+Pl+PxPl3+Loc: эвилдалдӑн
+

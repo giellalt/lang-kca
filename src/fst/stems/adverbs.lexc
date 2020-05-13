@@ -1,0 +1,17 @@
+
+LEXICON adverbs
+
+нух:нух AdvSpatLat  "ylös" ;
+нух:нухԯи AdvSpatLat  "ylös" ;
+ким:ким AdvSpatLat  "ulos" ;
+ким:кимԯи AdvSpatLat  "ulos" ;
+юхи:юхи AdvSpatLat  "kotiin" ;
+юхи:юхԯи AdvSpatLat  "kotiin" ;
+нух:нум AdvSpatLoc  "ylhäällä" ;
+нух:нумӑн AdvSpatLoc  "ylhäällä" ;
+ким:камӑн AdvSpatLoc  "ulkona" ;
+юԯӑн:юԯӑн AdvSpatLoc  "kotona" ;
+юԯӑн:юԯӑн AdvSpatLoc  "kotona" ;
+нух:нумӑԯta AdvSpatAbl  "ylhäältä" ;
+ким:камӑԯta AdvSpatAbl  "ulkoa" ;
+юхи:юԯta AdvSpatAbl  "kotoa" ;

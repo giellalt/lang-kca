@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l pos="N">эви</l>
+         <stg>
+            <st Contlex="N_ЭВИ">эви</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>girl</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>tyttö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">кев</l>
+         <stg>
+            <st Contlex="N_КЕВ">кев</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>rock</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kivi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">кося</l>
+         <stg>
+            <st Contlex="N_КОСЯ">кося</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>master</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>herra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">нюхәс</l>
+         <stg>
+            <st Contlex="N_">нюхәс</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>sable</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>sable</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">тохлдаңхоп</l>
+         <stg>
+            <st Contlex="N_КЕВ">тохлдаң#хоп</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>airplane</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>lentokone</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">хоп</l>
+         <stg>
+            <st Contlex="N_КЕВ">хоп</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>boat</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>vene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">хот</l>
+         <stg>
+            <st Contlex="N_">хот</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>house</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>talo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">нэпек</l>
+         <stg>
+            <st Contlex="N_">нэпек</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>paper; book</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>paperi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">вер</l>
+         <stg>
+            <st Contlex="N_">вер</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>work</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>asia; työ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">пуш</l>
+         <stg>
+            <st Contlex="N_">пуш</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>time</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kerta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">мув</l>
+         <stg>
+            <st Contlex="N_">мув</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>land</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>maa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">лдапат</l>
+         <stg>
+            <st Contlex="N_">лдапат</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>week</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>viikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">лдапат хутмет</l>
+         <stg>
+            <st Contlex="N_">лдапат хутмет</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>Saturday</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>lauantai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">унтлдор тылдащ</l>
+         <stg>
+            <st Contlex="N_">унтлдор тылдащ</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>August</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>elokuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">щёхар тылдащ</l>
+         <stg>
+            <st Contlex="N_">щёхар тылдащ</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>September</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>syyskuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">няврэм</l>
+         <stg>
+            <st Contlex="N_">няврэм</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>child</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>lapsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ялдапталд тылдащ</l>
+         <stg>
+            <st Contlex="N_">ялдапталд тылдащ</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>January</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>tammikuu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">хатлд</l>
+         <stg>
+            <st Contlex="N_">хатлд</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>day</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>päivä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">талд</l>
+         <stg>
+            <st Contlex="N_">талд</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t>year</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>vuosi</t>
+         </tg>
+      </mg>
+   </e>
+
+</r>

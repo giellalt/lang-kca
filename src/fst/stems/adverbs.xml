@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
+      <lg>
+         <l>нух</l>
+         <stg>
+            <st Contlex="AdvSpatLat">нух</st>
+            <st Contlex="AdvSpatLat">нухԯи</st>
+         </stg>
+      </lg>
+      <pos>ADV-SPAT</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>up</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ylös</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>ким</l>
+         <stg>
+            <st Contlex="AdvSpatLat">ким</st>
+            <st Contlex="AdvSpatLat">кимԯи</st>
+         </stg>
+      </lg>
+      <pos>ADV-SPAT</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>out</t>
+            <t>outside</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ulos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>юхи</l>
+         <stg>
+            <st Contlex="AdvSpatLat">юхи</st>
+            <st Contlex="AdvSpatLat">юхԯи</st>
+         </stg>
+      </lg>
+      <pos>ADV-SPAT</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>home</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kotiin</t>
+            <t>kotia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>нух</l>
+         <stg>
+            <st Contlex="AdvSpatLoc">нум</st>
+            <st Contlex="AdvSpatLoc">нумӑн</st>
+         </stg>
+      </lg>
+      <pos>ADV-SPAT</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>above</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ylhäällä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>ким</l>
+         <stg>
+            <st Contlex="AdvSpatLoc">камӑн</st>
+         </stg>
+      </lg>
+      <pos>ADV-SPAT</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>out</t>
+            <t>outside</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ulkona</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>юԯӑн</l>
+         <stg>
+            <st Contlex="AdvSpatLoc">юԯӑн</st>
+         </stg>
+      </lg>
+      <pos>ADV-SPAT</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>at home</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kotona</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>юԯӑн</l>
+         <stg>
+            <st Contlex="AdvSpatLoc">юԯӑн</st>
+         </stg>
+      </lg>
+      <pos>ADV-SPAT</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>at home</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kotona</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>нух</l>
+         <stg>
+            <st Contlex="AdvSpatAbl">нумӑԯta</st>
+         </stg>
+      </lg>
+      <pos>ADV-SPAT</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>from above</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ylhäältä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>ким</l>
+         <stg>
+            <st Contlex="AdvSpatAbl">камӑԯta</st>
+         </stg>
+      </lg>
+      <pos>ADV-SPAT</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>from outside</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>ulkoa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l>юхи</l>
+         <stg>
+            <st Contlex="AdvSpatAbl">юԯta</st>
+         </stg>
+      </lg>
+      <pos>ADV-SPAT</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg xml:lang="eng">
+            <t>from home</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t>kotoa</t>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,41 @@
+# Khanty
+
+ӯ (->) ӯ, # Cyrillic у + U+0304 (->) precomposed
+ӣ (->) ӣ, # Cyrillic и + U+0304 (->) precomposed
+ӯ (->) у, # Cyrillic у + U+0304 (->) basic
+ӣ (->) и, # Cyrillic и + U+0304 (->) basic
+          # We use composing letters, may get precomposed input
+          # (No other long Cyrillic vowels precomposed)
+а́ (->) а, # Russian long vowel, accept short
+е́ (->) е, # Russian long vowel, accept short
+и́ (->) и, # Russian long vowel, accept short
+о́ (->) о, # Russian long vowel, accept short
+у́ (->) у, # Russian long vowel, accept short
+я́ (->) я, # Russian long vowel, accept short
+ё (->) е, # Russian long vowel, accept je pro jo
+ы́ (->) ы, # Russian long vowel, accept short
+ю́ (->) ю, # Russian long vowel, accept short
+ӑ (->) а, # Russian combining breve  vowel, accept vowel
+̆о (->) о # Russian combining breve  vowel, accept vowel
+;
+
+# Explanation:
+# lexical side (->) input 
+
+# Future thought:
+# A posible change is to split this file into lg-specific files.
+# As the number of language grow, this might be more relevant.
+# Especially conflicting rules a -> b, b -> a in different lgs
+# might force a split of this file.
+
+# Note:
+# Some of the lines above seem to contain identical letters, 
+# and in some cases the same right-hand letter seems to occure twice.
+# In each case, the __second__ of these is a non-precomposed letter.
+# In order to check which one is which one, open this file in emacs
+# and read through the line with the arrow key. The letters who span over
+# two characters (press arrow twice) are the precomposed ones.
+
+# Note that the ï/Ï letters are there for sma.
+# They are probably substandard, and should be relegated to sma.fst
+# but removed from a sma.norm.fst.

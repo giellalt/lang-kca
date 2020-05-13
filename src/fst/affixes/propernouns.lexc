@@ -1,0 +1,17 @@
+!! Proper noun inflection
+!! Khanty
+
+LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
+    PROP ;
+:%: PROP ;
+:%- PROP ;
+:%' PROP ;
+
+LEXICON Prop-kev
++N+Prop: NOUN ;
+
+LEXICON PROP
++N+Prop: NOUN ;
+
+
+! vim: set ft=xfst-lexc:

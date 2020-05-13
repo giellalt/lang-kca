@@ -1,0 +1,14 @@
+!! Quantifier inflection
+!!
+
+LEXICON Num1
++Qnt+Adn: #;
++Qnt+Der/MWN: N_КЕВ ;
+
+LEXICON NUM_
++Qnt+Adn: K ;
++Qnt+Ord:%>мет K ;
++Qnt+Der/MWN: # ;
+
+
+! vim: set ft=xfst-lexc:

@@ -1,0 +1,158 @@
+Multichar_Symbols
+
+! POS
++N +V +A 
++Adv +CC +CS +Interj +ProN +Num
+
+! Verbal MSP
++Prs +Fut +Prt +Prf +PrfIpf +HstPrf +PluPrf +HstPluPrf
++Ind +Imp +Cond +Opt
+! Subject indices
++Sc1Sg +Sc2Sg +Sc3Sg 
++Sc1Du +Sc2Du +Sc3Du 
++Sc1Pl +Sc2Pl +Sc3Pl 
+! Object indices
++Oc1Sg +Oc2Sg +Oc3Sg 
++Oc1Du +Oc2Du +Oc3Du 
++Oc1Pl +Oc2Pl +Oc3Pl 
++Pass
++Act
++Inf
++Pos +Neg
+
+! Nominal MSP
+! Number
++Sg +Pl
+! Case
++Nom +Acc +Gen +Abl +Dat +Loc +Pros +Tra +Abe +Adc +Ins +Apr +Ine +Ill +Ela +Egr
++Prl +Ter1 +Ter2 +Ter3 +Add1 +Add2
++Apr1 +Apr2
++EssInst
++Ord
++PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
++Qst
+
++Appr
++Advc
++Ter
++Pro
++Car 
+
++Pers
++Dem
+
++PstI
++PstII
+
++Clt
+!! Derivations
++Der/Ta
++Der/Te
++Der/ma
++Der/Tu
++Der/IA
+
+%>
+! Protoletters for xfst
+V1 ! 0 ӑ
+  ! These are for developing underlying morphology rules
+
+
+! Key lexicon
+
+LEXICON Root
+A ; 	! ../../tmp
+Abbreviation ;                          ! abbr-myv-lex.txt
+!ABBR ;                                 ! ../../tmp/out/ABBR_myv-lex.xml           !2012-03-14
+Acronym ;                               ! acro-myv-lex.txt
+!ACRON ;                                ! ../../tmp/out/ACRON_myv-lex.xml          !2012-03-14
+ADV ;
+N ;
+NUM ;
+SPAT ;       ! ../../tmp/out/SPAT_myv-lex.xml
+V ;
+CONJUNCTION ;
+SUBJUNCTION ;
+INTERJECTION ;
+NUMERAL ;
+PronRoot ;
+POSTPOSITION ;
+PUNCTUATION ;
+
+
+
+! I INCLUDE SOME SMALL LEXICA HERE
+! WAITING FOR OWN FILES, OR PERHAPS THEY COULD STAY HERE
+
+LEXICON CONJUNCTION 
+но CT ;
+нош CT ;
+
+LEXICON CT
++CS: # ;
+ 
+LEXICON SUBJUNCTION  
+# ;
+
+LEXICON INTERJECTION 
+# ;
+
+LEXICON NUMERAL
+#;
+
+LEXICON NUMBERSUF
++Num: K;
++Num:%> CASESUF ;
++Num:%> ORDINAL ;
+
+LEXICON ORDINAL
++Ord:этӥ K;
+
+
+
+LEXICON K
++Clt:%>ki # "also" ;
++Qst:а # ;
+# ; 
+
+
+LEXICON PUNCTUATION
+#; 
+LEXICON POSTPOSITION
+#; 
+
+LEXICON CADJ
++A: #; 
+LEXICON DADJ
++A: #; 
+LEXICON VADJ
++A: #;
+ 
+LEXICON AdvTag
++Adv: # ; 
+
+LEXICON MannerTag
++Adv+Manner: K ;
+
+! SPATIAL
+! Ordering anticipates overlap in 0Arg and 1Arg readings
+LEXICON SpatTag
++Spat: K ;
+
+LEXICON SpatLat-0Arg
++Spat+Lat+Adv: K ; 
+
+LEXICON SpatLoc-0Arg
++Spat+Loc+Adv: K ;
+
+LEXICON SpatAbl-0Arg
++Spat+Abl+Adv: K ;
+
+LEXICON CASESUF
+#; 
+LEXICON PRON
+#; 
+LEXICON DEM
+#; 
+LEXICON PERS
+#; 

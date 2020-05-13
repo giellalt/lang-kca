@@ -1,0 +1,139 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - нюхәс: # Noun 'sable'
+     нюхәс+N+Sg+Nom: нюхәс
+     нюхәс+N+Sg+Lat: нюхәса
+     нюхәс+N+Sg+Loc: нюхәсӑн
+#
+     нюхәс+N+Sg+PxSg1+Nom: нюхәсем
+     нюхәс+N+Sg+PxSg1+Lat: нюхәсема
+     нюхәс+N+Sg+PxSg1+Loc: нюхәсемӑн
+#
+     нюхәс+N+Sg+PxSg2+Nom: нюхәсен
+     нюхәс+N+Sg+PxSg2+Lat: нюхәсена
+     нюхәс+N+Sg+PxSg2+Loc: нюхәсенӑн
+#
+     нюхәс+N+Sg+PxSg3+Nom: нюхәслд
+     нюхәс+N+Sg+PxSg3+Lat: нюхәслда
+     нюхәс+N+Sg+PxSg3+Loc: нюхәслдӑн
+#
+     нюхәс+N+Sg+PxDu1+Nom: нюхәсемӑн
+     нюхәс+N+Sg+PxDu1+Lat: нюхәсемӑна
+     нюхәс+N+Sg+PxDu1+Loc: нюхәсемӑнӑн
+#
+     нюхәс+N+Sg+PxDu2+Nom: нюхәсӑн
+     нюхәс+N+Sg+PxDu2+Lat: нюхәсӑна
+     нюхәс+N+Sg+PxDu2+Loc: нюхәсӑнӑн
+#
+     нюхәс+N+Sg+PxDu3+Nom: нюхәсӑн
+     нюхәс+N+Sg+PxDu3+Lat: нюхәсӑна
+     нюхәс+N+Sg+PxDu3+Loc: нюхәсӑнӑн
+#
+     нюхәс+N+Sg+PxPl1+Nom: нюхәсев
+     нюхәс+N+Sg+PxPl1+Lat: нюхәсева
+     нюхәс+N+Sg+PxPl1+Loc: нюхәсевӑн
+#
+     нюхәс+N+Sg+PxPl2+Nom: нюхәсӑн
+     нюхәс+N+Sg+PxPl2+Lat: нюхәсӑна
+     нюхәс+N+Sg+PxPl2+Loc: нюхәсӑнӑн
+#
+     нюхәс+N+Sg+PxPl3+Nom: нюхәсӑлд
+     нюхәс+N+Sg+PxPl3+Lat: нюхәсӑлда
+     нюхәс+N+Sg+PxPl3+Loc: нюхәсӑлдӑн
+#
+     нюхәс+N+Du+Nom: нюхәснгӑн
+     нюхәс+N+Du+Lat: нюхәснгӑна
+     нюхәс+N+Du+Loc: нюхәснгӑнӑн
+#
+     нюхәс+N+Du+PxSg1+Nom: нюхәснгӑлдам
+     нюхәс+N+Du+PxSg1+Lat: нюхәснгӑлдама
+     нюхәс+N+Du+PxSg1+Loc: нюхәснгӑлдамӑн
+#
+     нюхәс+N+Du+PxSg2+Nom: нюхәснгӑлдан
+     нюхәс+N+Du+PxSg2+Lat: нюхәснгӑлдана
+     нюхәс+N+Du+PxSg2+Loc: нюхәснгӑлданӑн
+#
+     нюхәс+N+Du+PxSg3+Nom: нюхәснгӑлдалд
+     нюхәс+N+Du+PxSg3+Lat: нюхәснгӑлдалда
+     нюхәс+N+Du+PxSg3+Loc: нюхәснгӑлдалдӑн
+
+#
+     нюхәс+N+Du+PxDu1+Nom: нюхәснгӑлдӑмӑн
+     нюхәс+N+Du+PxDu1+Lat: нюхәснгӑлдӑмӑна
+     нюхәс+N+Du+PxDu1+Loc: нюхәснгӑлдӑмӑнӑн
+#
+     нюхәс+N+Du+PxDu2+Nom: нюхәснгӑлдӑн
+     нюхәс+N+Du+PxDu2+Lat: нюхәснгӑлдӑна
+     нюхәс+N+Du+PxDu2+Loc: нюхәснгӑлдӑнӑн
+#
+     нюхәс+N+Du+PxDu3+Nom: нюхәснгӑлдалд
+     нюхәс+N+Du+PxDu3+Lat: нюхәснгӑлдалда
+     нюхәс+N+Du+PxDu3+Loc: нюхәснгӑлдалдӑн
+#
+     нюхәс+N+Du+PxPl1+Nom: нюхәснгӑлдув
+     нюхәс+N+Du+PxPl1+Lat: нюхәснгӑлдува
+     нюхәс+N+Du+PxPl1+Loc: нюхәснгӑлдувӑн
+#
+     нюхәс+N+Du+PxPl2+Nom: нюхәснгӑлдӑн
+     нюхәс+N+Du+PxPl2+Lat: нюхәснгӑлдӑна
+     нюхәс+N+Du+PxPl2+Loc: нюхәснгӑлдӑнӑн
+#
+     нюхәс+N+Du+PxPl3+Nom: нюхәснгӑлдалд
+     нюхәс+N+Du+PxPl3+Lat: нюхәснгӑлдалда
+     нюхәс+N+Du+PxPl3+Loc: нюхәснгӑлдалдӑн
+#
+     нюхәс+N+Pl+Nom: нюхәсӑт
+     нюхәс+N+Pl+Lat: нюхәсӑта
+     нюхәс+N+Pl+Loc: нюхәсӑтӑн
+
+     нюхәс+N+Pl+PxSg1+Nom: нюхәслдам
+     нюхәс+N+Pl+PxSg1+Lat: нюхәслдама
+     нюхәс+N+Pl+PxSg1+Loc: нюхәслдамӑн
+
+     нюхәс+N+Pl+PxSg2+Nom: нюхәслдан
+     нюхәс+N+Pl+PxSg2+Lat: нюхәслдана
+     нюхәс+N+Pl+PxSg2+Loc: нюхәслданӑн
+
+     нюхәс+N+Pl+PxSg3+Nom: нюхәслдалд
+     нюхәс+N+Pl+PxSg3+Lat: нюхәслдалда
+     нюхәс+N+Pl+PxSg3+Loc: нюхәслдалдӑн
+
+
+     нюхәс+N+Pl+PxDu1+Nom: нюхәслдӑмӑн
+     нюхәс+N+Pl+PxDu1+Lat: нюхәслдӑмӑна
+     нюхәс+N+Pl+PxDu1+Loc: нюхәслдӑмӑнӑн
+
+     нюхәс+N+Pl+PxDu2+Nom: нюхәслдӑн
+     нюхәс+N+Pl+PxDu2+Lat: нюхәслдӑна
+     нюхәс+N+Pl+PxDu2+Loc: нюхәслдӑнӑн
+
+     нюхәс+N+Pl+PxDu3+Nom: нюхәслдалд
+     нюхәс+N+Pl+PxDu3+Lat: нюхәслдалда
+     нюхәс+N+Pl+PxDu3+Loc: нюхәслдалдӑн
+
+     нюхәс+N+Pl+PxPl1+Nom: нюхәслдув
+     нюхәс+N+Pl+PxPl1+Lat: нюхәслдува
+     нюхәс+N+Pl+PxPl1+Loc: нюхәслдувӑн
+
+     нюхәс+N+Pl+PxPl2+Nom: нюхәслдӑн
+     нюхәс+N+Pl+PxPl2+Lat: нюхәслдӑна
+     нюхәс+N+Pl+PxPl2+Loc: нюхәслдӑнӑн
+
+     нюхәс+N+Pl+PxPl3+Nom: нюхәслдалд
+     нюхәс+N+Pl+PxPl3+Lat: нюхәслдалда
+     нюхәс+N+Pl+PxPl3+Loc: нюхәслдалдӑн
+

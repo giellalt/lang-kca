@@ -1,0 +1,198 @@
+!! !!!Verb inflection
+
+
+
+LEXICON VTag
+ V_ТУ ;
+ V_ПОН ;
+
+LEXICON V_ТУ
++V: V_ТУ-Prs ;
++V+Inf:%>ты K ;
+
+LEXICON V_ПОН
++V: V_ПОН-Prs ;
++V+Inf:%>ты K ;
+
+! ===========
+!! !!PRESENT 
+! ===========
+
+LEXICON V_ТУ-Prs
+!! Subject
++Act+Ind+Prs+Sc1Sg:%>лд%>ам K ; !
++Act+Ind+Prs+Sc2Sg:%>лд%>ан K ; !
++Act+Ind+Prs+Sc3Sg:%>алд K ; !
++Act+Ind+Prs+Sc1Du:%>лд%>ман K ; !
++Act+Ind+Prs+Sc1Du:%>лд%>амн K ; !
++Act+Ind+Prs+Sc2Du:%>лд%>тан K ; !
++Act+Ind+Prs+Sc2Du:%>лд%>атн K ; !
++Act+Ind+Prs+Sc3Du:%>лд%>нган K ; !
++Act+Ind+Prs+Sc3Du:%>лд%>анган K ; !
++Act+Ind+Prs+Sc1Pl:%>лд%>ув K ; !
++Act+Ind+Prs+Sc2Pl:%>лд%>ты K ; !
++Act+Ind+Prs+Sc2Pl:%>лд%>аты K ; !
++Act+Ind+Prs+Sc3Pl:%>лд%>ат K ; !
+!! Object Singular
++Act+Ind+Prs+Sc1Sg+OcSg3:%>эм K ; !
++Act+Ind+Prs+Sc2Sg+OcSg3:%>эн K ; !
++Act+Ind+Prs+Sc3Sg+OcSg3:%>элд K ; !
++Act+Ind+Prs+Sc1Du+OcSg3:%>эмн K ; !
++Act+Ind+Prs+Sc2Du+OcSg3:%>алдн K ; !
++Act+Ind+Prs+Sc2Du+OcSg3:%>лдан K ; !
++Act+Ind+Prs+Sc3Du+OcSg3:%>лдан K ; !
++Act+Ind+Prs+Sc3Du+OcSg3:%>алдн K ; !
++Act+Ind+Prs+Sc1Pl+OcSg3:%>лдув K ; !
++Act+Ind+Prs+Sc2Pl+OcSg3:%>лдан K ; !
++Act+Ind+Prs+Sc2Pl+OcSg3:%>алдн K ; !
++Act+Ind+Prs+Sc3Pl+OcSg3:%>элд K ; !
++Act+Ind+Prs+Sc3Pl+OcSg3:%>лдалд K ; !
+!! Object Plural
++Act+Ind+Prs+Sc1Sg+OcPl3:%>алдам K ; !
++Act+Ind+Prs+Sc1Sg+OcPl3:%>лдам K ; !
++Act+Ind+Prs+Sc2Sg+OcPl3:%>алдан K ; !
++Act+Ind+Prs+Sc2Sg+OcPl3:%>лдан K ; !
++Act+Ind+Prs+Sc3Sg+OcPl3:%>алд K ; !
++Act+Ind+Prs+Sc1Du+OcPl3:%>алдамн K ; !
++Act+Ind+Prs+Sc1Du+OcPl3:%>лдамн K ; !
++Act+Ind+Prs+Sc2Du+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc2Du+OcPl3:%>лдан K ; !
++Act+Ind+Prs+Sc3Du+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc3Du+OcPl3:%>лдан K ; !
++Act+Ind+Prs+Sc1Pl+OcPl3:%>алдув K ; !
++Act+Ind+Prs+Sc1Pl+OcPl3:%>лдув K ; !
++Act+Ind+Prs+Sc2Pl+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc2Pl+OcPl3:%>лдан K ; !
++Act+Ind+Prs+Sc3Pl+OcPl3:%>алдалд K ; !
++Act+Ind+Prs+Sc3Pl+OcPl3:%>лдалд K ; !
+!!Passive
++Pss+Ind+Prs+Sc1Sg:%>ыюм K ; !
++Pss+Ind+Prs+Sc2Sg:%>ыйн K ; !
++Pss+Ind+Prs+Sc3Sg:%>ы K ; !
++Pss+Ind+Prs+Sc1Du:%>ыйман K ; !
++Pss+Ind+Prs+Sc2Du:%>ыйтан K ; !
++Pss+Ind+Prs+Sc3Du:%>ыйнган K ; !
++Pss+Ind+Prs+Sc1Pl:%>ыюв K ; 
++Pss+Ind+Prs+Sc2Pl:%>ыйты K ; !
++Pss+Ind+Prs+Sc3Pl:%>ыят K ; !
+
+LEXICON V_ПОН-Prs
+!! Subject
++Act+Ind+Prs+Sc1Sg:%>лд%>ум K ; !
++Act+Ind+Prs+Sc2Sg:%>лд%>ан K ; !
++Act+Ind+Prs+Sc3Sg:%>алд K ; !
++Act+Ind+Prs+Sc1Du:%>лд%>амн K ; !
++Act+Ind+Prs+Sc2Du:%>лд%>атн K ; !
++Act+Ind+Prs+Sc3Du:%>лд%>анган K ; !
++Act+Ind+Prs+Sc1Pl:%>лд%>ув K ; !
++Act+Ind+Prs+Sc2Pl:%>лд%>аты K ; !
++Act+Ind+Prs+Sc3Pl:%>лд%>ат K ; !
+!! !Singular Object
++Act+Ind+Prs+Sc1Sg+OcSg3:%>эм K ; !
++Act+Ind+Prs+Sc2Sg+OcSg3:%>эн K ; !
++Act+Ind+Prs+Sc3Sg+OcSg3:%>элд K ; !
++Act+Ind+Prs+Sc1Du+OcSg3:%>эмн K ; !
++Act+Ind+Prs+Sc2Du+OcSg3:%>алдн K ; !
++Act+Ind+Prs+Sc3Du+Oc3:%>алдн K ; !
++Act+Ind+Prs+Sc1Pl+Oc3:%>лдув K ; !
++Act+Ind+Prs+Sc2Pl+Oc3:%>алдн K ; !
++Act+Ind+Prs+Sc3Pl+Oc3:%>элд K ; !
+!! !Dual and Plural Object
++Act+Ind+Prs+Sc1Sg+OcPl3:%>алдам K ; !
++Act+Ind+Prs+Sc2Sg+OcPl3:%>алдан K ; !
++Act+Ind+Prs+Sc3Sg+OcPl3:%>алд K ; !
++Act+Ind+Prs+Sc1Du+OcPl3:%>алдамн K ; !
++Act+Ind+Prs+Sc2Du+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc3Du+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc1Pl+OcPl3:%>алдув K ; !
++Act+Ind+Prs+Sc2Pl+OcPl3:%>алдн K ; !
++Act+Ind+Prs+Sc3Pl+OcPl3:%>алдалд K ; !
+!! Passive
++Pss+Ind+Prs+Sc1Sg:%>аюм K ; !
++Pss+Ind+Prs+Sc2Sg:%>айн K ; !
++Pss+Ind+Prs+Sc3Sg:%>а K ; !
++Pss+Ind+Prs+Sc1Du:%>айман K ; !
++Pss+Ind+Prs+Sc2Du:%>айтан K ; !
++Pss+Ind+Prs+Sc3Du:%>айнган K ; !
++Pss+Ind+Prs+Sc1Pl:%>аюв K ; 
++Pss+Ind+Prs+Sc2Pl:%>айты K ; !
++Pss+Ind+Prs+Sc3Pl:%>аят K ; !
+
+
+!! -лд-эм Ӆлд
+
+
+!
+!! PRETERITE 
+!
+
+
+
+
+!
+!! IMPERATIVE 
+!
+
+
+
+!
+!! CONDITIONAL PRESENT
+!
+
+
+
+
+!
+!! REFLEXIVE 
+!
+
+!! PRESENT 
+
+
+
+!! IMPERFECT 
+
+
+
+!
+!! CONDITIONAL PRESENT 
+!
+
+
+
+
+!
+
+!LEXICON V_ПОН-Stem
+
+
+
+!
+!! IMPERATIVE 
+!
+
+
+
+
+!
+!! CONDITIONAL 
+!
+
+
+
+!
+!! REFLEXIVE 
+!
+
+
+
+
+
+!! INFINITIVE 
+
+!! -ty -infinitive added
+
++Der/ты+Inf:ты K ;
++Der/ты+Inf+Lat:тыя K ;
+
+! vim: set ft=xfst-lexc:

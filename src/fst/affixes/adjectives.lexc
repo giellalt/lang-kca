@@ -1,0 +1,20 @@
+!! Adjective inflection
+!! Khanty
+
+LEXICON A_КЕВ
+ A_ ;
+
+LEXICON A_КОСЯ
+ A_ ;
+
+LEXICON A_ЭВИ
+ A_ ;
+
+LEXICON A_ ! beginning 
++A: SGNOMSUF ;
+
++A: PLNOMSUF ;
+
+
+
+! vim: set ft=xfst-lexc:
