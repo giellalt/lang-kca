@@ -1,0 +1,9 @@
+name = "Khanty"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.kca"
+
+[windows]
+system_product_code = "37A8E779-F818-4F82-A263-31FD35CC40A0"
+msoffice_product_code = "24AE5D79-2D31-4891-9FBC-541C73119302"
