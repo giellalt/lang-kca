@@ -11,6 +11,7 @@ choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-kca)](https://github.com/giellalt/lang-kca/issues)
  [![Build Status](https://github.com/giellalt/lang-kca/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-kca/actions)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-kca)
 for the Khanty language by using the [Divvun Installer](http://divvun.no)
