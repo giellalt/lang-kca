@@ -22,7 +22,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/kcadoc/index.html>
+-   <https://giellalt.uit.no/lang/kca/KhantyDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
