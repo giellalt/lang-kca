@@ -2,16 +2,14 @@
 [What is this?|WhatIsThis.html]
 
 
-!!! Dynamic documentation
 
-* [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/fst/stems/]   
-  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/fst/affixes/] 
-  / [syntax|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/syntax] 
-  / [twolc|https://gtsvn.uit.no/langtech/trunk/langs/kca/src/phonology/kca-phon.twolc]   
-  / [yaml|https://gtsvn.uit.no/langtech/trunk/langs/kca/test/src/gt-norm-yamls/]
+
+ 
+ 
+ 
+ 
 * Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-kca.fi.html]
-  / [text|http://giellatekno.uit.no/cgi/d-kca.fi.html]
+ 
 
 !!! Grammatical issues
 
