@@ -1,4 +1,4 @@
-!! !!!Noun inflection in Khanty
+!! # Noun inflection in Khanty
 
 
 LEXICON N_КОСЯ ! кося-й-
@@ -30,7 +30,7 @@ LEXICON NOUN
   DULOCSUF ;
 
 ! ================
-!! !!ACTUAL CASES
+!! ## ACTUAL CASES
 ! ================
 
 LEXICON SGNOMSUF
@@ -53,7 +53,7 @@ LEXICON SGLOCSUF
 
 
 
-!! !Start Plural
+!! ### Start Plural
 LEXICON PLNOMSUF
  +Pl+Nom:%>ат K ;
 
@@ -65,7 +65,7 @@ LEXICON PLLOCSUF
 
 
 
-!! !Start Dual
+!! ### Start Dual
 LEXICON DUNOMSUF
  +Du+Nom:%>нгăн K ;
 
@@ -82,7 +82,7 @@ LEXICON DULOCSUF
 LEXICON POSS-INDICES-ALL
   PL-PXSG3 ;
 
-!! !Single possessum
+!! ### Single possessum
 
 LEXICON SG-PXSG1
  +Sg+PxSg1:%>%{ЕЭ%}м PXCases ; ! or is this -V1м
@@ -111,7 +111,7 @@ LEXICON SG-PXPL2
 LEXICON SG-PXPL3
  +Sg+PxPl3:%>%{ЕЭ%}лд K ; !
 
-!! !Dual possessa
+!! ### Dual possessa
 LEXICON DU-PXSG1
  +Du+PxSg1:%>нгалдам PXCases ; ! or is this -V1м
 
@@ -139,7 +139,7 @@ LEXICON DU-PXPL2
 LEXICON DU-PXPL3
  +Du+PxPl3+Nom:%>нгалдалд K ; !
 
-!! !Plural possessa
+!! ### Plural possessa
 LEXICON PL-PXSG1
  +Pl+PxSg1:%>лдам PXCases ; ! or is this -V1м
 

@@ -2,19 +2,19 @@
 LEXICON Exceptions
 !<U+052F>
 !ԯ
-!! !Adjectives
+!! ### Adjectives
 ун:ун A_ "(eng) big" ;
 
-!! !Adverb
+!! ### Adverb
 ищи:ищи ADV_ "(eng) also, too" ;
 туп:туп ADV_ "(eng) only" ;
 хоԯна:хоԯна ADV_ "(eng) again" ;
 хоты:хоты ADV_ "(eng) how" ;
 
-!! !Conjunctions
+!! ### Conjunctions
 ки:ки CS_ "(eng) if" ;
 
-!! !Nouns
+!! ### Nouns
 !щи:щи N_ "(eng) " ;
 ернас:ернас N_ "(eng) shirt, dress" ;
 ёх:ёх N_ "(eng) people" ;
@@ -25,20 +25,20 @@ LEXICON Exceptions
 хоят:хоят N_ "(eng) man, person" ;
 хўԯ:хўԯ N_ "(eng) fish, spruce" ;
 
-!! !Postpositions
+!! ### Postpositions
 пеԯа:пеԯа PO_  "(eng) to" ;
 хоща:хоща PO_  "(eng) at, in, to" ;
 эԯты:эԯты PO_  "(eng) out of" ;
 
-!! !Pronouns
+!! ### Pronouns
 муй:муй PRON_ "(eng) how many" ;
 муй% хорпи:муй% хорпи PRON_ "(eng) what kind of" ;
 щи:щи PRON_ "(eng) this, that" ;
 
-!! !Quantifiers
+!! ### Quantifiers
 ԯапат:ԯат NUM_ "(eng) seven" ;
 
-!! !Verbs
+!! ### Verbs
 акӑтты:акӑт V_ПОН  "" ;
 понты:пон V_ТУ  "" ;
 тайты:тай V_ПОН  "(eng) have, contain" ;
