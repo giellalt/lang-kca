@@ -1,4 +1,4 @@
-!! !!!Verb inflection
+!! # Verb inflection
 
 
 
@@ -15,7 +15,7 @@ LEXICON V_ПОН
 +V+Inf:%>ты K ;
 
 ! ===========
-!! !!PRESENT 
+!! ## PRESENT 
 ! ===========
 
 LEXICON V_ТУ-Prs
@@ -87,7 +87,7 @@ LEXICON V_ПОН-Prs
 +Act+Ind+Prs+Sc1Pl:%>лд%>ув K ; !
 +Act+Ind+Prs+Sc2Pl:%>лд%>аты K ; !
 +Act+Ind+Prs+Sc3Pl:%>лд%>ат K ; !
-!! !Singular Object
+!! ### Singular Object
 +Act+Ind+Prs+Sc1Sg+OcSg3:%>эм K ; !
 +Act+Ind+Prs+Sc2Sg+OcSg3:%>эн K ; !
 +Act+Ind+Prs+Sc3Sg+OcSg3:%>элд K ; !
@@ -97,7 +97,7 @@ LEXICON V_ПОН-Prs
 +Act+Ind+Prs+Sc1Pl+Oc3:%>лдув K ; !
 +Act+Ind+Prs+Sc2Pl+Oc3:%>алдн K ; !
 +Act+Ind+Prs+Sc3Pl+Oc3:%>элд K ; !
-!! !Dual and Plural Object
+!! ### Dual and Plural Object
 +Act+Ind+Prs+Sc1Sg+OcPl3:%>алдам K ; !
 +Act+Ind+Prs+Sc2Sg+OcPl3:%>алдан K ; !
 +Act+Ind+Prs+Sc3Sg+OcPl3:%>алд K ; !

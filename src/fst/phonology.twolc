@@ -53,7 +53,7 @@ Alphabet
  С1:с
  С1:0
 
-!! !!triggers
+!! ## triggers
 %^A2O:0
 %^A2I:0 
 %^MLenition:0 !! lenition
@@ -101,15 +101,15 @@ LBV = [ а | я | [ #:  ] [ у | о | э | ы ] ] ;
 
 Rules
 
-!! !Surface value of linking vowel before +PxSg3
+!! ### Surface value of linking vowel before +PxSg3
 
 "%{ЕЭ%}:е"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ЕЭ%}:е <=> и %> _ [ ԯ ] ;
 
 
 
-!! !LOSS
+!! ### LOSS
 
 
 
