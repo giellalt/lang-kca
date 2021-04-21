@@ -1,7 +1,7 @@
 # Khanty documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/template-lang-kca)](https://raw.githubusercontent.com/giellalt/lang-kca/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-kca)](https://raw.githubusercontent.com/giellalt/lang-kca/develop/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-kca)](https://github.com/giellalt/lang-kca/issues)
 [![Build status](https://github.com/giellalt/lang-kca/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-kca/actions)
 
