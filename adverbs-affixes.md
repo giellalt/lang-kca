@@ -1,0 +1,7 @@
+Adjective inflection
+Khanty
+
+
+
+
+

@@ -1,0 +1,7 @@
+Proper noun inflection
+Khanty
+
+
+
+
+

@@ -1,0 +1,16 @@
+Pronoun inflection
+Northern Khanty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
