@@ -1,4 +1,77 @@
 
+### Adjectives
+
+### Adverb
+
+### Conjunctions
+
+### Nouns
+
+### Postpositions
+
+### Pronouns
+
+### Quantifiers
+
+### Verbs
+
+
+
+
+
+
+
+
+
+
+
+
+
+* @NO CODE@ ! used in possessor indices
+
+
+
+
+
+
+
+
+## triggers
+lenition
+vowel raising э:ы о:у
+stem-final vowel is lost in plural accusative
+хасава:хасев
+in combination with stem-final vowel loss тёня:тён
+яля:ялэ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Surface value of linking vowel before +PxSg3
+
+**%{ЕЭ%}:е**
+
+
+
+### LOSS
+
+
+
+
 
 
 
@@ -28,6 +101,27 @@ Derivations
 
 
 
+
+
+
+
+
+Conjunctions
+Khanty
+
+
+
+
+
+
+Postpositions
+Khanty
+
+
+
+
+
+# Symbol affixes
 
 
 
@@ -106,47 +200,11 @@ Possessor Indices
 
 
 
-Proper noun inflection
-Khanty
-
-
-
-
-
-Pronoun inflection
-Northern Khanty
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Quantifier inflection
 
 
 
 
-
-# Symbol affixes
-
-
-
-
-
-Postpositions
-Khanty
-
-
-
-
 Adjective inflection
 Khanty
 
@@ -154,11 +212,8 @@ Khanty
 
 
 
-Adjective inflection
+Proper noun inflection
 Khanty
-
-
-
 
 
 
@@ -239,7 +294,7 @@ INFINITIVE
 -ty -infinitive added
 
 
-Conjunctions
+Adjective inflection
 Khanty
 
 
@@ -249,31 +304,8 @@ Khanty
 
 
 
-
-
-
-
-
-
-
-
-
-* @NO CODE@ ! used in possessor indices
-
-
-
-
-
-
-
-
-## triggers
-lenition
-vowel raising э:ы о:у
-stem-final vowel is lost in plural accusative
-хасава:хасев
-in combination with stem-final vowel loss тёня:тён
-яля:ялэ
+Pronoun inflection
+Northern Khanty
 
 
 
@@ -285,20 +317,6 @@ in combination with stem-final vowel loss тёня:тён
 
 
 
-
-
-
-
-
-
-
-### Surface value of linking vowel before +PxSg3
-
-**%{ЕЭ%}:е**
-
-
-
-### LOSS
 
 
 
@@ -422,24 +440,6 @@ word classes, or optionally from prefixes:
 
 
 
-
-
-
-### Adjectives
-
-### Adverb
-
-### Conjunctions
-
-### Nouns
-
-### Postpositions
-
-### Pronouns
-
-### Quantifiers
-
-### Verbs
 
 
 
