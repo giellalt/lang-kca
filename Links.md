@@ -1,3 +1,4 @@
+* [functions-cg3-src.md](functions-cg3-src.md)
 * [exceptions-stems-fst-src.md](exceptions-stems-fst-src.md)
 * [phonology-fst-src.md](phonology-fst-src.md)
 * [root-from-old-infra-fst-src.md](root-from-old-infra-fst-src.md)
@@ -13,3 +14,4 @@
 * [pronouns-affixes-fst-src.md](pronouns-affixes-fst-src.md)
 * [root-fst-src.md](root-fst-src.md)
 * [transcriptor-abbrevs2text-transcriptions-src.md](transcriptor-abbrevs2text-transcriptions-src.md)
+* [grammarchecker-grammarcheckers-tools.md](grammarchecker-grammarcheckers-tools.md)
