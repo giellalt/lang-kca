@@ -3,13 +3,13 @@ The Khanty morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-kca)](https://github.com/giellalt/lang-kca/issues)
 [![Build Status](https://github.com/giellalt/lang-kca/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-kca/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-kca)](https://raw.githubusercontent.com/giellalt/lang-kca/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-kca)](https://raw.githubusercontent.com/giellalt/lang-kca/main/LICENSE)
 
 This repository contains finite state source files for the Khanty language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under __LICENCE__
 licence, also detailed in the
-[LICENCE](https://github.com/giellalt/lang-kca/blob/develop/LICENCE). The
+[LICENSE](https://github.com/giellalt/lang-kca/blob/main/LICENSE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
 
@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-kca.git/trunk lang-kca
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-kca/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-kca/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
