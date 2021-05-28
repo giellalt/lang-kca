@@ -606,79 +606,6 @@ These were the set types.
 
 
 
-### Adjectives
-
-### Adverb
-
-### Conjunctions
-
-### Nouns
-
-### Postpositions
-
-### Pronouns
-
-### Quantifiers
-
-### Verbs
-
-
-
-
-
-
-
-
-
-
-
-
-
-* @NO CODE@ ! used in possessor indices
-
-
-
-
-
-
-
-
-## triggers
-lenition
-vowel raising э:ы о:у
-stem-final vowel is lost in plural accusative
-хасава:хасев
-in combination with stem-final vowel loss тёня:тён
-яля:ялэ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Surface value of linking vowel before +PxSg3
-
-**%{ЕЭ%}:е**
-
-
-
-### LOSS
-
-
-
-
 
 
 
@@ -713,6 +640,104 @@ Derivations
 
 
 
+# Verb inflection
+
+
+
+
+
+
+## PRESENT 
+
+Subject
+Object Singular
+Object Plural
+
+Subject
+### Singular Object
+### Dual and Plural Object
+Passive
+
+
+-лд-эм Ӆлд
+
+
+PRETERITE 
+
+
+
+
+IMPERATIVE 
+
+
+
+CONDITIONAL PRESENT
+
+
+
+
+REFLEXIVE 
+
+PRESENT 
+
+
+
+IMPERFECT 
+
+
+
+CONDITIONAL PRESENT 
+
+
+
+
+
+
+
+
+IMPERATIVE 
+
+
+
+
+CONDITIONAL 
+
+
+
+REFLEXIVE 
+
+
+
+
+
+INFINITIVE 
+
+-ty -infinitive added
+
+
+Proper noun inflection
+Khanty
+
+
+
+
+
+Pronoun inflection
+Northern Khanty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Conjunctions
 Khanty
 
@@ -727,8 +752,18 @@ Khanty
 
 
 
+Adjective inflection
+Khanty
 
-# Symbol affixes
+
+
+
+
+
+
+
+Adjective inflection
+Khanty
 
 
 
@@ -812,119 +847,84 @@ Quantifier inflection
 
 
 
-Adjective inflection
-Khanty
 
+# Symbol affixes
 
 
 
 
-Proper noun inflection
-Khanty
 
 
 
 
 
-# Verb inflection
 
 
 
 
 
 
-## PRESENT 
 
-Subject
-Object Singular
-Object Plural
+* @NO CODE@ ! used in possessor indices
 
-Subject
-### Singular Object
-### Dual and Plural Object
-Passive
 
 
--лд-эм Ӆлд
 
 
-PRETERITE 
 
 
 
+## triggers
+lenition
+vowel raising э:ы о:у
+stem-final vowel is lost in plural accusative
+хасава:хасев
+in combination with stem-final vowel loss тёня:тён
+яля:ялэ
 
-IMPERATIVE 
 
 
 
-CONDITIONAL PRESENT
 
 
 
 
-REFLEXIVE 
 
-PRESENT 
 
 
 
-IMPERFECT 
 
 
 
-CONDITIONAL PRESENT 
 
 
 
+### Surface value of linking vowel before +PxSg3
 
+**%{ЕЭ%}:е**
 
 
 
+### LOSS
 
-IMPERATIVE 
 
 
 
+### Adjectives
 
-CONDITIONAL 
+### Adverb
 
+### Conjunctions
 
+### Nouns
 
-REFLEXIVE 
+### Postpositions
 
+### Pronouns
 
+### Quantifiers
 
-
-
-INFINITIVE 
-
--ty -infinitive added
-
-
-Adjective inflection
-Khanty
-
-
-
-
-
-
-
-
-Pronoun inflection
-Northern Khanty
-
-
-
-
-
-
-
-
-
-
-
-
+### Verbs
 
 
 
