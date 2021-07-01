@@ -199,7 +199,7 @@
 * Sets for verbs
 
 
-    - V is all readings with a V tag in them, REAL-V should
+- V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
@@ -605,329 +605,8 @@ These were the set types.
 
 
 
-
-
-
-
-
-
-
-Derivations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Verb inflection
-
-
-
-
-
-
-## PRESENT 
-
-Subject
-Object Singular
-Object Plural
-
-Subject
-### Singular Object
-### Dual and Plural Object
-Passive
-
-
--лд-эм Ӆлд
-
-
-PRETERITE 
-
-
-
-
-IMPERATIVE 
-
-
-
-CONDITIONAL PRESENT
-
-
-
-
-REFLEXIVE 
-
-PRESENT 
-
-
-
-IMPERFECT 
-
-
-
-CONDITIONAL PRESENT 
-
-
-
-
-
-
-
-
-IMPERATIVE 
-
-
-
-
-CONDITIONAL 
-
-
-
-REFLEXIVE 
-
-
-
-
-
-INFINITIVE 
-
--ty -infinitive added
-
-
-Proper noun inflection
-Khanty
-
-
-
-
-
-Pronoun inflection
-Northern Khanty
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Conjunctions
-Khanty
-
-
-
-
-
-
-Postpositions
-Khanty
-
-
-
-
-Adjective inflection
-Khanty
-
-
-
-
-
-
-
-
-Adjective inflection
-Khanty
-
-
-
-
-
-# Noun inflection in Khanty
-
-
-
-
-
-
-
-
-
-
-
-
-## ACTUAL CASES
-
-
-
-
-
-
-
-
-
-### Start Plural
-
-
-
-
-
-### Start Dual
-
-
-
-
-
-
-Possessor Indices
-
-### Single possessum
-
-
-
-
-
-
-
-
-
-
-### Dual possessa
-
-
-
-
-
-
-
-
-
-### Plural possessa
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quantifier inflection
-
-
-
-
-
-# Symbol affixes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* @NO CODE@ ! used in possessor indices
-
-
-
-
-
-
-
-
-## triggers
-lenition
-vowel raising э:ы о:у
-stem-final vowel is lost in plural accusative
-хасава:хасев
-in combination with stem-final vowel loss тёня:тён
-яля:ялэ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Surface value of linking vowel before +PxSg3
-
-**%{ЕЭ%}:е**
-
-
-
-### LOSS
-
-
-
-
-### Adjectives
-
-### Adverb
-
-### Conjunctions
-
-### Nouns
-
-### Postpositions
-
-### Pronouns
-
-### Quantifiers
-
-### Verbs
-
-
-
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-kca/blob/main/../src/cg3/functions.cg3)</small>
 Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
@@ -1049,7 +728,343 @@ word classes, or optionally from prefixes:
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/root.lexc)</small>Proper noun inflection
+Khanty
 
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/propernouns.lexc)</small>Pronoun inflection
+Northern Khanty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/pronouns.lexc)</small>Quantifier inflection
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/quantifiers.lexc)</small>Postpositions
+Khanty
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/postpositions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/postpositions.lexc)</small># Noun inflection in Khanty
+
+
+
+
+
+
+
+
+
+
+
+
+## ACTUAL CASES
+
+
+
+
+
+
+
+
+
+### Start Plural
+
+
+
+
+
+### Start Dual
+
+
+
+
+
+
+Possessor Indices
+
+### Single possessum
+
+
+
+
+
+
+
+
+
+
+### Dual possessa
+
+
+
+
+
+
+
+
+
+### Plural possessa
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/symbols.lexc)</small>Conjunctions
+Khanty
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/conjunctions.lexc)</small>Adjective inflection
+Khanty
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adjectives.lexc)</small># Verb inflection
+
+
+
+
+
+
+## PRESENT 
+
+Subject
+Object Singular
+Object Plural
+
+Subject
+### Singular Object
+### Dual and Plural Object
+Passive
+
+
+-лд-эм Ӆлд
+
+
+PRETERITE 
+
+
+
+
+IMPERATIVE 
+
+
+
+CONDITIONAL PRESENT
+
+
+
+
+REFLEXIVE 
+
+PRESENT 
+
+
+
+IMPERFECT 
+
+
+
+CONDITIONAL PRESENT 
+
+
+
+
+
+
+
+
+IMPERATIVE 
+
+
+
+
+CONDITIONAL 
+
+
+
+REFLEXIVE 
+
+
+
+
+
+INFINITIVE 
+
+-ty -infinitive added
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/verbs.lexc)</small>Adjective inflection
+Khanty
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adverbs.lexc)</small>
+### Adjectives
+
+### Adverb
+
+### Conjunctions
+
+### Nouns
+
+### Postpositions
+
+### Pronouns
+
+### Quantifiers
+
+### Verbs
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/stems/exceptions.lexc)</small>
+
+
+
+
+
+
+Derivations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root-from-old-infra.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/root-from-old-infra.lexc)</small>
+
+
+
+
+
+
+
+
+
+
+* @NO CODE@ ! used in possessor indices
+
+
+
+
+
+
+
+
+## triggers
+lenition
+vowel raising э:ы о:у
+stem-final vowel is lost in plural accusative
+хасава:хасев
+in combination with stem-final vowel loss тёня:тён
+яля:ялэ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Surface value of linking vowel before +PxSg3
+
+**%{ЕЭ%}:е**
+
+
+
+### LOSS
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/phonology.twolc)</small>
 
 
 We describe here how abbreviations are in Khanty are read out, e.g.
@@ -1065,8 +1080,9 @@ For example:
  * esim.:esimerkiksi # ; 
 
 
-
-      [ L A N G U A G E ]  G R A M M A R   C H E C K E R
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+[ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
 
 
@@ -1476,3 +1492,5 @@ expression **WORD - premodifiers**.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-kca/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>

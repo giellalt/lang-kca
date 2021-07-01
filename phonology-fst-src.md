@@ -53,3 +53,5 @@ in combination with stem-final vowel loss тёня:тён
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/phonology.twolc)</small>
