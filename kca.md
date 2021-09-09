@@ -607,25 +607,286 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-kca/blob/main/../src/cg3/functions.cg3)</small>
-### Adjectives
 
-### Adverb
 
-### Conjunctions
 
-### Nouns
 
-### Postpositions
 
-### Pronouns
 
-### Quantifiers
 
-### Verbs
+
+
+
+* @NO CODE@ ! used in possessor indices
+
+
+
+
+
+
+
+
+## triggers
+lenition
+vowel raising э:ы о:у
+stem-final vowel is lost in plural accusative
+хасава:хасев
+in combination with stem-final vowel loss тёня:тён
+яля:ялэ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Surface value of linking vowel before +PxSg3
+
+**%{ЕЭ%}:е**
+
+
+
+### LOSS
+
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/stems/exceptions.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/phonology.twolc)</small>Adjective inflection
+Khanty
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adverbs.lexc)</small># Noun inflection in Khanty
+
+
+
+
+
+
+
+
+
+
+
+
+## ACTUAL CASES
+
+
+
+
+
+
+
+
+
+### Start Plural
+
+
+
+
+
+### Start Dual
+
+
+
+
+
+
+Possessor Indices
+
+### Single possessum
+
+
+
+
+
+
+
+
+
+
+### Dual possessa
+
+
+
+
+
+
+
+
+
+### Plural possessa
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/nouns.lexc)</small>Proper noun inflection
+Khanty
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/propernouns.lexc)</small>Quantifier inflection
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/quantifiers.lexc)</small># Verb inflection
+
+
+
+
+
+
+## PRESENT 
+
+Subject
+Object Singular
+Object Plural
+
+Subject
+### Singular Object
+### Dual and Plural Object
+Passive
+
+
+-лд-эм Ӆлд
+
+
+PRETERITE 
+
+
+
+
+IMPERATIVE 
+
+
+
+CONDITIONAL PRESENT
+
+
+
+
+REFLEXIVE 
+
+PRESENT 
+
+
+
+IMPERFECT 
+
+
+
+CONDITIONAL PRESENT 
+
+
+
+
+
+
+
+
+IMPERATIVE 
+
+
+
+
+CONDITIONAL 
+
+
+
+REFLEXIVE 
+
+
+
+
+
+INFINITIVE 
+
+-ty -infinitive added
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/verbs.lexc)</small>Adjective inflection
+Khanty
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adjectives.lexc)</small>Conjunctions
+Khanty
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/conjunctions.lexc)</small>Postpositions
+Khanty
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/postpositions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/postpositions.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/symbols.lexc)</small>Pronoun inflection
+Northern Khanty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/pronouns.lexc)</small>
 Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
@@ -749,286 +1010,25 @@ word classes, or optionally from prefixes:
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/root.lexc)</small>
+### Adjectives
 
+### Adverb
 
+### Conjunctions
 
+### Nouns
 
+### Postpositions
 
+### Pronouns
 
+### Quantifiers
 
-
-
-
-* @NO CODE@ ! used in possessor indices
-
-
-
-
-
-
-
-
-## triggers
-lenition
-vowel raising э:ы о:у
-stem-final vowel is lost in plural accusative
-хасава:хасев
-in combination with stem-final vowel loss тёня:тён
-яля:ялэ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Surface value of linking vowel before +PxSg3
-
-**%{ЕЭ%}:е**
-
-
-
-### LOSS
-
+### Verbs
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/phonology.twolc)</small>Conjunctions
-Khanty
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/conjunctions.lexc)</small>Adjective inflection
-Khanty
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adverbs.lexc)</small>Quantifier inflection
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/quantifiers.lexc)</small># Verb inflection
-
-
-
-
-
-
-## PRESENT 
-
-Subject
-Object Singular
-Object Plural
-
-Subject
-### Singular Object
-### Dual and Plural Object
-Passive
-
-
--лд-эм Ӆлд
-
-
-PRETERITE 
-
-
-
-
-IMPERATIVE 
-
-
-
-CONDITIONAL PRESENT
-
-
-
-
-REFLEXIVE 
-
-PRESENT 
-
-
-
-IMPERFECT 
-
-
-
-CONDITIONAL PRESENT 
-
-
-
-
-
-
-
-
-IMPERATIVE 
-
-
-
-
-CONDITIONAL 
-
-
-
-REFLEXIVE 
-
-
-
-
-
-INFINITIVE 
-
--ty -infinitive added
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/verbs.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/symbols.lexc)</small>Pronoun inflection
-Northern Khanty
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/pronouns.lexc)</small>Proper noun inflection
-Khanty
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/propernouns.lexc)</small>Postpositions
-Khanty
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/postpositions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/postpositions.lexc)</small>Adjective inflection
-Khanty
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adjectives.lexc)</small># Noun inflection in Khanty
-
-
-
-
-
-
-
-
-
-
-
-
-## ACTUAL CASES
-
-
-
-
-
-
-
-
-
-### Start Plural
-
-
-
-
-
-### Start Dual
-
-
-
-
-
-
-Possessor Indices
-
-### Single possessum
-
-
-
-
-
-
-
-
-
-
-### Dual possessa
-
-
-
-
-
-
-
-
-
-### Plural possessa
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/stems/exceptions.lexc)</small>
 
 
 
