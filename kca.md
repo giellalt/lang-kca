@@ -607,6 +607,25 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-kca/blob/main/../src/cg3/functions.cg3)</small>
+### Adjectives
+
+### Adverb
+
+### Conjunctions
+
+### Nouns
+
+### Postpositions
+
+### Pronouns
+
+### Quantifiers
+
+### Verbs
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/stems/exceptions.lexc)</small>
 
 
 
@@ -662,15 +681,43 @@ in combination with stem-final vowel loss тёня:тён
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/phonology.twolc)</small>Adjective inflection
-Khanty
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/phonology.twolc)</small>
+
+
+
+
+
+
+Derivations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adverbs.lexc)</small># Noun inflection in Khanty
+<small>This (part of) documentation was generated from [../src/fst/root-from-old-infra.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/root-from-old-infra.lexc)</small># Noun inflection in Khanty
 
 
 
@@ -744,7 +791,37 @@ Possessor Indices
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/nouns.lexc)</small>Proper noun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/nouns.lexc)</small>Postpositions
+Khanty
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/postpositions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/postpositions.lexc)</small>Quantifier inflection
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/quantifiers.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/symbols.lexc)</small>Conjunctions
+Khanty
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/conjunctions.lexc)</small>Adjective inflection
 Khanty
 
 
@@ -752,13 +829,18 @@ Khanty
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/propernouns.lexc)</small>Quantifier inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adverbs.lexc)</small>Adjective inflection
+Khanty
+
+
+
+
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/quantifiers.lexc)</small># Verb inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adjectives.lexc)</small># Verb inflection
 
 
 
@@ -834,42 +916,15 @@ INFINITIVE
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/verbs.lexc)</small>Adjective inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
 Khanty
 
 
 
 
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adjectives.lexc)</small>Conjunctions
-Khanty
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/conjunctions.lexc)</small>Postpositions
-Khanty
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/postpositions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/postpositions.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/symbols.lexc)</small>Pronoun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/propernouns.lexc)</small>Pronoun inflection
 Northern Khanty
 
 
@@ -1010,61 +1065,6 @@ word classes, or optionally from prefixes:
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/root.lexc)</small>
-### Adjectives
-
-### Adverb
-
-### Conjunctions
-
-### Nouns
-
-### Postpositions
-
-### Pronouns
-
-### Quantifiers
-
-### Verbs
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/stems/exceptions.lexc)</small>
-
-
-
-
-
-
-Derivations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/root-from-old-infra.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/root-from-old-infra.lexc)</small>
 
 
 We describe here how abbreviations are in Khanty are read out, e.g.
