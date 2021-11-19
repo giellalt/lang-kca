@@ -104,7 +104,7 @@ LEXICON BEFpunkt
 LEXICON AFTpunkt
 %:: AFT ;  ! 2:00 = göökte
 %.: AFT ;  ! 2.00 = göökte
-:  HOUR ;  ! 2    = göökte
+   HOUR ;  ! 2    = göökte
 
 LEXICON BEF
 3%0:                      HALFHOUR ;
@@ -196,18 +196,18 @@ LEXICON HALF
 
 
 LEXICON HOUR
-@U.TIME.1@:peyak@U.TIME.1@          TIPAHIKAN ;           
-@U.TIME.2@:nîso@U.TIME.2@         TIPAHIKAN ;         
-@U.TIME.3@:nisto@U.TIME.3@          TIPAHIKAN ;          
-@U.TIME.4@:newo@U.TIME.4@       TIPAHIKAN ;       
-@U.TIME.5@:nîyânan@U.TIME.5@         TIPAHIKAN ;         
-@U.TIME.6@:nikotwâsik@U.TIME.6@         TIPAHIKAN ;         
-@U.TIME.7@:tepakohp@U.TIME.7@       TIPAHIKAN ;       
-@U.TIME.8@:ayinânew@U.TIME.8@       TIPAHIKAN ;       
-@U.TIME.9@:kekâmitâtaht@U.TIME.9@         TIPAHIKAN ;         
-@U.TIME.10@:mitâtaht@U.TIME.10@       TIPAHIKAN ;       
-@U.TIME.11@:peyakosâp@U.TIME.11@   TIPAHIKAN ;   
-@U.TIME.12@:nîsosâp@U.TIME.12@     TIPAHIKAN ; 
+@U.TIME.1@:@U.TIME.1@peyak          TIPAHIKAN ;           
+@U.TIME.2@:@U.TIME.2@nîso         TIPAHIKAN ;         
+@U.TIME.3@:@U.TIME.3@nisto          TIPAHIKAN ;          
+@U.TIME.4@:@U.TIME.4@newo       TIPAHIKAN ;       
+@U.TIME.5@:@U.TIME.5@nîyânan         TIPAHIKAN ;         
+@U.TIME.6@:@U.TIME.6@nikotwâsik         TIPAHIKAN ;         
+@U.TIME.7@:@U.TIME.7@tepakohp       TIPAHIKAN ;       
+@U.TIME.8@:@U.TIME.8@ayinânew       TIPAHIKAN ;       
+@U.TIME.9@:@U.TIME.9@kekâmitâtaht         TIPAHIKAN ;         
+@U.TIME.10@:@U.TIME.10@mitâtaht       TIPAHIKAN ;       
+@U.TIME.11@:@U.TIME.11@peyakosâp   TIPAHIKAN ;   
+@U.TIME.12@:@U.TIME.12@nîsosâp     TIPAHIKAN ; 
 
 LEXICON TIPAHIKAN
  :% tipahikan # ;
