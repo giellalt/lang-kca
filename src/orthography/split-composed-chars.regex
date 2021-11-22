@@ -1,0 +1,9 @@
+# Regex to expand multichar symbols (in the fst sense) to a string of individual letters.
+# Will make sure that various tools do not choke on parsing input strings.
+
+"ӑ" -> {ӑ},
+"о̆" -> {о̆},
+"Ӑ" -> {Ӑ},
+"О̆" -> {О̆};
+
+
