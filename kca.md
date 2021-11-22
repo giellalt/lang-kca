@@ -607,25 +607,6 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-kca/blob/main/../src/cg3/functions.cg3)</small>
-### Adjectives
-
-### Adverb
-
-### Conjunctions
-
-### Nouns
-
-### Postpositions
-
-### Pronouns
-
-### Quantifiers
-
-### Verbs
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/stems/exceptions.lexc)</small>
 
 
 
@@ -681,147 +662,7 @@ in combination with stem-final vowel loss тёня:тён
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/phonology.twolc)</small>
-
-
-
-
-
-
-Derivations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/root-from-old-infra.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/root-from-old-infra.lexc)</small># Noun inflection in Khanty
-
-
-
-
-
-
-
-
-
-
-
-
-## ACTUAL CASES
-
-
-
-
-
-
-
-
-
-### Start Plural
-
-
-
-
-
-### Start Dual
-
-
-
-
-
-
-Possessor Indices
-
-### Single possessum
-
-
-
-
-
-
-
-
-
-
-### Dual possessa
-
-
-
-
-
-
-
-
-
-### Plural possessa
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/nouns.lexc)</small>Postpositions
-Khanty
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/postpositions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/postpositions.lexc)</small>Quantifier inflection
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/quantifiers.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/symbols.lexc)</small>Conjunctions
-Khanty
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/conjunctions.lexc)</small>Adjective inflection
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/phonology.twolc)</small>Adjective inflection
 Khanty
 
 
@@ -829,8 +670,14 @@ Khanty
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adverbs.lexc)</small>Adjective inflection
-Khanty
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adverbs.lexc)</small>Pronoun inflection
+Northern Khanty
+
+
+
+
+
+
 
 
 
@@ -840,7 +687,7 @@ Khanty
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adjectives.lexc)</small># Verb inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/pronouns.lexc)</small># Verb inflection
 
 
 
@@ -916,7 +763,16 @@ INFINITIVE
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/verbs.lexc)</small>Conjunctions
+Khanty
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/conjunctions.lexc)</small>Proper noun inflection
 Khanty
 
 
@@ -924,8 +780,152 @@ Khanty
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/propernouns.lexc)</small>Pronoun inflection
-Northern Khanty
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/propernouns.lexc)</small>Quantifier inflection
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/quantifiers.lexc)</small># Noun inflection in Khanty
+
+
+
+
+
+
+
+
+
+
+
+
+## ACTUAL CASES
+
+
+
+
+
+
+
+
+
+### Start Plural
+
+
+
+
+
+### Start Dual
+
+
+
+
+
+
+Possessor Indices
+
+### Single possessum
+
+
+
+
+
+
+
+
+
+
+### Dual possessa
+
+
+
+
+
+
+
+
+
+### Plural possessa
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/symbols.lexc)</small>Postpositions
+Khanty
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/postpositions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/postpositions.lexc)</small>Adjective inflection
+Khanty
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/adjectives.lexc)</small>
+### Adjectives
+
+### Adverb
+
+### Conjunctions
+
+### Nouns
+
+### Postpositions
+
+### Pronouns
+
+### Quantifiers
+
+### Verbs
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/stems/exceptions.lexc)</small>
+
+
+
+
+
+
+Derivations
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -941,7 +941,7 @@ Northern Khanty
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/affixes/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/root-from-old-infra.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/root-from-old-infra.lexc)</small>
 Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
