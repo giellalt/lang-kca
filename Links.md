@@ -1,3 +1,4 @@
+* [disambiguator-cg3-src.md](disambiguator-cg3-src.md)
 * [functions-cg3-src.md](functions-cg3-src.md)
 * [phonology-fst-src.md](phonology-fst-src.md)
 * [adverbs-affixes-fst-src.md](adverbs-affixes-fst-src.md)
