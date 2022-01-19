@@ -618,7 +618,7 @@ These were the set types.
 ## Delimiters , tags and sets
 
 
-DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>"; #@CODE DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>"; # @CODE
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>"; # DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>"; # @CODE
 
 
 ## Tags and sets 
@@ -627,92 +627,92 @@ DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>"; #@CODE DELIMITERS = "<.>" "<!>" "
 
 ### Tags declared as single-membered LISTs 
 
-* LIST N = N ; #@CODE@
-* LIST Sg = Sg ; #@CODE@
-* LIST Pl = Pl ; #@CODE@
-* LIST Nom = Nom ; #@CODE@
-* LIST Acc = Acc ; #@CODE@
-* LIST Gen = Gen ; #@CODE@
-* LIST Par = Par ; #@CODE@
-* LIST Loc = Loc ; #@CODE@
-* LIST Abl = Abl ; #@CODE@
-* LIST Lat = Lat ; #@CODE@
-* LIST Tra = Tra ; #@CODE@
-* LIST PxSg1 = PxSg1 ; #@CODE@
-* LIST PxSg2 = PxSg2 ; #@CODE@
-* LIST PxSg3 = PxSg3 ; #@CODE@
-* LIST PxDu1 = PxDu1 ; #@CODE@
-* LIST PxDu2 = PxDu2 ; #@CODE@
-* LIST PxDu3 = PxDu3 ; #@CODE@
-* LIST PxPl1 = PxPl1 ; #@CODE@
-* LIST PxPl2 = PxPl2 ; #@CODE@
-* LIST PxPl3 = PxPl3 ; #@CODE@
-* LIST V = V ; #@CODE@
-* LIST Prs = Prs ; #@CODE@
-* LIST Prt = Prt ; #@CODE@
-* LIST Sg1 = Sg1 ; #@CODE@
-* LIST Sg2 = Sg2 ; #@CODE@
-* LIST Sg3 = Sg3 ; #@CODE@
-* LIST Du1 = Du1 ; #@CODE@
-* LIST Du2 = Du2 ; #@CODE@
-* LIST Du3 = Du3 ; #@CODE@
-* LIST Pl1 = Pl1 ; #@CODE@
-* LIST Pl2 = Pl2 ; #@CODE@
-* LIST Pl3 = Pl3 ; #@CODE@
-* LIST Inf = Inf ; #@CODE@
-* LIST Neg = Neg ; #@CODE@
-* LIST ConNeg = ConNeg ; #@CODE@
-* LIST Foc/gan = Foc/gan ; #@CODE@
-* LIST PrfPrc = PrfPrc ; #@CODE@
-* LIST PrsPrc = PrsPrc ; #@CODE@
-* LIST VGen = VGen ; #@CODE@
-* LIST Ger = Ger ; #@CODE@
-* LIST Ind = Ind ; #@CODE@
-* LIST Imp = Imp ; #@CODE@
-* LIST ImpII = ImpII ; #@CODE@
-* LIST Pot = Pot ; #@CODE@
-* LIST Cond = Cond ; #@CODE@
-* LIST Imprt = Imprt ; #@CODE@
-* LIST IV = IV ; #@CODE@
-* LIST TV = TV ; #@CODE@
-* LIST Opt = Opt ; #@CODE@
-* LIST Actor = Actor ; #@CODE@
-* LIST Clt = Clt ; #@CODE@
-* LIST A = A ; #@CODE@
-* LIST Pos = Pos ; #@CODE@
-* LIST Ord = Ord ; #@CODE@
-* LIST Coll = Coll ; #@CODE@
-* LIST ABBR = ABBR ; #@CODE@
-* LIST ACR = ACR ; #@CODE@
-* LIST Comp = Comp ; #@CODE@
-* LIST Superl = Superl ; #@CODE@
-* LIST Attr = Attr ; #@CODE@
-* LIST Pron = Pron ; #@CODE@
-* LIST Pers = Pers ; #@CODE@
-* LIST Dem = Dem ; #@CODE@
-* LIST Interr = Interr ; #@CODE@
-* LIST Rel = Rel ; #@CODE@
-* LIST Po = Po ; #@CODE@
-* LIST Pr = Pr ; #@CODE@
-* LIST Adv = Adv ; #@CODE@
-* LIST Interj = Interj ; #@CODE@
-* LIST Indef = Indef ; #@CODE@
-* LIST Num = Num ; #@CODE@
-* LIST Prop = Prop ; #@CODE@
-* LIST Mal = Mal ; #@CODE@
-* LIST Fem = Fem ; #@CODE@
-* LIST Sur = Sur ; #@CODE@
-* LIST Org = Org ; #@CODE@
-* LIST CS = CS ; #@CODE@
-* LIST CC = CC ; #@CODE@
-* LIST Pcle = Pcle ; #@CODE@
-* LIST CLB = CLB ; #@CODE@
-* LIST LEFT = LEFT ; #@CODE@
-* LIST RIGHT = RIGHT ; #@CODE@
-* LIST COMMA = "," ; #@CODE@
-* LIST Der1 = Der1 ; #@CODE@
-* LIST Der2 = Der2 ; #@CODE@
-* LIST Der3 = Der3 ; #@CODE@
+* LIST N = N ; #
+* LIST Sg = Sg ; #
+* LIST Pl = Pl ; #
+* LIST Nom = Nom ; #
+* LIST Acc = Acc ; #
+* LIST Gen = Gen ; #
+* LIST Par = Par ; #
+* LIST Loc = Loc ; #
+* LIST Abl = Abl ; #
+* LIST Lat = Lat ; #
+* LIST Tra = Tra ; #
+* LIST PxSg1 = PxSg1 ; #
+* LIST PxSg2 = PxSg2 ; #
+* LIST PxSg3 = PxSg3 ; #
+* LIST PxDu1 = PxDu1 ; #
+* LIST PxDu2 = PxDu2 ; #
+* LIST PxDu3 = PxDu3 ; #
+* LIST PxPl1 = PxPl1 ; #
+* LIST PxPl2 = PxPl2 ; #
+* LIST PxPl3 = PxPl3 ; #
+* LIST V = V ; #
+* LIST Prs = Prs ; #
+* LIST Prt = Prt ; #
+* LIST Sg1 = Sg1 ; #
+* LIST Sg2 = Sg2 ; #
+* LIST Sg3 = Sg3 ; #
+* LIST Du1 = Du1 ; #
+* LIST Du2 = Du2 ; #
+* LIST Du3 = Du3 ; #
+* LIST Pl1 = Pl1 ; #
+* LIST Pl2 = Pl2 ; #
+* LIST Pl3 = Pl3 ; #
+* LIST Inf = Inf ; #
+* LIST Neg = Neg ; #
+* LIST ConNeg = ConNeg ; #
+* LIST Foc/gan = Foc/gan ; #
+* LIST PrfPrc = PrfPrc ; #
+* LIST PrsPrc = PrsPrc ; #
+* LIST VGen = VGen ; #
+* LIST Ger = Ger ; #
+* LIST Ind = Ind ; #
+* LIST Imp = Imp ; #
+* LIST ImpII = ImpII ; #
+* LIST Pot = Pot ; #
+* LIST Cond = Cond ; #
+* LIST Imprt = Imprt ; #
+* LIST IV = IV ; #
+* LIST TV = TV ; #
+* LIST Opt = Opt ; #
+* LIST Actor = Actor ; #
+* LIST Clt = Clt ; #
+* LIST A = A ; #
+* LIST Pos = Pos ; #
+* LIST Ord = Ord ; #
+* LIST Coll = Coll ; #
+* LIST ABBR = ABBR ; #
+* LIST ACR = ACR ; #
+* LIST Comp = Comp ; #
+* LIST Superl = Superl ; #
+* LIST Attr = Attr ; #
+* LIST Pron = Pron ; #
+* LIST Pers = Pers ; #
+* LIST Dem = Dem ; #
+* LIST Interr = Interr ; #
+* LIST Rel = Rel ; #
+* LIST Po = Po ; #
+* LIST Pr = Pr ; #
+* LIST Adv = Adv ; #
+* LIST Interj = Interj ; #
+* LIST Indef = Indef ; #
+* LIST Num = Num ; #
+* LIST Prop = Prop ; #
+* LIST Mal = Mal ; #
+* LIST Fem = Fem ; #
+* LIST Sur = Sur ; #
+* LIST Org = Org ; #
+* LIST CS = CS ; #
+* LIST CC = CC ; #
+* LIST Pcle = Pcle ; #
+* LIST CLB = CLB ; #
+* LIST LEFT = LEFT ; #
+* LIST RIGHT = RIGHT ; #
+* LIST COMMA = "," ; #
+* LIST Der1 = Der1 ; #
+* LIST Der2 = Der2 ; #
+* LIST Der3 = Der3 ; #
 
 ### Semantic tags
 
@@ -933,7 +933,7 @@ Verb personal forms are:
 
 Other verb forms are
 
-* +Symbol© = independent symbols in the text stream, like £, €, ©
+* +Symbol = independent symbols in the text stream, like £, €, ©
 Special symbols are classified with:
 The verbs are syntactically split according to transitivity:
 Special multiword units are analysed with:
@@ -952,17 +952,17 @@ source and target part-of-speech.
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
-* +Symbol© ! used in possessor indices
-* +Symbol© ! used in possessor indices
+* +Symbol ! used in possessor indices
+* +Symbol ! used in possessor indices
 
 
 
 ## Symbols that need to be escaped on the lower side (towards twolc):
-* **»7»**:  Literal »
-* **«7«**:  Literal «
+* **»7**:  Literal »
+* **«7**:  Literal «
 ```
-  %[%>%]  - Literal >
-  %[%<%]  - Literal <
+ %[%>%]  - Literal >
+ %[%<%]  - Literal <
 ```
 
 
@@ -972,29 +972,29 @@ And following triggers to control variation
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
-|  @P.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
-|  @D.NeedNoun.ON@nominalised | (Dis)allow compounds with verbs unless nominalised
-|  @C.NeedNoun@nominalised | (Dis)allow compounds with verbs unless nominalised
+|  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+|  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
 
 For languages that allow compounding, the following flag diacritics are needed
 to control position-based compounding restrictions for nominals. Their use is
 handled automatically if combined with +CmpN/xxx tags. If not used, they will
 do no harm.
-|  @P.CmpFrst.FALSE@first | Require that words tagged as such only appear first
-|  @D.CmpPref.TRUE@ENDLEX | Block such words from entering ENDLEX
-|  @P.CmpPref.FALSE@compounds | Block these words from making further compounds
-|  @D.CmpLast.TRUE@R | Block such words from entering R
-|  @D.CmpNone.TRUE@compounding | Combines with the next tag to prohibit compounding
-|  @U.CmpNone.FALSE@compounding | Combines with the prev tag to prohibit compounding
-|  @P.CmpOnly.TRUE@R | Sets a flag to indicate that the word has passed R
-|  @D.CmpOnly.FALSE@root. | Disallow words coming directly from root.
+|  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
+|  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
+|  @P.CmpPref.FALSE@ | Block these words from making further compounds
+|  @D.CmpLast.TRUE@ | Block such words from entering R
+|  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
+|  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
+|  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
+|  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
 
 Use the following flag diacritics to control downcasing of derived proper
 nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
-|  @U.Cap.Obl@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
-|  @U.Cap.Opt@deatnulasj. | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
+|  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
 The word forms in Khanty language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
@@ -1370,12 +1370,12 @@ for text-to-speech systems.
 
 For example:
 
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
+* s.:syntynyt # ;  
+* os.:omaa% sukua # ;  
+* v.:vuosi # ;  
+* v.:vuonna # ;  
+* esim.:esimerkki # ; 
+* esim.:esimerkiksi # ; 
 
 
 * * *

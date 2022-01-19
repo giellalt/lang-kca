@@ -7,6 +7,8 @@
 
 This page documents the work on the [Khanty language model](http://github.com/giellalt/lang-kca). 
 
+The model is experimental, and contains only a couple of hundred words.
+
 # Project documentation
 
 * (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
