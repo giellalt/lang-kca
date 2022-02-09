@@ -1,24 +1,6 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
 * @NO CODE@ ! used in possessor indices
-
-
-
-
-
-
-
 
 ## triggers
 lenition
@@ -28,32 +10,15 @@ stem-final vowel is lost in plural accusative
 in combination with stem-final vowel loss тёня:тён
 яля:ялэ
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Surface value of linking vowel before +PxSg3
 
 **%{ЕЭ%}:е**
 
-
-
 ### LOSS
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/phonology.twolc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-kca/blob/main/src/fst/phonology.twolc)</small>
+
+---
+

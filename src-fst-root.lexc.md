@@ -2,7 +2,6 @@
 Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
 
-
 Analysis symbols
 The morphological analyses of wordforms of NORTHERN KHANTY language are presented
 in this system in terms of following symbols.
@@ -26,7 +25,6 @@ Numerals are classified under:
 Verb moods are:
 Verb personal forms are:
 
-
 Other verb forms are
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
@@ -37,21 +35,16 @@ Non-dictionary words can be recognised with:
 
 Question and Focus particles:
 
-
 Semantics are classified with
-
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
-
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 * +Symbol ! used in possessor indices
 * +Symbol ! used in possessor indices
-
-
 
 ## Symbols that need to be escaped on the lower side (towards twolc):
 * **»7**:  Literal »
@@ -60,7 +53,6 @@ symbols in the lexicon files:
  %[%>%]  - Literal >
  %[%<%]  - Literal <
 ```
-
 
 And following triggers to control variation
 
@@ -95,30 +87,9 @@ given the proper use of these flags.
 The word forms in Khanty language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-kca/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/root.lexc)</small>
+
+---
+
