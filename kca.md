@@ -9,230 +9,229 @@ All documents in one file
 
 ## Delimiters , tags and sets
 
-DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>"; # DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>"; # @CODE
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>"; DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>";  @CODE
 
 ## Tags and sets 
 
 ### Tags declared as single-membered LISTs 
 
-* LIST N = N ; #
-* LIST Sg = Sg ; #
-* LIST Pl = Pl ; #
-* LIST Nom = Nom ; #
-* LIST Acc = Acc ; #
-* LIST Gen = Gen ; #
-* LIST Par = Par ; #
-* LIST Loc = Loc ; #
-* LIST Abl = Abl ; #
-* LIST Lat = Lat ; #
-* LIST Tra = Tra ; #
-* LIST PxSg1 = PxSg1 ; #
-* LIST PxSg2 = PxSg2 ; #
-* LIST PxSg3 = PxSg3 ; #
-* LIST PxDu1 = PxDu1 ; #
-* LIST PxDu2 = PxDu2 ; #
-* LIST PxDu3 = PxDu3 ; #
-* LIST PxPl1 = PxPl1 ; #
-* LIST PxPl2 = PxPl2 ; #
-* LIST PxPl3 = PxPl3 ; #
-* LIST V = V ; #
-* LIST Prs = Prs ; #
-* LIST Prt = Prt ; #
-* LIST Sg1 = Sg1 ; #
-* LIST Sg2 = Sg2 ; #
-* LIST Sg3 = Sg3 ; #
-* LIST Du1 = Du1 ; #
-* LIST Du2 = Du2 ; #
-* LIST Du3 = Du3 ; #
-* LIST Pl1 = Pl1 ; #
-* LIST Pl2 = Pl2 ; #
-* LIST Pl3 = Pl3 ; #
-* LIST Inf = Inf ; #
-* LIST Neg = Neg ; #
-* LIST ConNeg = ConNeg ; #
-* LIST Foc/gan = Foc/gan ; #
-* LIST PrfPrc = PrfPrc ; #
-* LIST PrsPrc = PrsPrc ; #
-* LIST VGen = VGen ; #
-* LIST Ger = Ger ; #
-* LIST Ind = Ind ; #
-* LIST Imp = Imp ; #
-* LIST ImpII = ImpII ; #
-* LIST Pot = Pot ; #
-* LIST Cond = Cond ; #
-* LIST Imprt = Imprt ; #
-* LIST IV = IV ; #
-* LIST TV = TV ; #
-* LIST Opt = Opt ; #
-* LIST Actor = Actor ; #
-* LIST Clt = Clt ; #
-* LIST A = A ; #
-* LIST Pos = Pos ; #
-* LIST Ord = Ord ; #
-* LIST Coll = Coll ; #
-* LIST ABBR = ABBR ; #
-* LIST ACR = ACR ; #
-* LIST Comp = Comp ; #
-* LIST Superl = Superl ; #
-* LIST Attr = Attr ; #
-* LIST Pron = Pron ; #
-* LIST Pers = Pers ; #
-* LIST Dem = Dem ; #
-* LIST Interr = Interr ; #
-* LIST Rel = Rel ; #
-* LIST Po = Po ; #
-* LIST Pr = Pr ; #
-* LIST Adv = Adv ; #
-* LIST Interj = Interj ; #
-* LIST Indef = Indef ; #
-* LIST Num = Num ; #
-* LIST Prop = Prop ; #
-* LIST Mal = Mal ; #
-* LIST Fem = Fem ; #
-* LIST Sur = Sur ; #
-* LIST Org = Org ; #
-* LIST CS = CS ; #
-* LIST CC = CC ; #
-* LIST Pcle = Pcle ; #
-* LIST CLB = CLB ; #
-* LIST LEFT = LEFT ; #
-* LIST RIGHT = RIGHT ; #
-* LIST COMMA = "," ; #
-* LIST Der1 = Der1 ; #
-* LIST Der2 = Der2 ; #
-* LIST Der3 = Der3 ; #
+* LIST N = N ;
+* LIST Sg = Sg ;
+* LIST Pl = Pl ;
+* LIST Nom = Nom ;
+* LIST Acc = Acc ;
+* LIST Gen = Gen ;
+* LIST Par = Par ;
+* LIST Loc = Loc ;
+* LIST Abl = Abl ;
+* LIST Lat = Lat ;
+* LIST Tra = Tra ;
+* LIST PxSg1 = PxSg1 ;
+* LIST PxSg2 = PxSg2 ;
+* LIST PxSg3 = PxSg3 ;
+* LIST PxDu1 = PxDu1 ;
+* LIST PxDu2 = PxDu2 ;
+* LIST PxDu3 = PxDu3 ;
+* LIST PxPl1 = PxPl1 ;
+* LIST PxPl2 = PxPl2 ;
+* LIST PxPl3 = PxPl3 ;
+* LIST V = V ;
+* LIST Prs = Prs ;
+* LIST Prt = Prt ;
+* LIST Sg1 = Sg1 ;
+* LIST Sg2 = Sg2 ;
+* LIST Sg3 = Sg3 ;
+* LIST Du1 = Du1 ;
+* LIST Du2 = Du2 ;
+* LIST Du3 = Du3 ;
+* LIST Pl1 = Pl1 ;
+* LIST Pl2 = Pl2 ;
+* LIST Pl3 = Pl3 ;
+* LIST Inf = Inf ;
+* LIST Neg = Neg ;
+* LIST ConNeg = ConNeg ;
+* LIST Foc/gan = Foc/gan ;
+* LIST PrfPrc = PrfPrc ;
+* LIST PrsPrc = PrsPrc ;
+* LIST VGen = VGen ;
+* LIST Ger = Ger ;
+* LIST Ind = Ind ;
+* LIST Imp = Imp ;
+* LIST ImpII = ImpII ;
+* LIST Pot = Pot ;
+* LIST Cond = Cond ;
+* LIST Imprt = Imprt ;
+* LIST IV = IV ;
+* LIST TV = TV ;
+* LIST Opt = Opt ;
+* LIST Actor = Actor ;
+* LIST Clt = Clt ;
+* LIST A = A ;
+* LIST Pos = Pos ;
+* LIST Ord = Ord ;
+* LIST Coll = Coll ;
+* LIST ABBR = ABBR ;
+* LIST ACR = ACR ;
+* LIST Comp = Comp ;
+* LIST Superl = Superl ;
+* LIST Attr = Attr ;
+* LIST Pron = Pron ;
+* LIST Pers = Pers ;
+* LIST Dem = Dem ;
+* LIST Interr = Interr ;
+* LIST Rel = Rel ;
+* LIST Po = Po ;
+* LIST Pr = Pr ;
+* LIST Adv = Adv ;
+* LIST Interj = Interj ;
+* LIST Indef = Indef ;
+* LIST Num = Num ;
+* LIST Prop = Prop ;
+* LIST Mal = Mal ;
+* LIST Fem = Fem ;
+* LIST Sur = Sur ;
+* LIST Org = Org ;
+* LIST CS = CS ;
+* LIST CC = CC ;
+* LIST Pcle = Pcle ;
+* LIST CLB = CLB ;
+* LIST LEFT = LEFT ;
+* LIST RIGHT = RIGHT ;
+* LIST COMMA = "," ;
+* LIST Der1 = Der1 ;
+* LIST Der2 = Der2 ;
+* LIST Der3 = Der3 ;
 
 ### Semantic tags
 
-* LIST Sem/Ani = Sem/Ani ; # 
-* LIST Sem/Fem = Sem/Fem ; # 
-* LIST Sem/Mal = Sem/Mal ; # 
-* LIST Sem/Obj = Sem/Obj ; # 
-* LIST Sem/Org = Sem/Org ; # 
-* LIST Sem/Plc = Sem/Plc ; # 
-* LIST Sem/Sur = Sem/Sur ; # 
-* LIST Sem/Time = Sem/Time ; # 
-* LIST Sem/Hum = Sem/Hum ; # 
-* LIST Sem/Date = Sem/Date ; # 
-* LIST Sem/Year = Sem/Year ; # 
-* LIST Sem/Group = Sem/Group ; # 
-* LIST Sem/Route = Sem/Route ; # 
-* LIST Sem/Build = Sem/Build ; # 
-* LIST Sem/Place = Sem/Place ; # 
-* LIST Sem/Food = Sem/Food ; # 
-* SET FIRSTNAME = (Prop Sem/Fem) OR (Prop Sem/Mal) ; # 
+* LIST Sem/Ani = Sem/Ani ; 
+* LIST Sem/Fem = Sem/Fem ; 
+* LIST Sem/Mal = Sem/Mal ; 
+* LIST Sem/Obj = Sem/Obj ; 
+* LIST Sem/Org = Sem/Org ; 
+* LIST Sem/Plc = Sem/Plc ; 
+* LIST Sem/Sur = Sem/Sur ; 
+* LIST Sem/Time = Sem/Time ; 
+* LIST Sem/Hum = Sem/Hum ; 
+* LIST Sem/Date = Sem/Date ; 
+* LIST Sem/Year = Sem/Year ; 
+* LIST Sem/Group = Sem/Group ; 
+* LIST Sem/Route = Sem/Route ; 
+* LIST Sem/Build = Sem/Build ; 
+* LIST Sem/Place = Sem/Place ; 
+* LIST Sem/Food = Sem/Food ; 
+* SET FIRSTNAME = (Prop Sem/Fem) OR (Prop Sem/Mal) ; 
 
 ### Syntactic tags
 
-* LIST @CNP = @CNP ; # 
-* LIST @CVP = @CVP ; # 
-* LIST @+FAUXV = @+FAUXV ; # 
-* LIST @+FMAINV = @+FMAINV ; # 
-* LIST @-FAUXV = @-FAUXV ; # 
-* LIST @-FMAINV = @-FMAINV ; # 
-* SET MAINV = @-FMAINV OR @+FMAINV ; # 
-* LIST @ADVL = @ADVL ; # 
-* LIST @>ADVL = @>ADVL ; # 
-* LIST @ADVL< = @ADVL< ; # 
-* LIST @<ADVL = @<ADVL ; # 
-* LIST @ADVL> = @ADVL> ; # 
-* LIST @-FADVL = @-FADVL ; # 
-* LIST @A< = @A< ; # 
-* LIST @>A = @>A ; # 
-* LIST @ActioN> = @ActioN> ; # 
-* LIST @APP = @APP ; # 
-* LIST @APP-N< = @APP-N< ; # 
-* LIST @APP-Pron< = @APP-Pron< ; # 
-* LIST @APP>Pron = @APP>Pron ; # 
-* LIST @APP-Num< = @APP-Num< ; # 
-* LIST @APP-ADVL< = @APP-ADVL< ; # 
-* LIST @CMPND = @CMPND ; # 
-* LIST @COMP-CS< = @COMP-CS< ; # 
-* LIST @HAB = @HAB ; # 
-* LIST @INTERJ = @INTERJ ; # 
-* LIST @MEASURE = @MEASURE ; # 
-* LIST @>N = @>N ; # 
-* LIST @N< = @N< ; # 
-* LIST @NNum> = @NNum>; # 
-* LIST @NumN< = @NumN<; # 
-* LIST @>Num = @>Num; # 
-* LIST @Num< = @Num< ; # 
-* LIST @NPron< = @NPron< ; # 
-* LIST @NQ< = @NQ< ; # 
-* LIST @NUM-PRON = @NUM-PRON ; # 
-* #LIST @NUMBER = @NUMBER ; # 
-* LIST @OBJ = @OBJ ; # 
-* LIST @<OBJ = @<OBJ ; # 
-* LIST @OBJ> = @OBJ> ; # 
-* LIST @OPRED = @OPRED ; # 
-* LIST @<OPRED = @<OPRED ; # 
-* LIST @OPRED> = @OPRED> ; # 
-* LIST @PCLE = @PCLE ; # 
-* LIST @HNOUN = @HNOUN ; # 
-* LIST @PrcN> = @PrcN> ; # 
-* LIST @PronN< = @PronN< ; # 
-* LIST @PronN> = @PronN> ; # 
-* LIST @Pron< = @Pron< ; # 
-* LIST @>Pron = @>Pron ; # 
-* LIST @P< = @P< ; # 
-* LIST @>P = @>P ; # 
-* LIST @SPRED = @SPRED ; # 
-* LIST @<SPRED = @<SPRED ; # 
-* LIST @SPRED> = @SPRED> ; # 
-* LIST @SUBJ = @SUBJ ; # 
-* LIST @<SUBJ = @<SUBJ ; # 
-* LIST @SUBJ> = @SUBJ> ; # 
-* LIST @SUBJ-QH = @SUBJ-QH ; # 
-* LIST @TITLE = @TITLE ; # 
-* LIST @VOC = @VOC ; # 
-* LIST @X = @X ; # 
+* LIST @CNP = @CNP ; 
+* LIST @CVP = @CVP ; 
+* LIST @+FAUXV = @+FAUXV ; 
+* LIST @+FMAINV = @+FMAINV ; 
+* LIST @-FAUXV = @-FAUXV ; 
+* LIST @-FMAINV = @-FMAINV ; 
+* SET MAINV = @-FMAINV OR @+FMAINV ; 
+* LIST @ADVL = @ADVL ; 
+* LIST @>ADVL = @>ADVL ; 
+* LIST @ADVL< = @ADVL< ; 
+* LIST @<ADVL = @<ADVL ; 
+* LIST @ADVL> = @ADVL> ; 
+* LIST @-FADVL = @-FADVL ; 
+* LIST @A< = @A< ; 
+* LIST @>A = @>A ; 
+* LIST @ActioN> = @ActioN> ; 
+* LIST @APP = @APP ; 
+* LIST @APP-N< = @APP-N< ; 
+* LIST @APP-Pron< = @APP-Pron< ; 
+* LIST @APP>Pron = @APP>Pron ; 
+* LIST @APP-Num< = @APP-Num< ; 
+* LIST @APP-ADVL< = @APP-ADVL< ; 
+* LIST @CMPND = @CMPND ; 
+* LIST @COMP-CS< = @COMP-CS< ; 
+* LIST @HAB = @HAB ; 
+* LIST @INTERJ = @INTERJ ; 
+* LIST @MEASURE = @MEASURE ; 
+* LIST @>N = @>N ; 
+* LIST @N< = @N< ; 
+* LIST @NNum> = @NNum>; 
+* LIST @NumN< = @NumN<; 
+* LIST @>Num = @>Num; 
+* LIST @Num< = @Num< ; 
+* LIST @NPron< = @NPron< ; 
+* LIST @NQ< = @NQ< ; 
+* LIST @NUM-PRON = @NUM-PRON ; 
+* LIST @OBJ = @OBJ ; 
+* LIST @<OBJ = @<OBJ ; 
+* LIST @OBJ> = @OBJ> ; 
+* LIST @OPRED = @OPRED ; 
+* LIST @<OPRED = @<OPRED ; 
+* LIST @OPRED> = @OPRED> ; 
+* LIST @PCLE = @PCLE ; 
+* LIST @HNOUN = @HNOUN ; 
+* LIST @PrcN> = @PrcN> ; 
+* LIST @PronN< = @PronN< ; 
+* LIST @PronN> = @PronN> ; 
+* LIST @Pron< = @Pron< ; 
+* LIST @>Pron = @>Pron ; 
+* LIST @P< = @P< ; 
+* LIST @>P = @>P ; 
+* LIST @SPRED = @SPRED ; 
+* LIST @<SPRED = @<SPRED ; 
+* LIST @SPRED> = @SPRED> ; 
+* LIST @SUBJ = @SUBJ ; 
+* LIST @<SUBJ = @<SUBJ ; 
+* LIST @SUBJ> = @SUBJ> ; 
+* LIST @SUBJ-QH = @SUBJ-QH ; 
+* LIST @TITLE = @TITLE ; 
+* LIST @VOC = @VOC ; 
+* LIST @X = @X ; 
 
 ### Sets
 
 #### Grammatical sets
 
-* LIST CASES = Nom Acc Gen Par Loc Abl Lat Tra ; # 
-* LIST ADVLCASE = Loc Abl Lat Tra ; # 
-* LIST NUMBER = Sg Du Pl ; # 
-* LIST WORD = N A V Adv Pron Interj Num CS CC Pcle Pr Po ; # 
-* SET REALWORD = WORD - Num - Ord ; # 
-* SET REALWORD-NOTABBR = WORD - Num - Ord - ABBR ; # 
+* LIST CASES = Nom Acc Gen Par Loc Abl Lat Tra ; 
+* LIST ADVLCASE = Loc Abl Lat Tra ; 
+* LIST NUMBER = Sg Du Pl ; 
+* LIST WORD = N A V Adv Pron Interj Num CS CC Pcle Pr Po ; 
+* SET REALWORD = WORD - Num - Ord ; 
+* SET REALWORD-NOTABBR = WORD - Num - Ord - ABBR ; 
 
 #### Sets for NP identification
 
-* LIST NOT-ADV-INT-PCLE = N A Num Pron A V CC CS ; # 
-* SET NOT-ADV = WORD - Adv ; # 
-* SET NP-HEAD = Num OR N OR Pron ; # 
-* SET PRE-NP-HEAD = (Prop Attr) OR (Prop @>N) OR (A Attr) OR (ABBR Attr) OR (Pron Pers Gen) OR (Pron Logo Gen) OR (N Gen) OR Num OR (Cmpnd) OR CC OR (Pron Dem) OR (Pron Refl Gen) OR (Pron Indef) OR (PrfPrc @>N) OR (PrfPrc @>N) OR (PrsPrc) OR (A Ord) OR Attr ; # 
-* SET NP-MEMBER = PRE-NP-HEAD OR N ; # 
-* SET NPNH = WORD - PRE-NP-HEAD OR (ABBR) ; #  NPNH  = "NOT-PRE-NP-HEAD" 
-* SET NPNHA = WORD - PRE-NP-HEAD OR (ABBR) OR Adv ; # 
-* SET NPNHAI = WORD - PRE-NP-HEAD - Adv - Indef ; # 
+* LIST NOT-ADV-INT-PCLE = N A Num Pron A V CC CS ; 
+* SET NOT-ADV = WORD - Adv ; 
+* SET NP-HEAD = Num OR N OR Pron ; 
+* SET PRE-NP-HEAD = (Prop Attr) OR (Prop @>N) OR (A Attr) OR (ABBR Attr) OR (Pron Pers Gen) OR (Pron Logo Gen) OR (N Gen) OR Num OR (Cmpnd) OR CC OR (Pron Dem) OR (Pron Refl Gen) OR (Pron Indef) OR (PrfPrc @>N) OR (PrfPrc @>N) OR (PrsPrc) OR (A Ord) OR Attr ; 
+* SET NP-MEMBER = PRE-NP-HEAD OR N ; 
+* SET NPNH = WORD - PRE-NP-HEAD OR (ABBR) ;  NPNH  = "NOT-PRE-NP-HEAD" 
+* SET NPNHA = WORD - PRE-NP-HEAD OR (ABBR) OR Adv ; 
+* SET NPNHAI = WORD - PRE-NP-HEAD - Adv - Indef ; 
 
 #### Noun sets
 
-* SET PX = PxSg1 OR PxSg2 OR PxSg3 OR PxDu1 OR PxDu2 OR PxDu3 OR PxPl1 OR PxPl2 OR PxPl3 ; # 
+* SET PX = PxSg1 OR PxSg2 OR PxSg3 OR PxDu1 OR PxDu2 OR PxDu3 OR PxPl1 OR PxPl2 OR PxPl3 ; 
 
 #### Verb sets
 
 The set REALCOPULAS is smaller than COPULAS, made for verbs with PrfPrc complements: Seammás REALCOPULAS son dovdan iežas...
-* LIST REALCOPULAS = "lea" ; # 
+* LIST REALCOPULAS = "lea" ; 
 
 The set COPULAS is for predicative constructions
-* LIST COPULAS = REALCOPULAS ; # 
-* SET V-NOT-COP = V - COPULAS ; # 
+* LIST COPULAS = REALCOPULAS ; 
+* SET V-NOT-COP = V - COPULAS ; 
 
 Verbs that never have arguments of their own 
 
 These verbs can take arguments, so they do not belong in the AUX group, 
 but they are nevertheless mapped to (@+FAUXV). 
 
-* SET AUX = COPULAS OR Neg ; # 
-* SET VFIN = Ind OR Imprt ; # 
-* SET VFIN-NOT-AUX = VFIN - AUX ; # 
-* SET V-MAIN = V - COPULAS - Neg ; # 
-* SET VFIN-NOT-NEG = VFIN - Neg ; # 
-* SET NOT-NP = VFIN-NOT-NEG OR ConNeg OR Inf OR Pcle OR Interj OR CS ; # 
+* SET AUX = COPULAS OR Neg ; 
+* SET VFIN = Ind OR Imprt ; 
+* SET VFIN-NOT-AUX = VFIN - AUX ; 
+* SET V-MAIN = V - COPULAS - Neg ; 
+* SET VFIN-NOT-NEG = VFIN - Neg ; 
+* SET NOT-NP = VFIN-NOT-NEG OR ConNeg OR Inf OR Pcle OR Interj OR CS ; 
 The set NP-BOUNDARY is bigger. 
 
 #### Boundary sets
@@ -272,12 +271,7 @@ Still no rules written.
 Still no rules written. 
 
 * * *
-
 <small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-kca/blob/main/src/cg3/disambiguator.cg3)</small>
-
----
-
-
 
 * Sets for POS sub-categories
 
@@ -445,55 +439,30 @@ These were the set types.
 ## HNOUN MAPPING
 
 * * *
-
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-kca/blob/main/src/cg3/functions.cg3)</small>
-
----
-
-
-
-* @NO CODE@ ! used in possessor indices
-
-## triggers
-lenition
-vowel raising э:ы о:у
-stem-final vowel is lost in plural accusative
-хасава:хасев
-in combination with stem-final vowel loss тёня:тён
-яля:ялэ
-
-### Surface value of linking vowel before +PxSg3
-
-**%{ЕЭ%}:е**
-
-### LOSS
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-kca/blob/main/src/cg3/functions.cg3)</small>Adjective inflection
+Khanty
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-kca/blob/main/src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/adjectives.lexc)</small>
 
 ---
 
-
-### Adjectives
-
-### Adverb
-
-### Conjunctions
-
-### Nouns
-
-### Postpositions
-
-### Pronouns
-
-### Quantifiers
-
-### Verbs
+Adjective inflection
+Khanty
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/stems/exceptions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/adverbs.lexc)</small>
+
+---
+
+Conjunctions
+Khanty
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/conjunctions.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/conjunctions.lexc)</small>
 
 ---
 
@@ -519,20 +488,12 @@ Possessor Indices
 
 ---
 
-Adjective inflection
+Postpositions
 Khanty
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/adverbs.lexc)</small>
-
----
-
-Quantifier inflection
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/quantifiers.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/quantifiers.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/postpositions.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/postpositions.lexc)</small>
 
 ---
 
@@ -545,15 +506,6 @@ Northern Khanty
 
 ---
 
-Postpositions
-Khanty
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/postpositions.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/postpositions.lexc)</small>
-
----
-
 Proper noun inflection
 Khanty
 
@@ -563,12 +515,20 @@ Khanty
 
 ---
 
-Adjective inflection
-Khanty
+Quantifier inflection
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/affixes/quantifiers.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/quantifiers.lexc)</small>
+
+---
+
+
+# Symbol affixes
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/symbols.lexc)</small>
 
 ---
 
@@ -618,20 +578,36 @@ INFINITIVE
 ---
 
 
-# Symbol affixes
+
+* @NO CODE@ ! used in possessor indices
+
+## triggers
+lenition
+vowel raising э:ы о:у
+stem-final vowel is lost in plural accusative
+хасава:хасев
+in combination with stem-final vowel loss тёня:тён
+яля:ялэ
+
+### Surface value of linking vowel before +PxSg3
+
+**%{ЕЭ%}:е**
+
+### LOSS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-kca/blob/main/src/fst/phonology.twolc)</small>
 
 ---
 
-Conjunctions
-Khanty
+
+
+Derivations
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/conjunctions.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/affixes/conjunctions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/root-from-old-infra.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/root-from-old-infra.lexc)</small>
 
 ---
 
@@ -731,12 +707,25 @@ word classes, or optionally from prefixes:
 ---
 
 
+### Adjectives
 
-Derivations
+### Adverb
+
+### Conjunctions
+
+### Nouns
+
+### Postpositions
+
+### Pronouns
+
+### Quantifiers
+
+### Verbs
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/root-from-old-infra.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/root-from-old-infra.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/stems/exceptions.lexc)</small>
 
 ---
 
@@ -965,7 +954,6 @@ CLB
 LEFT
 RIGHT
 WEB
-QMARK
 PPUNCT
 PUNCT
 
@@ -1079,9 +1067,6 @@ Sem/Txt
 
 HUMAN
 
-HAB-ACTOR
-HAB-ACTOR-NOT-HUMAN
-
 PROP-ATTR
 PROP-SUR
 
@@ -1170,8 +1155,6 @@ INITIAL
 ### Sets for word or not
 
 WORD
-REAL-WORD
-REAL-WORD-NOT-ABBR
 NOT-COMMA
 
 ### Case sets
@@ -1230,75 +1213,7 @@ expression **WORD - premodifiers**.
 ### Grammarchecker sets
 
 * * *
-
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-kca/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
-
----
-
-# Grammar checker tokenisation for kca
-
-Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
-Then just:
-```
-$ make
-$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-More usage examples:
-```
-$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
-
-Characters which have analyses in the lexicon, but can appear without spaces
-before/after, that is, with no context conditions, and adjacent to words:
-* Punct contains ASCII punctuation marks
-* The symbol after m-dash is soft-hyphen `U+00AD`
-* The symbol following {•} is byte-order-mark / zero-width no-break space
-`U+FEFF`.
-
-Whitespace contains ASCII white space and
-the List contains some unicode white space characters
-* En Quad U+2000 to Zero-Width Joiner U+200d'
-* Narrow No-Break Space U+202F
-* Medium Mathematical Space U+205F
-* Word joiner U+2060
-
-Apart from what's in our morphology, there are
-1) unknown word-like forms, and
-2) unmatched strings
-We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
-* select extended latin symbols
-* select symbols
-* various symbols from Private area (probably Microsoft),
-so far:
-* U+F0B7 for "x in box"
-
-TODO: Could use something like this, but built-in's don't include šžđčŋ:
-
-Simply give an empty reading when something is unknown:
-hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
-remove empty analyses from other readings. Empty readings are also
-legal in CG, they get a default baseform equal to the wordform, but
-no tag to check, so it's safer to let hfst-tokenise handle them.
-
-Finally we mark as a token any sequence making up a:
-* known word in context
-* unknown (OOV) token in context
-* sequence of word and punctuation
-* URL in context
-
-* * *
-
-<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-kca/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
-
----
-
-# Tokeniser for kca
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-kca/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for kca
 
 Usage:
 ```
@@ -1310,7 +1225,7 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 ```
 
 Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -1360,6 +1275,69 @@ Finally we mark as a token any sequence making up a:
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-kca/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
+
+---
+
+# Grammar checker tokenisation for kca
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+Then just:
+```
+$ make
+$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+More usage examples:
+```
+$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+Pmatch documentation:
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
+
+Characters which have analyses in the lexicon, but can appear without spaces
+before/after, that is, with no context conditions, and adjacent to words:
+* Punct contains ASCII punctuation marks
+* The symbol after m-dash is soft-hyphen `U+00AD`
+* The symbol following {•} is byte-order-mark / zero-width no-break space
+`U+FEFF`.
+
+Whitespace contains ASCII white space and
+the List contains some unicode white space characters
+* En Quad U+2000 to Zero-Width Joiner U+200d'
+* Narrow No-Break Space U+202F
+* Medium Mathematical Space U+205F
+* Word joiner U+2060
+
+Apart from what's in our morphology, there are
+1) unknown word-like forms, and
+2) unmatched strings
+We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
+* select extended latin symbols
+* select symbols
+* various symbols from Private area (probably Microsoft),
+so far:
+* U+F0B7 for "x in box"
+
+TODO: Could use something like this, but built-in's don't include šžđčŋ:
+
+Simply give an empty reading when something is unknown:
+hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+remove empty analyses from other readings. Empty readings are also
+legal in CG, they get a default baseform equal to the wordform, but
+no tag to check, so it's safer to let hfst-tokenise handle them.
+
+Finally we mark as a token any sequence making up a:
+* known word in context
+* unknown (OOV) token in context
+* sequence of word and punctuation
+* URL in context
+
+* * *
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-kca/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
 
 ---
 
