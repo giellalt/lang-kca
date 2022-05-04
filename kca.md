@@ -9,7 +9,7 @@ All documents in one file
 
 ## Delimiters , tags and sets
 
-DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>"; DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>";  @CODE
+@CODE
 
 ## Tags and sets 
 
@@ -579,7 +579,7 @@ INFINITIVE
 
 
 
-* @NO CODE@ ! used in possessor indices
+* `NO CODE` ! used in possessor indices
 
 ## triggers
 lenition

@@ -1,6 +1,6 @@
 
 
-* @NO CODE@ ! used in possessor indices
+* `NO CODE` ! used in possessor indices
 
 ## triggers
 lenition
