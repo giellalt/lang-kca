@@ -2,7 +2,7 @@ The Khanty morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-kca)](https://github.com/giellalt/lang-kca/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-kca/main/badge.svg)](https://github.com/giellalt/lang-kca/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-kca/main/badge.svg)](https://github.com/giellalt/lang-kca/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-kca)](https://github.com/giellalt/lang-kca/blob/main/LICENSE)
 [![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-kca?platform=desktop&channel=nightly)
 [![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-kca?platform=mbile&channel=nightly)
