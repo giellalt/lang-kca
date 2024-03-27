@@ -5,9 +5,20 @@
     * `fst/`
         * `morphology/`
             * `affixes/`
+                * [adjectives.lexc](src-fst-morphology-affixes-adjectives.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/adjectives.lexc))
+                * [adverbs.lexc](src-fst-morphology-affixes-adverbs.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/adverbs.lexc))
+                * [conjunctions.lexc](src-fst-morphology-affixes-conjunctions.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/conjunctions.lexc))
+                * [nouns.lexc](src-fst-morphology-affixes-nouns.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/nouns.lexc))
+                * [postpositions.lexc](src-fst-morphology-affixes-postpositions.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/postpositions.lexc))
+                * [pronouns.lexc](src-fst-morphology-affixes-pronouns.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/pronouns.lexc))
+                * [propernouns.lexc](src-fst-morphology-affixes-propernouns.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/propernouns.lexc))
+                * [quantifiers.lexc](src-fst-morphology-affixes-quantifiers.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/quantifiers.lexc))
+                * [symbols.lexc](src-fst-morphology-affixes-symbols.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/symbols.lexc))
+                * [verbs.lexc](src-fst-morphology-affixes-verbs.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/verbs.lexc))
             * [phonology.twolc](src-fst-morphology-phonology.twolc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/phonology.twolc))
             * [root.lexc](src-fst-morphology-root.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/root.lexc))
             * `stems/`
+                * [exceptions.lexc](src-fst-morphology-stems-exceptions.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/stems/exceptions.lexc))
         * `phonetics/`
             * [txt2ipa.xfscript](src-fst-phonetics-txt2ipa.xfscript.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/phonetics/txt2ipa.xfscript))
         * [root-from-old-infra.lexc](src-fst-root-from-old-infra.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/root-from-old-infra.lexc))
