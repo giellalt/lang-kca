@@ -22,7 +22,6 @@
         * `phonetics/`
             * [txt2ipa.xfscript](src-fst-phonetics-txt2ipa.xfscript.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/phonetics/txt2ipa.xfscript))
         * [root-from-old-infra.lexc](src-fst-root-from-old-infra.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/root-from-old-infra.lexc))
-            * `/`
         * `transcriptions/`
             * [transcriptor-abbrevs2text.lexc](src-fst-transcriptions-transcriptor-abbrevs2text.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc))
             * [transcriptor-numbers-digit2text.lexc](src-fst-transcriptions-transcriptor-numbers-digit2text.lexc.html) ([src](https://github.com/giellalt/lang-kca/blob/main/src/fst/transcriptions/transcriptor-numbers-digit2text.lexc))

@@ -1,6 +1,10 @@
-# Khanty description 
+# Khanty language model documentation
 
-All documents in one file
+All doc-comment documentation in one large file.
+
+---
+
+# src-cg3-disambiguator.cg3.md 
 
 
 # K H A N T Y   D I S A M B I G U A T O R          
@@ -271,7 +275,14 @@ Still no rules written.
 Still no rules written. 
 
 * * *
+
 <small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-kca/blob/main/src/cg3/disambiguator.cg3)</small>
+
+---
+
+# src-cg3-functions.cg3.md 
+
+
 
 * Sets for POS sub-categories
 
@@ -439,7 +450,14 @@ These were the set types.
 ## HNOUN MAPPING
 
 * * *
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-kca/blob/main/src/cg3/functions.cg3)</small>Adjective inflection
+
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-kca/blob/main/src/cg3/functions.cg3)</small>
+
+---
+
+# src-fst-morphology-affixes-adjectives.lexc.md 
+
+Adjective inflection
 Khanty
 
 * * *
@@ -447,6 +465,8 @@ Khanty
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/adjectives.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/adjectives.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-adverbs.lexc.md 
 
 Adjective inflection
 Khanty
@@ -457,6 +477,8 @@ Khanty
 
 ---
 
+# src-fst-morphology-affixes-conjunctions.lexc.md 
+
 Conjunctions
 Khanty
 
@@ -465,6 +487,8 @@ Khanty
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/conjunctions.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/conjunctions.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-nouns.lexc.md 
 
 # Noun inflection in Khanty
 
@@ -488,6 +512,8 @@ Possessor Indices
 
 ---
 
+# src-fst-morphology-affixes-postpositions.lexc.md 
+
 Postpositions
 Khanty
 
@@ -496,6 +522,8 @@ Khanty
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/postpositions.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/postpositions.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-pronouns.lexc.md 
 
 Pronoun inflection
 Northern Khanty
@@ -506,6 +534,8 @@ Northern Khanty
 
 ---
 
+# src-fst-morphology-affixes-propernouns.lexc.md 
+
 Proper noun inflection
 Khanty
 
@@ -515,6 +545,8 @@ Khanty
 
 ---
 
+# src-fst-morphology-affixes-quantifiers.lexc.md 
+
 Quantifier inflection
 
 * * *
@@ -522,6 +554,8 @@ Quantifier inflection
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/quantifiers.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/quantifiers.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-symbols.lexc.md 
 
 
 # Symbol affixes
@@ -531,6 +565,8 @@ Quantifier inflection
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-verbs.lexc.md 
 
 # Verb inflection
 
@@ -577,6 +613,8 @@ INFINITIVE
 
 ---
 
+# src-fst-morphology-phonology.twolc.md 
+
 
 
 * `NO CODE` ! used in possessor indices
@@ -600,6 +638,8 @@ in combination with stem-final vowel loss тёня:тён
 <small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
+
+# src-fst-morphology-root.lexc.md 
 
 
 Morphology
@@ -696,6 +736,8 @@ word classes, or optionally from prefixes:
 
 ---
 
+# src-fst-morphology-stems-exceptions.lexc.md 
+
 
 ### Adjectives
 
@@ -718,6 +760,8 @@ word classes, or optionally from prefixes:
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/exceptions.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/morphology/stems/exceptions.lexc)</small>
 
 ---
+
+# src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -886,6 +930,8 @@ retracted tongue root			_q
 
 ---
 
+# src-fst-root-from-old-infra.lexc.md 
+
 
 
 Derivations
@@ -895,6 +941,8 @@ Derivations
 <small>This (part of) documentation was generated from [src/fst/root-from-old-infra.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/root-from-old-infra.lexc)</small>
 
 ---
+
+# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
 
 
 
@@ -915,6 +963,8 @@ For example:
 <small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 ---
+
+# src-fst-transcriptions-transcriptor-numbers-digit2text.lexc.md 
 
 
 # File containing Nenets numerals to cyphers 
@@ -945,6 +995,8 @@ For example:
 <small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-kca/blob/main/src/fst/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 ---
+
+# tools-grammarcheckers-grammarchecker.cg3.md 
 
 
 [ L A N G U A G E ]  G R A M M A R   C H E C K E R
@@ -1243,7 +1295,14 @@ expression **WORD - premodifiers**.
 ### Grammarchecker sets
 
 * * *
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-kca/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for kca
+
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-kca/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+
+---
+
+# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
+
+# Tokeniser for kca
 
 Usage:
 ```
@@ -1308,6 +1367,8 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
+# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
+
 # Grammar checker tokenisation for kca
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
@@ -1371,6 +1432,8 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
+# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+
 # TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
@@ -1432,6 +1495,3 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-tts-cggt-desc.pmscript](https://github.com/giellalt/lang-kca/blob/main/tools/tokenisers/tokeniser-tts-cggt-desc.pmscript)</small>
-
----
-
