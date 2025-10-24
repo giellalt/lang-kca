@@ -4,20 +4,20 @@ All doc-comment documentation in one large file.
 
 ---
 
-# src-cg3-disambiguator.cg3.md 
+## src-cg3-disambiguator.cg3.md 
 
 
-# K H A N T Y   D I S A M B I G U A T O R          
+## K H A N T Y   D I S A M B I G U A T O R          
 
 **Nore!** Some tag declarations or sets may be left from copying this file from sma.
 
-## Delimiters , tags and sets
+### Delimiters , tags and sets
 
 @CODE
 
-## Tags and sets 
+### Tags and sets 
 
-### Tags declared as single-membered LISTs 
+#### Tags declared as single-membered LISTs 
 
 * LIST N = N ;
 * LIST Sg = Sg ;
@@ -106,7 +106,7 @@ All doc-comment documentation in one large file.
 * LIST Der2 = Der2 ;
 * LIST Der3 = Der3 ;
 
-### Semantic tags
+#### Semantic tags
 
 * LIST Sem/Ani = Sem/Ani ; 
 * LIST Sem/Fem = Sem/Fem ; 
@@ -126,7 +126,7 @@ All doc-comment documentation in one large file.
 * LIST Sem/Food = Sem/Food ; 
 * SET FIRSTNAME = (Prop Sem/Fem) OR (Prop Sem/Mal) ; 
 
-### Syntactic tags
+#### Syntactic tags
 
 * LIST @CNP = @CNP ; 
 * LIST @CVP = @CVP ; 
@@ -190,9 +190,9 @@ All doc-comment documentation in one large file.
 * LIST @VOC = @VOC ; 
 * LIST @X = @X ; 
 
-### Sets
+#### Sets
 
-#### Grammatical sets
+##### Grammatical sets
 
 * LIST CASES = Nom Acc Gen Par Loc Abl Lat Tra ; 
 * LIST ADVLCASE = Loc Abl Lat Tra ; 
@@ -201,7 +201,7 @@ All doc-comment documentation in one large file.
 * SET REALWORD = WORD - Num - Ord ; 
 * SET REALWORD-NOTABBR = WORD - Num - Ord - ABBR ; 
 
-#### Sets for NP identification
+##### Sets for NP identification
 
 * LIST NOT-ADV-INT-PCLE = N A Num Pron A V CC CS ; 
 * SET NOT-ADV = WORD - Adv ; 
@@ -212,11 +212,11 @@ All doc-comment documentation in one large file.
 * SET NPNHA = WORD - PRE-NP-HEAD OR (ABBR) OR Adv ; 
 * SET NPNHAI = WORD - PRE-NP-HEAD - Adv - Indef ; 
 
-#### Noun sets
+##### Noun sets
 
 * SET PX = PxSg1 OR PxSg2 OR PxSg3 OR PxDu1 OR PxDu2 OR PxDu3 OR PxPl1 OR PxPl2 OR PxPl3 ; 
 
-#### Verb sets
+##### Verb sets
 
 The set REALCOPULAS is smaller than COPULAS, made for verbs with PrfPrc complements: Seammás REALCOPULAS son dovdan iežas...
 * LIST REALCOPULAS = "lea" ; 
@@ -238,40 +238,40 @@ but they are nevertheless mapped to (@+FAUXV).
 * SET NOT-NP = VFIN-NOT-NEG OR ConNeg OR Inf OR Pcle OR Interj OR CS ; 
 The set NP-BOUNDARY is bigger. 
 
-#### Boundary sets
+##### Boundary sets
 
 Empty for now.
 
-## Disambiguation rules
+### Disambiguation rules
 
-### BEFORE-SECTIONS
+#### BEFORE-SECTIONS
 
 **Rule: Date1** for adding Sem/Date as a tag to readings which looks like dates.
 **Rule: Date2** for adding Sem/Date as a tag to readings which looks like dates.
 **Rule: Date3** for adding Sem/Date as a tag to readings which looks like dates.
 **Rule: Date4** for adding Sem/Date as a tag to readings which looks like dates.
 
-### SECTION
+#### SECTION
 
-### Cycle 0: No context around the target word
+#### Cycle 0: No context around the target word
 
 Still no rules written. 
 
-### Cycle 1: Local context around the target word
+#### Cycle 1: Local context around the target word
 
 **Rule: Attr** removes Pos and keeps Attr for A in front of A or N.
 
 **Rule: Pos** removes Attr and keeps Pos for A if no .
 
-### Cycle 2: Slightly less local context
+#### Cycle 2: Slightly less local context
 
 Still no rules written. 
 
-### Cycle 3: Global disambiguation 
+#### Cycle 3: Global disambiguation 
 Still no rules written. 
-### Cycle 4: Syntactic disambiguation 
+#### Cycle 4: Syntactic disambiguation 
 Still no rules written. 
-### Cycle 5: Post-syntactic morphological disambiguation
+#### Cycle 5: Post-syntactic morphological disambiguation
 Still no rules written. 
 
 * * *
@@ -280,7 +280,7 @@ Still no rules written.
 
 ---
 
-# src-cg3-functions.cg3.md 
+## src-cg3-functions.cg3.md 
 
 
 
@@ -319,7 +319,7 @@ part of the noun phrase of that noun (i.e., "scan to the next NP head")
 
 These were the set types.
 
-## HABITIVE MAPPING
+### HABITIVE MAPPING
 
 * **hab1** 
 
@@ -438,16 +438,16 @@ These were the set types.
 
 * **<opredAAcc** (@<OPRED) for A Acc; if an other accusative to the left, and a transtive verb to the left of it. OR: if a transitive verb to the left, and an accusative to the left of it.
 
-### sma object
+#### sma object
 
 * **<advlEss** (@<ADVL) for ESS-ADVL if; FMAINV to the left
 * **<spredEss** (@<SPRED) for N Ess if; FMAINV to the left is intransitive or bargat
 
-## SUBJ MAPPING - leftovers
+### SUBJ MAPPING - leftovers
 
-## OBJ MAPPING - leftovers
+### OBJ MAPPING - leftovers
 
-## HNOUN MAPPING
+### HNOUN MAPPING
 
 * * *
 
@@ -455,7 +455,7 @@ These were the set types.
 
 ---
 
-# src-fst-morphology-affixes-adjectives.lexc.md 
+## src-fst-morphology-affixes-adjectives.lexc.md 
 
 Adjective inflection
 Khanty
@@ -466,7 +466,7 @@ Khanty
 
 ---
 
-# src-fst-morphology-affixes-adverbs.lexc.md 
+## src-fst-morphology-affixes-adverbs.lexc.md 
 
 Adjective inflection
 Khanty
@@ -477,7 +477,7 @@ Khanty
 
 ---
 
-# src-fst-morphology-affixes-conjunctions.lexc.md 
+## src-fst-morphology-affixes-conjunctions.lexc.md 
 
 Conjunctions
 Khanty
@@ -488,23 +488,23 @@ Khanty
 
 ---
 
-# src-fst-morphology-affixes-nouns.lexc.md 
+## src-fst-morphology-affixes-nouns.lexc.md 
 
-# Noun inflection in Khanty
+## Noun inflection in Khanty
 
-## ACTUAL CASES
+### ACTUAL CASES
 
-### Start Plural
+#### Start Plural
 
-### Start Dual
+#### Start Dual
 
 Possessor Indices
 
-### Single possessum
+#### Single possessum
 
-### Dual possessa
+#### Dual possessa
 
-### Plural possessa
+#### Plural possessa
 
 * * *
 
@@ -512,7 +512,7 @@ Possessor Indices
 
 ---
 
-# src-fst-morphology-affixes-postpositions.lexc.md 
+## src-fst-morphology-affixes-postpositions.lexc.md 
 
 Postpositions
 Khanty
@@ -523,7 +523,7 @@ Khanty
 
 ---
 
-# src-fst-morphology-affixes-pronouns.lexc.md 
+## src-fst-morphology-affixes-pronouns.lexc.md 
 
 Pronoun inflection
 Northern Khanty
@@ -534,7 +534,7 @@ Northern Khanty
 
 ---
 
-# src-fst-morphology-affixes-propernouns.lexc.md 
+## src-fst-morphology-affixes-propernouns.lexc.md 
 
 Proper noun inflection
 Khanty
@@ -545,7 +545,7 @@ Khanty
 
 ---
 
-# src-fst-morphology-affixes-quantifiers.lexc.md 
+## src-fst-morphology-affixes-quantifiers.lexc.md 
 
 Quantifier inflection
 
@@ -555,10 +555,10 @@ Quantifier inflection
 
 ---
 
-# src-fst-morphology-affixes-symbols.lexc.md 
+## src-fst-morphology-affixes-symbols.lexc.md 
 
 
-# Symbol affixes
+## Symbol affixes
 
 * * *
 
@@ -566,19 +566,19 @@ Quantifier inflection
 
 ---
 
-# src-fst-morphology-affixes-verbs.lexc.md 
+## src-fst-morphology-affixes-verbs.lexc.md 
 
-# Verb inflection
+## Verb inflection
 
-## PRESENT 
+### PRESENT 
 
 Subject
 Object Singular
 Object Plural
 
 Subject
-### Singular Object
-### Dual and Plural Object
+#### Singular Object
+#### Dual and Plural Object
 Passive
 
 -лд-эм Ӆлд
@@ -613,13 +613,13 @@ INFINITIVE
 
 ---
 
-# src-fst-morphology-phonology.twolc.md 
+## src-fst-morphology-phonology.twolc.md 
 
 
 
 * `NO CODE` ! used in possessor indices
 
-## triggers
+### triggers
 lenition
 vowel raising э:ы о:у
 stem-final vowel is lost in plural accusative
@@ -627,11 +627,11 @@ stem-final vowel is lost in plural accusative
 in combination with stem-final vowel loss тёня:тён
 яля:ялэ
 
-### Surface value of linking vowel before +PxSg3
+#### Surface value of linking vowel before +PxSg3
 
 **%{ЕЭ%}:е**
 
-### LOSS
+#### LOSS
 
 * * *
 
@@ -639,7 +639,7 @@ in combination with stem-final vowel loss тёня:тён
 
 ---
 
-# src-fst-morphology-root.lexc.md 
+## src-fst-morphology-root.lexc.md 
 
 
 Morphology
@@ -689,7 +689,7 @@ symbols in the lexicon files:
 * +Symbol ! used in possessor indices
 * +Symbol ! used in possessor indices
 
-## Symbols that need to be escaped on the lower side (towards twolc):
+### Symbols that need to be escaped on the lower side (towards twolc):
 * **»7**:  Literal »
 * **«7**:  Literal «
 ```
@@ -699,7 +699,7 @@ symbols in the lexicon files:
 
 And following triggers to control variation
 
-## Flag diacritics
+### Flag diacritics
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
@@ -736,24 +736,24 @@ word classes, or optionally from prefixes:
 
 ---
 
-# src-fst-morphology-stems-exceptions.lexc.md 
+## src-fst-morphology-stems-exceptions.lexc.md 
 
 
-### Adjectives
+#### Adjectives
 
-### Adverb
+#### Adverb
 
-### Conjunctions
+#### Conjunctions
 
-### Nouns
+#### Nouns
 
-### Postpositions
+#### Postpositions
 
-### Pronouns
+#### Pronouns
 
-### Quantifiers
+#### Quantifiers
 
-### Verbs
+#### Verbs
 
 * * *
 
@@ -761,7 +761,7 @@ word classes, or optionally from prefixes:
 
 ---
 
-# src-fst-phonetics-txt2ipa.xfscript.md 
+## src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -930,7 +930,7 @@ retracted tongue root			_q
 
 ---
 
-# src-fst-root-from-old-infra.lexc.md 
+## src-fst-root-from-old-infra.lexc.md 
 
 
 
@@ -942,7 +942,7 @@ Derivations
 
 ---
 
-# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
+## src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
 
 
 
@@ -964,10 +964,10 @@ For example:
 
 ---
 
-# src-fst-transcriptions-transcriptor-numbers-digit2text.lexc.md 
+## src-fst-transcriptions-transcriptor-numbers-digit2text.lexc.md 
 
 
-# File containing Nenets numerals to cyphers 
+## File containing Nenets numerals to cyphers 
 
 - HUNDREDSM ; = 200M
 - 1:юрˮ HUNDREDM ; = 100M
@@ -996,26 +996,26 @@ For example:
 
 ---
 
-# tools-grammarcheckers-grammarchecker.cg3.md 
+## tools-grammarcheckers-grammarchecker.cg3.md 
 
 
 [ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
-# DELIMITERS
+## DELIMITERS
 
-# TAGS AND SETS
+## TAGS AND SETS
 
-## Tags
+### Tags
 
 This section lists all the tags inherited from the fst, and used as tags
 in the syntactic analysis. The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-### Beginning and end of sentence
+#### Beginning and end of sentence
 BOS
 EOS
 
-### Parts of speech tags
+#### Parts of speech tags
 
 N
 A
@@ -1042,7 +1042,7 @@ PUNCT
 COMMA
 ¶
 
-### Tags for POS sub-categories
+#### Tags for POS sub-categories
 
 Pers
 Dem
@@ -1058,7 +1058,7 @@ Allegro
 Arab
 Romertall
 
-### Tags for morphosyntactic properties
+#### Tags for morphosyntactic properties
 
 Nom
 Acc
@@ -1121,7 +1121,7 @@ VAbess
 
 Err/Orth
 
-### Semantic tags
+#### Semantic tags
 
 Sem/Act
 Sem/Ani
@@ -1154,7 +1154,7 @@ PROP-SUR
 
 TIME-N-SET
 
-###  Syntactic tags
+####  Syntactic tags
 
 @+FAUXV
 @+FMAINV
@@ -1224,22 +1224,22 @@ OBJ>-OTHERS
 SYN-V
 @X
 
-## Sets containing sets of lists and tags
+### Sets containing sets of lists and tags
 
 This part of the file lists a large number of sets based partly upon the tags defined above, and
 partly upon lexemes drawn from the lexicon.
 See the sourcefile itself to inspect the sets, what follows here is an overview of the set types.
 
-### Sets for Single-word sets
+#### Sets for Single-word sets
 
 INITIAL
 
-### Sets for word or not
+#### Sets for word or not
 
 WORD
 NOT-COMMA
 
-### Case sets
+#### Case sets
 
 ADLVCASE
 
@@ -1250,11 +1250,11 @@ NOT-NOM
 NOT-GEN
 NOT-ACC
 
-### Verb sets
+#### Verb sets
 
 NOT-V
 
-### Sets for finiteness and mood
+#### Sets for finiteness and mood
 
 REAL-NEG
 
@@ -1262,7 +1262,7 @@ MOOD-V
 
 NOT-PRFPRC
 
-### Sets for person
+#### Sets for person
 
 SG1-V
 SG2-V
@@ -1274,25 +1274,25 @@ PL1-V
 PL2-V
 PL3-V
 
-### Pronoun sets
+#### Pronoun sets
 
-### Adjectival sets and their complements
+#### Adjectival sets and their complements
 
-### Adverbial sets and their complements
+#### Adverbial sets and their complements
 
-### Sets of elements with common syntactic behaviour
+#### Sets of elements with common syntactic behaviour
 
-### NP sets defined according to their morphosyntactic features
+#### NP sets defined according to their morphosyntactic features
 
-### The PRE-NP-HEAD family of sets
+#### The PRE-NP-HEAD family of sets
 
 These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-### Border sets and their complements
+#### Border sets and their complements
 
-### Grammarchecker sets
+#### Grammarchecker sets
 
 * * *
 
@@ -1300,9 +1300,9 @@ expression **WORD - premodifiers**.
 
 ---
 
-# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
 
-# Tokeniser for kca
+## Tokeniser for kca
 
 Usage:
 ```
@@ -1348,7 +1348,7 @@ https://en.wikipedia.org/wiki/Cyrillic_script_in_Unicode, the
 so far:
 * U+F0B7 for "x in box"
 
-## Unknown handling
+### Unknown handling
 Unknowns are tagged ?? and treated specially with `hfst-tokenise`
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
@@ -1367,9 +1367,9 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
-# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
 
-# Grammar checker tokenisation for kca
+## Grammar checker tokenisation for kca
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
@@ -1432,9 +1432,9 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
-# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
 
-# TTS tokenisation for smj
+## TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
