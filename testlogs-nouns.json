@@ -1,0 +1,1 @@
+{"id":"nouns","kind":"lemma","failures":[{"lemma":"кося","no_generation":[],"wrong_generation":[{"expected":"кося+N+Sg+Nom","got":"косяй"},{"expected":"кося+N+Pl+Nom","got":"косяйăта"},{"expected":"кося+N+Pl+Nom","got":"косяйăтӑн"},{"expected":"кося+N+Pl+Nom","got":"косяйат"}],"analyses":[]}]}
